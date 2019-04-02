@@ -1,26 +1,35 @@
 ### BigTable Commands
 
-To list tables
-`gsutil ls`
+To list BigTable clusters  
+`gcloud bigtable clusters list`  
+
+To list BigTable instances  
+`gcloud bigtable instances list`  
+
+To create a BigTable cluster  
+`gcloud bigtable instances create [instance_id] --cluster=cluster-1 --display-name=[instance_name] --cluster-zone=us-west2-a --instance-type=DEVELOPMENT`  
+
+To get information about your instance  
+`gcloud bigtable instances describe [instance_name]`
+
+To configure your instance  
+`echo -e "project = [PROJECT_ID]\ninstance = [INSTANCE_ID]" > ~/.cbtrc`
 
 To create a table  
-`gsutil mb gs://[bucket_name]`  
-`gsutil mkdir gs://[bucket_name]`
+`cbt createtable [table_name]`  
 
-To put a file in a table  
-`gsutil cp test.txt gs://[bucket_name]`
+To view a list of tables  
+`cbt ls`  
 
-To rename a table  
-1. create a new bucket  
-2. copy files from old bucket into new bucket  
-`gsutil cp -r gs://[old_bucketname]/* gs://[new_bucket]` 
-3. delete old bucket  
-`gsutil rm -r gs://[bucket_name]`
+To add a column family  
+`cbt createfamily [table_name] [family_name]`  
+To view column a list of column families  
+`cbt ls [table_name]`  
+To delete a column family  
+`cbt deletefamily [table_name] [family_name]`
 
-To list table properties  
-`gsutil ls -L gs://[bucket_name]`  
-To list table permission  
-`gsutil acl get gs://[bucket_name]`
+To delete an instance  
+`cbt deleteinstance [instance_table]`  
 
-To list values in a table  
-`gsutil ls gs://[bucket_name]`
+To delete a cluster  
+`cbt deletecluster [cluster_name]`  
