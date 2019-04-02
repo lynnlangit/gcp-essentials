@@ -1,0 +1,5 @@
+{
+    "Artist": {"S": "Lorde"},
+    "SongTitle": {"S": "Supercut"},
+    "AlbumTitle": {"S": "Melodrama"}
+}

@@ -1,0 +1,5 @@
+{
+    "Artist": {"S": "Jack Johnson"},
+    "SongTitle": {"S": "Better Together"},
+    "AlbumTitle": {"S": "In Between Dreams"}
+}

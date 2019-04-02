@@ -1,0 +1,9 @@
+{
+	"name": "jane doe",
+	"address": {
+		"street": "1315 10th St B-27",
+		"city": "Sacramento",
+		"state": "CA",
+		"zip": "95814"
+	}
+}

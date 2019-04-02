@@ -1,0 +1,68 @@
+-- Linear regression — use to predict a numeric value
+-- The model is used to predict the combined three point field goal attempts based on the previous game statistics
+
+--#0 - Dataset and Tables
+-- CREATE a BigQuery dataset in the BQ console named 'bqml_tutorial' in 'US'
+-- CREATE two tables by copying `bigquery-public-data.ncaa_basketball.mbb_teams_games_sr` as `cume_games` & 'wide_games'
+
+-- #1 - Create and Train
+-- NOTES: must convert or remove TIMESTAMP columns, must replace NULL with 0 for label column
+#standardSQL
+    CREATE OR REPLACE MODEL `bqml_tutorial.ncaa_model` OPTIONS(
+  model_type='linear_reg', data_split_eval_fraction=0.1, max_iteration=50) AS
+SELECT
+  * EXCEPT(
+    game_id, season, scheduled_date,gametime
+    three_points_made,
+    three_points_att,
+    created),
+    IF(three_points_att IS NULL, 0, 1) AS label,
+FROM
+  `bqml_tutorial.wide_games`
+WHERE
+  # remove the game to predict
+  game_id != 'f1063e80-23c7-486b-9a5e-faa52beb2d83'
+
+--#2 - Monitor
+SELECT * FROM ML.TRAINING_INFO(MODEL `bqml_tutorial.ncaa_model`)
+
+--#3 - Evaluate
+WITH eval_table AS (
+  SELECT *,three_points_att AS label
+  FROM `bqml_tutorial.wide_games` )
+
+SELECT *
+FROM ML.EVALUATE(MODEL `bqml_tutorial.ncaa_model`,TABLE eval_table)
+
+--#4 - Predict
+WITH game_to_predict AS (
+  SELECT
+    *
+  FROM
+    `bqml_tutorial.wide_games`
+  WHERE
+    game_id='f1063e80-23c7-486b-9a5e-faa52beb2d83' )
+SELECT
+  truth.game_id AS game_id,
+  three_points_att,
+  predicted_total_three_points_att
+FROM (
+  SELECT
+    game_id,
+    predicted_label AS predicted_total_three_points_att
+  FROM
+    ML.PREDICT(MODEL `bqml_tutorial.ncaa_model`,
+      table game_to_predict) ) AS predict
+JOIN (
+  SELECT
+    game_id,
+    three_points_att AS total_three_points_att
+  FROM
+    game_to_predict) AS truth
+ON
+  predict.game_id = truth.game_id
+
+
+
+   
+  

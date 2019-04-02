@@ -1,0 +1,14 @@
+--  Multiclass logistic regression for classification — use to predict whether an input is a member of 2+ classes 
+--         such as whether an input is "low-value", "medium-value", or "high-value".
+
+    #standardSQL
+
+    CREATE MODEL `bqml_tutorial.multiLog_model` OPTIONS(model_type='logistic_reg',  auto_class_weights=true) AS
+    --NOTE: Can train logistic regression model with automatically calculated -OR- specified weights as shown below:
+    --CREATE MODEL ... OPTIONS ( model_type='logistic_reg', auto_class_weights=true ) AS...  --OR--
+    --CREATE MODEL ... OPTIONS ( model_type='logistic_reg', class_weights=[('label1', 0.5), ('label2', 0.3), ('label3', 0.2)]) AS...
+
+    SELECT ... FROM ... WHERE ...
+        
+   
+    
