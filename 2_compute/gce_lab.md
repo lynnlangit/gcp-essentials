@@ -1,26 +1,22 @@
 ### GCE Commands
 
 To list instances  
-`gsutil ls`
+`gcloud compute instances list`
 
 To create an instance  
-`gsutil mb gs://[bucket_name]`  
-`gsutil mkdir gs://[bucket_name]`
+`gcloud compute instances create [instance_name] --zone us-west2-a`  
 
-To SSH to an instance
-`gsutil cp test.txt gs://[bucket_name]`
+To desribe your instance  
+`gcloud compute instances describe [instance_name] --zone us-west2-a`
 
-To rename an instance  
-1. create a new bucket  
-2. copy files from old bucket into new bucket  
-`gsutil cp -r gs://[old_bucketname]/* gs://[new_bucket]` 
-3. delete old bucket  
-`gsutil rm -r gs://[bucket_name]`
+To SSH to an instance  
+`gcloud compute ssh [instance_name] --zone us-west2-a`
 
-To list instance properties  
-`gsutil ls -L gs://[bucket_name]`  
-To list instance permission  
-`gsutil acl get gs://[bucket_name]`
+To upload files into an instance  
+`gcloud compute scp .helloworld.txt [instance_name]:/home/[name] --zone us-west2-a`  
 
-To upload files into an instance
-`gsutil ls gs://[bucket_name]`
+To exit
+`exit`  
+
+To delete an instance  
+`gcloud compute instances delete [instance_name] --zone us-west2-a`
