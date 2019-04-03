@@ -10,7 +10,8 @@ To create a function
 `cd python-docs-samples/functions/helloworld/`  
 3. deploy the function  
 `gcloud functions deploy hello_get --runtime python37 --trigger-http --region=us-east1`  
-**note**: The function name must be the same as the function in the code in order for it to run (i.e. hello_get)
+**note**: The function name must be the same as the function in the code in order for it to run (i.e. hello_get).  
+**note**: Region defaults to us-central1 if no region is specified
 
 To list function properties  
 `gcloud functions describe [function_name]--region=us-east1`  
