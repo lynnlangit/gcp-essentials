@@ -16,21 +16,15 @@ To list the information about a VPC
 To add a running GCE instance to a VPC  
 Overview:  
     1. stop the original instance  
-    `gcloud compute instances stop [instance_name] --zone=[zone]`   
-    2. detatch the disk from the stopped instance  
+    `gcloud compute instances stop [instance_name] --zone=[zone]`
+    2. get a list of disks  
+    `gcloud compute disks list`     
+    3. detatch the disk from the stopped instance  
     `gcloud compute instances detach-disk [instance_name] --disk=[disk_name] --zone=[zone]`  
-    3. create a new instance  
+    4. create a new instance  
     `gcloud compute instances create [instance_name] --network=[network_name] --subnet=[subnet_name] --zone=[zone]`
-
-1. Get a list of disks  `gcloud compute disks list`  
-2. Stop the VM  
-`gcloud compute instances stop [instance_name]`  
-3. 
-1. Create the GCE instance and add it to an existing VPC
-
-To move a running GCE instance to a differentVPC
-1. Alter the GCE instance and move it to a new existing VPC
-*not sure if this is possible, think it is
+    5. delete the old instance  
+    `gcloud compute instances delete [old_instance_name] --zone=[zone]`
 
 To delete a VPC 
 `gcloud compute networks delete [network_name]`
