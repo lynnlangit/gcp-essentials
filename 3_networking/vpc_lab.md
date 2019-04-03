@@ -1,16 +1,31 @@
 ### VPC Commands
 
 To list VPCs  
-`gsutil ls`
+`gcloud compute networks list`
 
 To create a VPC  
-`gsutil mb gs://[bucket_name]`  
-`gsutil mkdir gs://[bucket_name]`
+`gcloud compute networks create [network_name] --subnet-mode=auto --bgp-routing-mode=[dynamic_routing_mode]`  
+**note**: Example: `gcloud compute networks create my-network --subnet-mode=auto --bgp-routing-mode=regional`  
 
 To list the subnets in a VPC
-`gsutil cp test.txt gs://[bucket_name]`
+`gcloud compute networks subnets list`
 
-To add a running GCE instance to a VPC
+To list the information about a VPC  
+`gcloud compute networks describe [network_name]`  
+
+To add a running GCE instance to a VPC  
+Overview:  
+    1. stop the original instance  
+    `gcloud compute instances stop [instance_name] --zone=[zone]`   
+    2. detatch the disk from the stopped instance  
+    `gcloud compute instances detach-disk [instance_name] --disk=[disk_name] --zone=[zone]`  
+    3. create a new instance  
+    `gcloud compute instances create [instance_name] --network=[network_name] --subnet=[subnet_name] --zone=[zone]`
+
+1. Get a list of disks  `gcloud compute disks list`  
+2. Stop the VM  
+`gcloud compute instances stop [instance_name]`  
+3. 
 1. Create the GCE instance and add it to an existing VPC
 
 To move a running GCE instance to a differentVPC
@@ -18,7 +33,7 @@ To move a running GCE instance to a differentVPC
 *not sure if this is possible, think it is
 
 To delete a VPC 
-`gsutil ls gs://[bucket_name]`
+`gcloud compute networks delete [network_name]`
 
 
 
