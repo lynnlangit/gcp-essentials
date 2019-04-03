@@ -1,4 +1,4 @@
-# Setup for GCP ML
+# Setup for GCP
 
 ## General GCP Account Setup
 
@@ -42,6 +42,7 @@ GCP Services enabled by default:
  - GCS, GCE, BigQuery, Kubernetes  
 
  Must be explicitly enabled:
+ - Others...
  - Vision API, Video API, Natural Language API, Speech API, Translation API, Dialogflow
  - Cloud Machine Learning Engine
  - Cloud TPU
