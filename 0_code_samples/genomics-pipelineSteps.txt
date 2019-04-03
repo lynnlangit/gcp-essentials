@@ -1,0 +1,40 @@
+0. Produce data --> upload to GCS
+    Sequence into BAM/BAM + VCF files
+    Upload to GCS
+1. Select data --> load into Google Genomics
+    Discoved published data
+    Load variant data
+2. Process data --> use one or more GCE instances
+    Run parallel workflows
+        Use Grid Engine with Preemptible VMs
+            Run SAMtools to index BAM files into GCS
+            Compress files into GCS
+    Run Galaxy on GCE
+        Run BLAST on GCE
+        Run Bioconductor on GCE
+        Run iPython notebooks on GCE
+3. Access data --> use GAE 
+    View using IGV or GABrowse on GAE
+    Use via Picard/GATK or Bioconductor
+    Use via R, Python, Java or Go
+4. Analyze data --> use GCE and/or Big Query
+    Analyze Reads using GCP Dataflow/GCE instances
+    Analyze Variants using Big Query
+    Annotate Variants   
+    Do QC checks
+    Conpute linkage disequilibrium
+---------------------------------------------------------
+Pipelines
+    Hadoop Streaming Pipeline
+    Cloud Dataflow Pipeline
+    Apache Spark Pipeline
+    Combination Pipeline
+
+BigQuery
+    Ad hoc queries
+    Script-enhanced queries, i.e. Python
+    BG Pipelines
+
+Deployments
+    YAML configuation files to deploy and manage GCP components
+    Samples - https://github.com/GoogleCloudPlatform/deploymentmanager-samples

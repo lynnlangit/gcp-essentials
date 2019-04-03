@@ -1,0 +1,19 @@
+These are the manual steps to set up your first GCE Virtual Machine w/Galaxy using the Google Cloud console
+
+1. Login in to Google Cloud console with your login (usually your gmail account)
+2. Create a GCE Image from 'planemo' base image
+     ---set the source to 'galaxyproject_images/planemo_machine_smc.06.image.tar.gz'
+     ---create in the GCP zone closest to you
+3. Create a GCE instance from your custom image (#2) with these settings
+     ---name your instance 'hello-gene'
+     ---create in the same GCP zone as you created the custom image in #2
+     ---size to 30 GB for the OS disk (default is 10 GB)
+     ---enable http/https traffic (off by default, check the check boxes
+     ---add a persistant disk of 300 GB for your data (can save even if you delete your GCE instance)
+4. CONNECT TO GALAXY on your GCE VM ('hello-gene')
+    ----find the public IP of 'hello-gene', open http://<public ip of 'hello-gene'>, you should see Galaxy in your browser
+    ----login to Galaxy with Username: planemo and Password: planemo
+
+NOTE: You can pause (stop) your GCE instance when not in use to save money
+
+TIP: to restart Galaxy - SSH to your GCE instance and type 'restart_galaxy' at the prompt
