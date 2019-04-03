@@ -25,7 +25,7 @@ example:
 
 To trigger a function based on file uploaded into a bucket  
 1. create a function that uses the trigger type: google.storage.object.finalize  
-   1. make sure you're in the home directory
+   1. make sure you're in the home directory  
       `cd`  
    2. change to the gcs python functions directory  
       `cd python-docs-samples/functions/gcs`  
