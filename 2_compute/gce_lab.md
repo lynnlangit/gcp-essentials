@@ -12,8 +12,11 @@ To desribe your instance
 To SSH to an instance  
 `gcloud compute ssh [instance_name] --zone us-west2-a`
 
-To upload files into an instance  
+To upload files into an instance (local)  
 `gcloud compute scp .helloworld.txt [instance_name]:/home/[name] --zone us-west2-a`  
+
+To view file  
+`cd /home/[name] && cat helloworld.txt`  
 
 To exit
 `exit`  
