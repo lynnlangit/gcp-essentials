@@ -1,0 +1,19 @@
+{
+    "bindings":[
+      {
+        "members":[
+          "user:user-1@gmail.com"
+        ],
+        "role":"roles/owner"
+      },
+      {
+        "members":[
+          "serviceAccount:service-account-13@appspot.gserviceaccount.com",
+          "user:user-2@gmail.com"
+        ],
+        "role":"roles/editor"
+      }
+    ],
+    "etag":"BwUjMhCsNvY=",
+    "version":1
+  }
