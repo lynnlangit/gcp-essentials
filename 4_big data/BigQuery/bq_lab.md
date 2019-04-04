@@ -9,7 +9,7 @@ To create a dataset from a .csv or .txt file (please use a file from the (y_samp
 2. Upload data to the dataset (cd into the sample data folder [local]) 
 `bq load --source_format=CSV transactions.SalesJan2009 ./0_SalesJan2009.csv ./0_SalesJan2009.json`  
 
-To create a query cost estimate (plan)  
+To create a query cost estimate (plan - number of bytes output)  
 `bq query --use_legacy_sql=false --dry_run 'SELECT * FROM `[project_name].[dataset_name].[table_name]` LIMIT 10'`  
 
 To execute a query  
