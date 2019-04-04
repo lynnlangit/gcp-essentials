@@ -2,11 +2,11 @@
 
 NOTE: There is a walkthrough on GCP console (right side button, just copy code from there)
 
-list a pubsub topics
+To list a pubsub topics
+`gcloud pubsub topics list`
 
-
-create pubsub topic
-
+To create pubsub topic
+`gcloud pubsub topics create [topic_name]`
 
 publish 3 messages into the topic queue
 
