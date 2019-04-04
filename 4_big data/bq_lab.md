@@ -1,21 +1,20 @@
 ### BQ Commands
 
-list a public dataset structure (1000 genomes)
-bq 
+To list a public dataset structure (1000 genomes)  
+`bq ls genomics-public-data:1000_genomes`  
 
-create a dataset from a .csv or .txt file (please use a file from the (0_sample_data folder)
-bq
+To create a dataset from a .csv or .txt file (please use a file from the (y_sample_data folder)
+1. Create a new dataset  
+`bq mk [dataset_name]`  
+2. Upload data to the dataset (cd into the sample data folder [local]) 
+`bq load --source_format=CSV transactions.SalesJan2009 ./0_SalesJan2009.csv ./0_SalesJan2009.json`  
 
-create a query cost estimate (plan)
-bq
+To create a query cost estimate (plan)  
+`bq query --use_legacy_sql=false --dry_run 'SELECT * FROM `[project_name].[dataset_name].[table_name]` LIMIT 10'`
 
-execute a query
-bq
+To execute a query  
+`bq query --use_legacy_sql=false 'SELECT * FROM `[project_name].[dataset_name].[table_name]` LIMIT 10'`  
 
-list a query execution plan
-bq
-
-view a query cost
-bq
-
-
+To view a query cost  
+1. Get the total amount of bytes of data will be used through the use of --dry_run
+2. Input the total number of bytes into `cloud.google.com/products/calculator`

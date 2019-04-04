@@ -1,0 +1,12 @@
+[{"name": "ITransaction_date", "type": "string"},
+  {"name": "Product", "type": "string"},
+  {"name": "Price", "type": "string"},
+  {"name": "Payment_Type", "type": "string"},
+  {"name": "Name", "type": "string"},
+  {"name": "City", "type": "string"},
+  {"name": "State", "type": "string"},
+  {"name": "Country", "type": "string"},
+  {"name": "Account_Created", "type": "string"},
+  {"name": "Last_Login", "type": "string"},
+  {"name": "Latitude", "type": "string"},
+  {"name": "Longitude", "type": "string"}]
