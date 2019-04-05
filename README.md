@@ -3,7 +3,7 @@ This repository contains sample code and scripts for working with Google Cloud P
 
 For code samples for GCP machine learning see this repository: https://github.com/lynnlangit/gcp-ml
 
-This repository is designed to be used in conjunction with the LinkedIn courses: "GCP Essentials" & "GCP Enterprise Essentials"
+This repository is designed to be used in conjunction with the LinkedIn course: "GCP Essentials"
 
 Examples use the GPC scripting tools (gcloud, gsutil, bq...) and sometimes also Python.  
 
