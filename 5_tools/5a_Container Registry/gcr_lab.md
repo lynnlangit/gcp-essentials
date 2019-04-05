@@ -2,18 +2,25 @@
 
 see this -- https://cloud.google.com/container-registry/docs/quickstart
 
-To list GCRs  
-`gsutil ls`
+Prereqs:
+--enable the GCR API
+--install Docker and verify
+`docker run busybox date` (should return time/date)
 
-To create a GCR  
-`gsutil mb gs://[bucket_name]`  
-`gsutil mkdir gs://[bucket_name]`
+To build the example docker image  
+`docker build -t quickstart-image .`
 
-To publsh a docker image into GCR 
-    (build the lynnlangit\blastn-jupyter docker image from dockerhub locally, then push to GCR)
-`gsutil cp test.txt gs://[bucket_name]`
+To configure docker to use gcloud
+`gcloud auth configure-docker`
 
-To pull an image from GCR and run GKE
+To tag your image
+`docker tag quickstart-image gcr.io/[PROJECT-ID]/quickstart-image:tag1`
 
-To verify permissions on a GCR image
-`gsutil ls gs://[bucket_name]`
+To push a docker image into GCR 
+`docker push gcr.io/[PROJECT-ID]/quickstart-image:tag1`
+
+To pull an image from GCR (can run on GCE or GKE)
+`docker pull gcr.io/[PROJECT-ID]/quickstart-image:tag1`
+
+To clean up
+`gcloud container images delete gcr.io/[PROJECT-ID]/quickstart-image:tag1 --force-delete-tags`

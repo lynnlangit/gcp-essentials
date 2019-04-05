@@ -1,5 +1,5 @@
-# Set up RDS instance 
-# 1. Manually setup single node dev edition RDS with MySQL all defaults and with public access
+# Set up MySQL instance 
+# 1. Manually setup single node dev edition with MySQL all defaults and with public access
 
 # Get Client
 # 2. download 14-day trial Navicat 
