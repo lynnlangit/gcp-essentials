@@ -31,7 +31,7 @@ To rename a service account
 
 ------
 
-From - https://cloud.google.com/iam/docs/granting-changing-revoking-access#iam-get-policy-gcloud
+From - https://cloud.google.com/iam/docs/granting-changing-revoking-access#iam-get-policy-gcloud  
 
 To get the policy for the project my-project in JSON format and save it to the user's home directory.  
 `gcloud projects get-iam-policy my-project --format json > ~/policy.json`  
