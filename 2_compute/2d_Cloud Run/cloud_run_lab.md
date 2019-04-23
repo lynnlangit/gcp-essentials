@@ -1,10 +1,11 @@
-### CloudRun Commands  
+### Cloud Run Commands  
 
 From - https://cloud.google.com/run/docs/quickstarts/build-and-deploy  
+NOTE: This service is BETA currently  
 
-To update gcloud
-`gcloud components install beta`
-`gcloud components update`
+To update gcloud  
+`gcloud components install beta`  
+`gcloud components update`  
 
 To create the sample application  
 `mkdir helloworld-python`
@@ -14,6 +15,7 @@ To build locally and push using Docker
 `docker build . --tag gcr.io/[PROJECT-ID]/[IMAGE]`  
 NOTE: requires config Docker to use GCR  
 `gcloud auth configure-docker`  
+
 To push to GCR from local build  
 `docker push gcr.io/[PROJECT-ID]/[IMAGE]`  
 
