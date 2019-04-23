@@ -4,6 +4,9 @@ Use this -- https://cloud.google.com/iam/docs/quickstart
 Graphics & Terms -- https://cloud.google.com/iam/docs/overview  
 gcloud iam ref -- https://cloud.google.com/sdk/gcloud/reference/iam/
 
+Note:  
+`gloud iam...` -or- `gloud iam alpha` -or- `gloud iam beta`
+
 To list iam users  
 `gcloud iam...`  
 To create an iam user  
