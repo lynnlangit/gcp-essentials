@@ -1,4 +1,4 @@
-# Setup for GCP
+# Setup for Enterprise GCP Account
 
 ## Enterprise GCP Account Setup
 
