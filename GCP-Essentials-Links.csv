@@ -1,31 +1,18 @@
 GCP Essentials Links, link  
 GCP-Essentials GitHub, https://github.com/lynnlangit/gcp-essentials 
 GCP Migration, https://cloud.google.com/solutions/migration-center/ 
-
-GCP VM Migration - https://cloud.google.com/vm-migrate/
-
-GCP VM Best Practices for Migrations - https://cloud.google.com/solutions/best-practices-migrating-vm-to-compute-engine
-
-Anthos concepts - https://cloud.google.com/anthos/docs/concepts/anthos-overview
-
-GCE Image Mangement Best Practices - https://cloud.google.com/solutions/image-management-best-practices
-
-Create GCE Images - https://cloud.google.com/compute/docs/images/create-delete-deprecate-private-images#creating_a_custom_image
-
-GCE Image Management - https://cloud.google.com/compute/docs/images/export-image
-
-GCP Serverless summary - https://cloud.google.com/serverless/whitepaper/
-
-GCP Disaster Recovery Planning Guide - https://cloud.google.com/solutions/dr-scenarios-planning-guide
-
-GCP DR Building Blocks - https://cloud.google.com/solutions/dr-scenarios-building-blocks
-
-Build a Data Warehouse on GCP - https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
-
-CI/CD Pipeline - 
-Drift Detection - 
-
-Cloud Foundation Toolkit - https://cloud.google.com/foundation-toolkit/
-
-Enterprise IoT Application - 
-Genomics Data Pipelines - 
+GCP VM Migration, https://cloud.google.com/vm-migrate/
+GCP VM Best Practices for Migrations, https://cloud.google.com/solutions/best-practices-migrating-vm-to-compute-engine
+Anthos concepts, https://cloud.google.com/anthos/docs/concepts/anthos-overview
+GCE Image Mangement Best Practices, https://cloud.google.com/solutions/image-management-best-practices
+Create GCE Images, https://cloud.google.com/compute/docs/images/create-delete-deprecate-private-images#creating_a_custom_image
+GCE Image Management, https://cloud.google.com/compute/docs/images/export-image
+GCP Serverless summary, https://cloud.google.com/serverless/whitepaper/
+GCP Disaster Recovery Planning Guide, https://cloud.google.com/solutions/dr-scenarios-planning-guide
+GCP DR Building Blocks, https://cloud.google.com/solutions/dr-scenarios-building-blocks
+Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
+CI/CD Pipeline, 0
+Drift Detection, 0
+Cloud Foundation Toolkit, https://cloud.google.com/foundation-toolkit/
+Enterprise IoT Application, 0
+Genomics Data Pipelines, 0
