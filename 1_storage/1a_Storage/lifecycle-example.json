@@ -1,0 +1,20 @@
+{
+    "lifecycle": {
+      "rule": [
+      {
+        "action": {"type": "Delete"},
+        "condition": {
+          "age": 30,
+          "isLive": true
+        }
+      },
+      {
+        "action": {"type": "Delete"},
+        "condition": {
+          "age": 10,
+          "isLive": false
+        }
+      }
+    ]
+    }
+    }
