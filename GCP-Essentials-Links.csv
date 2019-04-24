@@ -23,6 +23,8 @@ DW, BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-d
 DW, Build a Marketing DW on BQ, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
 DW, BigQuery Cookbook, https://support.google.com/analytics/answer/4419694?hl=en
 DW, BQ Machine Learning, https://cloud.google.com/bigquery/docs/bigqueryml-intro
+DW, Data Fusion, https://cloud.google.com/data-fusion/concepts/overview
+DW, Data Fusion Tutorial, https://cloud.google.com/data-fusion/tutorials/targeting-campaign-pipeline
 CI/CD, Private Catalog, https://cloud.google.com/private-catalog/docs/quickstart-private-catalog
 CI/CD, CI/CD Pipeline, https://cloud.google.com/docs/ci-cd/
 CI/CD, Terraform on GCP, https://www.terraform.io/docs/providers/google/index.html
