@@ -1,5 +1,6 @@
 Area, GCP Essentials Links, link  
 All, GCP-Essentials GitHub, https://github.com/lynnlangit/gcp-essentials 
+All, How to Visualize GCP Billing Data, https://cloud.google.com/billing/docs/how-to/visualize-data
 GCE, GCP Lift and Shift, https://cloud.google.com/files/Lift-and-Shift-onto-Google-Cloud.pdf 
 GCE, GCP Migration, https://cloud.google.com/solutions/migration-center/ 
 GCE, GCP VM Migration, https://cloud.google.com/vm-migrate/
@@ -19,11 +20,15 @@ DR, Secrets Management with Cloud KMS, https://cloud.google.com/kms/docs/secret-
 DR, Live Migration, https://cloud.google.com/compute/docs/instances/live-migratation
 DW, Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
 DW, BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-data-warehouse
-DW, Build a Data Lake, https://cloud.google.com/solutions/build-a-data-lake-on-gcp
+DW, Build a Marketing DW on BQ, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
+DW, BigQuery Cookbook, https://support.google.com/analytics/answer/4419694?hl=en
+DW, BQ Machine Learning, https://cloud.google.com/bigquery/docs/bigqueryml-intro
 CI/CD, Private Catalog, https://cloud.google.com/private-catalog/docs/quickstart-private-catalog
 CI/CD, CI/CD Pipeline, https://cloud.google.com/docs/ci-cd/
 CI/CD, Terraform on GCP, https://www.terraform.io/docs/providers/google/index.html
 CI/CD, Cloud Foundation Toolkit, https://cloud.google.com/foundation-toolkit/
+Data, Build a Data Lake, https://cloud.google.com/solutions/build-a-data-lake-on-gcp
+Data, Data Lifecycle, https://cloud.google.com/solutions/data-lifecycle-cloud-patterns
 Data, Cloud Composer / Apache Airflow, https://www.youtube.com/watch?v=gFQVmsRRY_A
 Data, Enterprise IoT Application, https://codelabs.developers.google.com/codelabs/iot-data-pipeline/index.html?index=..%2F..index#0
 Data, Genomics Data Pipelines, https://cloud.google.com/genomics/docs/quickstart
