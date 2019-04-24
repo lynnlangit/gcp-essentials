@@ -15,6 +15,8 @@ GKE, Kubernetes Comic, https://cloud.google.com/kubernetes-engine/kubernetes-com
 GKE, Cloud Run on GKE, https://cloud.google.com/run/docs/gke/setup
 DR, GCP Disaster Recovery Planning Guide, https://cloud.google.com/solutions/dr-scenarios-planning-guide
 DR, GCP DR Building Blocks, https://cloud.google.com/solutions/dr-scenarios-building-blocks
+DR, Secrets Management with Cloud KMS, https://cloud.google.com/kms/docs/secret-management
+DR, Live Migration, https://cloud.google.com/compute/docs/instances/live-migratation
 DW, Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
 DW, BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-data-warehouse
 DW, Build a Data Lake, https://cloud.google.com/solutions/build-a-data-lake-on-gcp
