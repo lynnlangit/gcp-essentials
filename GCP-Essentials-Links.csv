@@ -29,6 +29,7 @@ CI/CD, Private Catalog, https://cloud.google.com/private-catalog/docs/quickstart
 CI/CD, CI/CD Pipeline, https://cloud.google.com/docs/ci-cd/
 CI/CD, Terraform on GCP, https://www.terraform.io/docs/providers/google/index.html
 CI/CD, Cloud Foundation Toolkit, https://cloud.google.com/foundation-toolkit/
+CI/CD, Using Kaniko Cache with Cloud Build, https://cloud.google.com/cloud-build/docs/kaniko-cache
 Data, Build a Data Lake, https://cloud.google.com/solutions/build-a-data-lake-on-gcp
 Data, Data Lifecycle, https://cloud.google.com/solutions/data-lifecycle-cloud-patterns
 Data, Cloud Composer / Apache Airflow, https://www.youtube.com/watch?v=gFQVmsRRY_A
