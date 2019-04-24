@@ -16,9 +16,12 @@ GKE, Cloud Run on GKE, https://cloud.google.com/run/docs/gke/setup
 DR, GCP Disaster Recovery Planning Guide, https://cloud.google.com/solutions/dr-scenarios-planning-guide
 DR, GCP DR Building Blocks, https://cloud.google.com/solutions/dr-scenarios-building-blocks
 DW, Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
+DW, BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-data-warehouse
+DW, Build a Data Lake, https://cloud.google.com/solutions/build-a-data-lake-on-gcp
 CI/CD, Private Catalog, https://cloud.google.com/private-catalog/docs/quickstart-private-catalog
 CI/CD, CI/CD Pipeline, https://cloud.google.com/docs/ci-cd/
 CI/CD, Terraform on GCP, https://www.terraform.io/docs/providers/google/index.html
 CI/CD, Cloud Foundation Toolkit, https://cloud.google.com/foundation-toolkit/
+Data, Cloud Composer / Apache Airflow, https://www.youtube.com/watch?v=gFQVmsRRY_A
 Data, Enterprise IoT Application, https://codelabs.developers.google.com/codelabs/iot-data-pipeline/index.html?index=..%2F..index#0
 Data, Genomics Data Pipelines, https://cloud.google.com/genomics/docs/quickstart
