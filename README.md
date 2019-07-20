@@ -1,7 +1,9 @@
 # GCP Essentials Examples
+
 This repository contains sample code and scripts for working with Google Cloud Platform services. Included technologies are for storage, database, big data and more.  
 
-For code samples for GCP machine learning see this repository: https://github.com/lynnlangit/gcp-ml
+ - **GCP-ML** --> For code samples for GCP machine learning see this repository: https://github.com/lynnlangit/gcp-ml
+- **GCP-for-Bioinformatics** --> For links, screencasts or jupyter notebooks for bioinformatics use cases, see: https://github.com/lynnlangit/gcp-for-bioinformatics
 
 This repository is designed to be used in conjunction with the LinkedIn Learning course: "GCP Essentials"
 
