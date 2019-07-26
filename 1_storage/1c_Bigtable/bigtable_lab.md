@@ -3,12 +3,12 @@
 https://cloud.google.com/bigtable/docs/quickstart-cbt
 
 To install CBT tool
-`gcloud components update`
+`gcloud components update`  
 `gcloud components install cbt`
 
-To config .cbtrc file
-`echo project = [PROJECT_ID] > ~/.cbtrc`
-`echo instance = quickstart-instance >> ~/.cbtrc`
+To create & config .cbtrc file  
+pattern: `echo project = [PROJECT_ID] > ~/.cbtrc`  
+example: `echo instance = quickstart-instance >> ~/.cbtrc`
 
 To list BigTable clusters  
 `gcloud bigtable clusters list`  
@@ -23,26 +23,26 @@ To get information about your instance
 `gcloud bigtable instances describe [instance_name]`
 
 To create a table  
-`cbt createtable [table_name]`  
-`cbt createtable my-table`
+pattern: `cbt createtable [table_name]`  
+example: `cbt createtable my-table`
 
 To view a list of tables  
 `cbt ls`  
 
 To add a column family  
-`cbt createfamily [table_name] [family_name]`  
-`cbt createfamily my-table cf1`
+pattern: `cbt createfamily [table_name] [family_name]`  
+example: `cbt createfamily my-table cf1`
 
-To view column a list of column families  
-`cbt ls [table_name]`  
+To view column a list of column families    
+pattern: `cbt ls [table_name]`  
 
-To put a test value
+To put a test value  
 `cbt set my-table r1 cf1:c1=test-value`
 
-To read a test value
+To read a test value  
 `cbt read my-table`
 
-To delete a column family  
+To delete a column family    
 `cbt deletefamily [table_name] [family_name]`
 
 To delete an instance  
