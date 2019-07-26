@@ -2,7 +2,7 @@
 
 https://cloud.google.com/bigtable/docs/quickstart-cbt
 
-To install CBT tool
+To install CBT tool  
 `gcloud components update`  
 `gcloud components install cbt`
 
@@ -37,16 +37,16 @@ To view column a list of column families
 pattern: `cbt ls [table_name]`  
 
 To put a test value  
-`cbt set my-table r1 cf1:c1=test-value`
+example: `cbt set my-table r1 cf1:c1=test-value`
 
 To read a test value  
-`cbt read my-table`
+example: `cbt read my-table`
 
 To delete a column family    
-`cbt deletefamily [table_name] [family_name]`
+pattern: `cbt deletefamily [table_name] [family_name]`
 
 To delete an instance  
-`cbt deleteinstance [instance_table]`  
+pattern: `cbt deleteinstance [instance_table]`  
 
 To delete a cluster  
-`cbt deletecluster [cluster_name]`  
+pattern: `cbt deletecluster [cluster_name]`  
