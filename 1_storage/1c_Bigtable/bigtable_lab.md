@@ -22,9 +22,10 @@ To create a BigTable cluster
 To get information about your instance  
 `gcloud bigtable instances describe [instance_name]`
 
+NOTE: if `-creds flag unset` add `-instance... param`
 To create a table  
 pattern: `cbt createtable [table_name]`  
-example: `cbt createtable my-table`
+example: `cbt -instance [instance_name] createtable my-table`
 
 To view a list of tables  
 `cbt ls`  
