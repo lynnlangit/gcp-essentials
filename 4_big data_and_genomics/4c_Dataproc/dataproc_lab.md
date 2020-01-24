@@ -6,7 +6,7 @@ To create a cluster
 To submit an example pyspark job  
 `gcloud dataproc jobs submit spark --cluster example-cluster \`  
 ` --class org.apache.spark.examples.SparkPi \`  
-`  --jars file:///usr/lib/spark/examples/jars/spark-examples.jar`   
+`  --jars file:///usr/lib/spark/examples/jars/spark-examples.jar \`   
 `  --1000 `
 
 To update a cluster  
@@ -14,10 +14,6 @@ To update a cluster
 
 To delete a cluster   
 `gcloud dataproc clusters delete example-cluster`  
-
-To delete associated GCS buckets    
-`gsutil rm gs://bucket/subdir/**` 
- 
 
 To create a cluster and install a Jupyter Notebook  
 `gcloud dataproc clusters create cluster-name --project project-id --bucket bucket-name \`
