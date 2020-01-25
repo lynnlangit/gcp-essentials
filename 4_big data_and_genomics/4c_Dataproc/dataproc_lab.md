@@ -3,7 +3,7 @@
 To create a cluster    
 `gcloud dataproc clusters create example-cluster`  
 
-To submit an example pyspark job  
+To submit an example pyspark job that calculates digits of pi 
 `gcloud dataproc jobs submit spark --cluster example-cluster \`  
 ` --class org.apache.spark.examples.SparkPi \`  
 `  --jars file:///usr/lib/spark/examples/jars/spark-examples.jar \`   
