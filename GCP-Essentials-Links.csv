@@ -24,6 +24,7 @@ DR, Live Migration, https://cloud.google.com/compute/docs/instances/live-migrata
 DW, Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
 DW, BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-data-warehouse
 DW, Build a Marketing DW on BQ, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
+DW, BigQuery Metadata Queries, https://medium.com/google-cloud/bigquery-dataset-metadata-queries-8866fa947378
 DW, BigQuery Cookbook, https://support.google.com/analytics/answer/4419694?hl=en
 DW, BQ Machine Learning, https://cloud.google.com/bigquery/docs/bigqueryml-intro
 DW, Data Fusion, https://cloud.google.com/data-fusion/concepts/overview
