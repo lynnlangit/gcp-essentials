@@ -3,12 +3,10 @@
 Note:  
 `gloud iam...` -or- `gloud iam alpha` -or- `gloud iam beta`
 
-To list iam users  
-`gcloud iam...`  
-To create an iam user  
-`gcloud iam...`  
-To list permissions for a pre-built iam role (i.e. 'owner'....)  
-`gcloud iam...`
+To list all iam roles  
+`gcloud iam roles list`  
+To list custom iam roles for a project  
+`gcloud iam roles list --project [projectName]`  
 
 To assign a pre-built role to an iam user
 1. create a new bucket  
@@ -18,9 +16,7 @@ To assign a pre-built role to an iam user
 `gsutil rm -r gs://[bucket_name]`
 
 To verify your gcloud init settings, i.e. 'gcloud init...'  
-`gcloud iam...`  
-To create a new gcloud instance profile  
-`gcloud iam...`
+`gcloud init...`  
 
 To create a service account  
 `gcloud iam service-accounts create [SA-NAME] --display-name "[SA-DISPLAY-NAME]"`  
