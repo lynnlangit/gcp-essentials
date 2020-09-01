@@ -8,5 +8,5 @@ For Big Data
 
 For Healthcare, Genomics and Bioinformatics
 
-![GCP Analytics Choices](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/healthcare-choices.png)
+![GCP Healthcare Choices](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/healthcare-choices.png)
 
