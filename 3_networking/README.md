@@ -2,7 +2,7 @@
 
 For Networking
 
-![GCP Network Choices](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/network-choices.png)
+![GCP Network Choices](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/networking-choices.png)
 
 ## Security Choices
 
