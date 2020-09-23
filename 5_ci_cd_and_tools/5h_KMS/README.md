@@ -1,6 +1,8 @@
 #  Cloud KMS
 
-Key Management Service for/from GCP  
+Key Management Service for/from GCP 
+
+![KMS on GCP](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/kms.png)
 
 ## Resources
 
