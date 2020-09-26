@@ -1,17 +1,19 @@
 # GCP Compute Choices
 
 First, you'll need to decide which object you want to work with - choices are
-- Virtual Machines (VMs)
-- Containers (usually Docker containers, can by other types, i.e. Singularity...)
-- Functions (also called Serverless, sometimes called lambdas)
+- **Virtual Machines** (VMs)
+- **Containers** (usually Docker containers, can by other types, i.e. Singularity...)
+- **Functions** (also called Serverless, sometimes called lambdas)
 
 Second, you need to determine how you'd like to orchestrate scaling for your objects - choices include
-- You do all of it (you use scripts, tools, 3rd party products)
+- You do **all** of it (you use scripts, tools, 3rd party products)
   - example: you manage a cluster of GCE VMs
-- You do part of it (you use or extend GCP patterns, scripts, or services)
+- You do **some** of it (you use or extend GCP patterns, scripts, or services)
   - example: you configure a GKE (Kubernetes) cluster of Docker container images
-- GCP does it (you use GCP services)
+- You do **none** of it -> GCP does it (you use GCP services)
   - example: you configure and deploy Cloud Functions
+  
+ ---
 
 ## Compute Choices
 
