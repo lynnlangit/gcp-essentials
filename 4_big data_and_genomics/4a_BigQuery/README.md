@@ -1,6 +1,7 @@
 # BigQuery Links
 
 - Useful introductory BigQuery article - [link](https://medium.com/google-cloud/bigquery-explained-querying-your-data-9e017f2714a3)
+- BigQuery JOINS -[link](https://medium.com/google-cloud/bigquery-explained-working-with-joins-nested-repeated-data-1941646ccb5b)
 - BigQuery for Data Warehousing - [link](https://cloud.google.com/solutions/bigquery-data-warehouse)
 - Build a Marketing DW on BQ - [link](https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp)
 - BigQuery Metadata Queries - [link](https://medium.com/google-cloud/bigquery-dataset-metadata-queries-8866fa947378)
