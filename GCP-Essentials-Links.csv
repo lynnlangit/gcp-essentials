@@ -31,6 +31,7 @@ DW, Data Fusion, https://cloud.google.com/data-fusion/concepts/overview
 DW, Data Fusion Tutorial, https://cloud.google.com/data-fusion/tutorials/targeting-campaign-pipeline
 CI/CD, Private Catalog, https://cloud.google.com/private-catalog/docs/quickstart-private-catalog
 CI/CD, CI/CD Pipeline, https://cloud.google.com/docs/ci-cd/
+CI/CD, GCP Build Packs, https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-now-supports-buildpacks
 CI/CD, Terraform on GCP, https://www.terraform.io/docs/providers/google/index.html
 CI/CD, Cloud Foundation Toolkit, https://cloud.google.com/foundation-toolkit/
 CI/CD, CD with Cloud Build Codelab, https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-deploy/index.html#0
