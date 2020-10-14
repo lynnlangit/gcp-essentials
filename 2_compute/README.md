@@ -13,6 +13,10 @@ Second, you need to determine how you'd like to orchestrate scaling for your obj
 - You do **none** of it -> GCP does it (you use GCP services)
   - example: you configure and deploy Cloud Functions
   
+ Shown below is a grid which compares the capabilities of GCP compute services - from this [link](https://cloud.google.com/hosting-options#hosting-options)
+  
+![GCP Compute Grid](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/compute-grid.png)
+  
  ---
 
 ## Compute Choices
