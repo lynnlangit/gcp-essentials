@@ -1,0 +1,10 @@
+- getMessage:
+    call: http.post
+    args:
+        url: https://www.example.com/endpoint
+        body:
+            someVal: "Hello World"
+            anotherVal: 123
+    result: theMessage
+- returnValue:
+    return: ${theMessage.body}

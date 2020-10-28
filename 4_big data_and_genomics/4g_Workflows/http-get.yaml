@@ -1,0 +1,12 @@
+- getMessage:
+    call: http.get
+    args:
+        url: https://www.example.com/endpoint
+        headers:
+            Content-Type: "text/plain"
+        query:
+            someVal: "Hello World"
+            anotherVal: 123
+    result: theMessage
+- returnValue:
+    return: ${theMessage.body}
