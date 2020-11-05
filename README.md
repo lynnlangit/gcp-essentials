@@ -1,6 +1,6 @@
-# GCP Essentials Course Script Examples
+# GCP Essentials Course Scripts, Links and Examples
 
-This repository contains sample code and scripts for working with Google Cloud Platform (GCP) services. Included technologies are for storage, database, big data and more.  This repository is designed to be used in conjunction with these LinkedIn Learning courses: 
+This repository contains sample code, links and scripts for working with Google Cloud Platform (GCP) services. Included technologies are for storage, database, big data and more.  This repository is designed to be used in conjunction with these LinkedIn Learning courses: 
 - **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-3)
 - **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training)
 - **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training)
