@@ -1,17 +1,25 @@
 # GCP Compute Choices
 
-First, you'll need to decide which object you want to work with - choices are
-- **Virtual Machines** (VMs)
-- **Containers** (usually Docker containers, can by other types, i.e. Singularity...)
-- **Functions** (also called Serverless, sometimes called lambdas)
+### Chose IaaS, PaaS or SaaS
 
-Second, you need to determine how you'd like to orchestrate scaling for your objects - choices include
-- You do **all** of it (you use scripts, tools, 3rd party products)
+First, you'll need to decide which object you want to work with - choices are
+- **Virtual Machines** (VMs) - infrastructure as-a-service
+- **Containers** (usually Docker containers, can by other types, i.e. Singularity...) - infrastructure or platform as-a-service depending on which service you choose on GCP
+- **Functions** (also called Serverless, sometimes called lambdas) - functions (software) as-a-service
+
+Second, you need to determine how you'd like to **orchestrate scaling** for your objects - choices include
+- You do **ALL** of it (you use scripts, tools, 3rd party products)
   - example: you manage a cluster of GCE VMs
-- You do **some** of it (you use or extend GCP patterns, scripts, or services)
+- You do **SOME** of it (you use or extend GCP patterns, scripts, or services)
   - example: you configure a GKE (Kubernetes) cluster of Docker container images
-- You do **none** of it -> GCP does it (you use GCP services)
+- You do **NONE** of it -> GCP does it (you use GCP services)
   - example: you configure and deploy Cloud Functions
+  
+  
+### Learn More
+ - Huge list of GCE 'HOW TO' mini-labs - https://cloud.google.com/compute/docs/how-to
+  
+ ---
   
  Shown below is a grid which compares the capabilities of GCP compute services - from this [link](https://cloud.google.com/hosting-options#hosting-options)
   
