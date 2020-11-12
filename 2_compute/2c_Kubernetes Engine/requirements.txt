@@ -1,0 +1,4 @@
+firecloud==0.16.25
+pip==19.3.1
+tenacity==5.1.1
+pandas==0.25.3
