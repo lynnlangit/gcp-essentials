@@ -25,7 +25,8 @@ RUN rm /usr/bin/lsb_release \
 # install python packages
 RUN python3 -m pip install gcsfs
 
-COPY scripts /scripts
+# uncomment if using script files
+# COPY scripts /scripts
 
 COPY requirements.txt .
 RUN pip3 install -r requirements.txt
