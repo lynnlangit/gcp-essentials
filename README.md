@@ -9,7 +9,7 @@ This repository contains sample code, links and scripts for working with Google 
 
 Examples use the GPC scripting tools (`gcloud`, `gsutil`, `bq`...) and sometimes also the Python API with the GCP SDK.  You can work with GCP services in many programming langauges, such as Java, Go, Node and others. See this link for the GCP SDK to see examples for other programming languages: https://cloud.google.com/sdk/  
 
-For more links see the `GCP-Essentials_Links.csv` file in this Repo
+For more links see the [`GCP-Essentials_Links.csv`](https://github.com/lynnlangit/gcp-essentials/blob/master/GCP-Essentials-Links.csv) file in this Repo
 
 ## Other GCP Repos & Courses
 
