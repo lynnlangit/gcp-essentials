@@ -18,6 +18,7 @@ Second, you need to determine how you'd like to **orchestrate scaling** for your
   
 ### Learn More
  - Huge list of GCE 'HOW TO' mini-labs - https://cloud.google.com/compute/docs/how-to
+ - Article 'Mitigating cold starts' on Cloud Run - https://medium.com/google-cloud/3-solutions-to-mitigate-the-cold-starts-on-cloud-run-8c60f0ae7894
   
  ---
   
