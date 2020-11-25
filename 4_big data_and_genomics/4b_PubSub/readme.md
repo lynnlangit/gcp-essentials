@@ -1,4 +1,4 @@
-# GGC Pub/Sub
+# GCP Pub/Sub
 
 - What is - https://cloud.google.com/pubsub/docs/overview
 - Arch - https://cloud.google.com/pubsub/architecture
