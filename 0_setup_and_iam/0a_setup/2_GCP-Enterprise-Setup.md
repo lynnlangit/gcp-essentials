@@ -15,6 +15,8 @@ The following are general setup steps:
 - Set up billing export to Big Query for billing analysis
 - Set up billing actions - [example](https://cloud.google.com/billing/docs/how-to/notify) - flow shown below
 
+![billing actions](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png)
+
 ## Code & Code Editor
 
 You can use the editor and language of your choice.  I am using VSCode and Python on a MacOS.
