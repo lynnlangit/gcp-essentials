@@ -2,13 +2,18 @@
 
 ## Enterprise GCP Account Setup
 
-The following are general setup steps:
+The following are general setup steps for an enterprise GCP account:
+
+### Identity
+
 - Determine your identity store (G Suite, Federated Active Directory...)
 - Create a new domain or use Cloud Identity
 - Create a new GCP Organization
 - Determine membeship of Super Admins Group
 - Create Folders (optional) or Projects
 - Determine membership in Project Admins Groups
+
+### Billing 
 - Create a billing account using invoiced-based, business billing
 - Associate the billing account with one or more Projects
 - Set up billing alerts for projects with a notification via pub/sub
@@ -16,6 +21,12 @@ The following are general setup steps:
 - Set up billing actions - [example](https://cloud.google.com/billing/docs/how-to/notify) - flow shown below
 
 ![billing actions](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png)
+
+### Compliance
+
+- Review and act using the 10-step 'compliance' section of the GCP console (requires setting up as a Google Cloud Orgnazation)
+
+---
 
 ## Code & Code Editor
 
