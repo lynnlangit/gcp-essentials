@@ -7,3 +7,4 @@
 - BigQuery Metadata Queries - [link](https://medium.com/google-cloud/bigquery-dataset-metadata-queries-8866fa947378)
 - BigQuery Cookbook - [link](https://support.google.com/analytics/answer/4419694?hl=en)
 - BQ Machine Learning - [link](https://cloud.google.com/bigquery/docs/bigqueryml-intro)
+- Avoid SQL anti-patterns - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
