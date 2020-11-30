@@ -10,6 +10,7 @@ GCE, GCP VM Migration, https://cloud.google.com/vm-migrate/
 GCE, GCP VM Best Practices for Migrations, https://cloud.google.com/solutions/best-practices-migrating-vm-to-compute-engine
 GCE, How Disruptive is GCE Live Migration?, https://blog.doit-intl.com/how-live-is-google-compute-engine-live-migration-f875e96ba923
 GKE, Anthos Dev Sandbox, https://anthos-sandbox.dev/
+GKE, Awesome Kubernetes, https://github.com/ramitsurana/awesome-kubernetes
 GKE, Anthos concepts, https://cloud.google.com/anthos/docs/concepts/anthos-overview
 GKE, What is Anthos, https://thenewstack.io/anthos-kubernetes-infrastructure-to-make-developers-more-productive/
 GCE, GCE Image Mangement Best Practices, https://cloud.google.com/solutions/image-management-best-practices
