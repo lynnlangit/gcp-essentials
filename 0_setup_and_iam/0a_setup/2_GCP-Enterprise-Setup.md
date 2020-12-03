@@ -18,6 +18,7 @@ The following are general setup steps for an enterprise GCP account:
 - Associate the billing account with one or more Projects
 - Set up billing alerts for projects with a notification via pub/sub
 - Set up billing export to Big Query for billing analysis
+- Visualize billing - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
 - Set up billing actions - [example](https://cloud.google.com/billing/docs/how-to/notify) - flow shown below
 
 ![billing actions](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png)
