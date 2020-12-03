@@ -10,6 +10,8 @@
 
 #### Best Practices
 - For Best Practice concepts, see Cloud Architecture Framework - [link](https://cloud.google.com/architecture/framework)
+- On-boarding checklist -[link](https://cloud.google.com/billing/docs/onboarding-checklist)
+- Cloud Architecture Framework - [link](https://cloud.google.com/architecture/framework)
 
 #### IAM Service Updates
 - For more granular control of objects in GCP - [link](https://cloud.google.com/iam/docs/release-notes)
