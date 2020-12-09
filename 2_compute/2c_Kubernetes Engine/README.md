@@ -6,4 +6,7 @@
 ---
 
 ### Google Anthos Architecture
+
+See {Anthos Dev Sandbox](https://anthos-sandbox.dev/) to quickly try out GKE w/Anthos  
+
 ![Anthos arch](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/anthos-arch.png)
