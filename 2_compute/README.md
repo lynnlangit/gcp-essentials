@@ -1,19 +1,23 @@
 # GCP Compute Choices
 
-### Chose IaaS, PaaS or SaaS
+### Chose IaaS, PaaS or SaaS for Compute
 
-First, you'll need to decide which object you want to work with - choices are
+1. First, you'll need to decide which type of compute service object you want to work with - choices are
 - **Virtual Machines** (VMs) - infrastructure as-a-service
 - **Containers** (usually Docker containers, can by other types, i.e. Singularity...) - infrastructure or platform as-a-service depending on which service you choose on GCP
 - **Functions** (also called Serverless, sometimes called lambdas) - functions (software) as-a-service
 
-Second, you need to determine how you'd like to **orchestrate scaling** for your objects - choices include
+2. Second, you need to determine how you'd like to **orchestrate scaling** for your objects - choices include
 - You do **ALL** of it (you use scripts, tools, 3rd party products)
   - example: you manage a cluster of GCE VMs
 - You do **SOME** of it (you use or extend GCP patterns, scripts, or services)
   - example: you configure a GKE (Kubernetes) cluster of Docker container images
 - You do **NONE** of it -> GCP does it (you use GCP services)
   - example: you configure and deploy Cloud Functions
+  
+3. Use Tools
+- **GCP Marketplace** - create GCE compute instances (VMs, Containers, etc...) from pre-configured images from the Marketplace
+- **GCP Recomendations** - adjust the size of VMs based on GCP Recomendations.  These are displayed in the GCP Web UI.
   
   
 ### Learn More
