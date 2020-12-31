@@ -17,7 +17,11 @@
   
 3. Use Tools
 - **GCP Marketplace** - create GCE compute instances (VMs, Containers, etc...) from pre-configured images from the Marketplace
-- **GCP Recomendations** - adjust the size of VMs based on GCP Recomendations.  These are displayed in the GCP Web UI.
+- **GCP Recomendations** - adjust the size of VMs based on GCP Recomendations.  These are displayed in the GCP Web UI as shown below
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/vm-recomendations.png" width=600>
+
+---
   
   
 ### Learn More
