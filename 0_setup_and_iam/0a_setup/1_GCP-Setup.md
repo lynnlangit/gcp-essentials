@@ -38,11 +38,10 @@ You can use the editor and language of your choice.  I am using VSCode and Pytho
 
 TIP: Verify that you using the intended GCP Project before you enable a service:
 
-GCP Services enabled by default:
+Some GCP Services are enabled by default:
  - GCS, GCE, BigQuery, Kubernetes  
 
- Must be explicitly enabled:
- - Others...
+Other GCP Services must be explicitly enabled:
  - Vision API, Video API, Natural Language API, Speech API, Translation API, Dialogflow
  - Cloud Machine Learning Engine
  - Cloud TPU
