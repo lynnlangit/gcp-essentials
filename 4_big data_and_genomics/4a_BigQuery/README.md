@@ -1,5 +1,7 @@
 # BigQuery Links
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/4_big%20data_and_genomics/4a_BigQuery/bq-arch.png" width=800>
+
 ## Basics
 
 - Useful introductory BigQuery article - [link](https://medium.com/google-cloud/bigquery-explained-querying-your-data-9e017f2714a3)
