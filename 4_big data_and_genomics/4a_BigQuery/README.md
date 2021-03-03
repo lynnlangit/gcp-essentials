@@ -1,6 +1,5 @@
 # BigQuery Links
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/4_big%20data_and_genomics/4a_BigQuery/bq-arch.png" width=800>
 
 ## Basics
 
@@ -8,6 +7,8 @@
 - BigQuery JOINS -[link](https://medium.com/google-cloud/bigquery-explained-working-with-joins-nested-repeated-data-1941646ccb5b)
 - BigQuery for Data Warehousing - [link](https://cloud.google.com/solutions/bigquery-data-warehouse)
 - Build a Marketing DW on BQ - [link](https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp)
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/4_big%20data_and_genomics/4a_BigQuery/bq-arch.png" width=700>
 
 ## Patterns and Examples
 
