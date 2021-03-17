@@ -1,3 +1,8 @@
+## Storage Types
+
+![GCP Storage Types](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-storage-types.png)
+
+
 ## Storage Choices
 
 For Files
