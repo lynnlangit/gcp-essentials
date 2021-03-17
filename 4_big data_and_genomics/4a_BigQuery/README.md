@@ -17,3 +17,7 @@
 - BQ Machine Learning - [link](https://cloud.google.com/bigquery/docs/bigqueryml-intro)
 - Avoid SQL anti-patterns - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
 - Reference Pattersn - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
+
+## Tools
+
+- BigQuery open source tools - [link](https://github.com/GoogleCloudPlatform/bigquery-utils)
