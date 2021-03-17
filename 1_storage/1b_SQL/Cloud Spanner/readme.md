@@ -1,4 +1,4 @@
-# Spanner
+# Cloud Spanner
 
 Spanner supports globally distributed transactional databases. 
 
