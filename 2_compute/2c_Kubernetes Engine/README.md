@@ -6,6 +6,7 @@
 - Details on GKE logs - https://medium.com/google-cloud/a-quick-gke-logs-primer-a978f60daa7
 - Troubleshooting GKE clusters - https://medium.com/google-cloud/troubleshooting-services-on-gke-872470e60d51
 - Use GKE Autopilot - https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot
+- See big list "Awesome Kubernetes" - https://github.com/ramitsurana/awesome-kubernetes]
 
 ### Google Kubernetes Architecture  
 
@@ -15,7 +16,11 @@
 
 ### Google Anthos Architecture
 
+- Understand [What is Anthos](https://thenewstack.io/anthos-kubernetes-infrastructure-to-make-developers-more-productive/)
+- Learn [Anthos concepts](https://cloud.google.com/anthos/docs/concepts/anthos-overview)
 - See [Anthos Dev Sandbox](https://anthos-sandbox.dev/) to quickly try out GKE w/Anthos  
 - See [Anthos Sample App](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/anthos-sample-deployment) to test out a sample microservices application with Anthos on GKE
 
 <img src+"https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/anthos-arch.png" width=800>
+
+
