@@ -2,7 +2,7 @@
 
 ### General Info
 
-- What is GKE (including a comic!) - https://medium.com/google-cloud/what-is-google-kubernetes-engine-gke-d2cb2d17178d
+- What is GKE (including a comic!) - https://medium.com/google-cloud/what-is-google-kubernetes-engine-gke-d2cb2d17178d and https://cloud.google.com/kubernetes-engine/kubernetes-comic/
 - Details on GKE logs - https://medium.com/google-cloud/a-quick-gke-logs-primer-a978f60daa7
 - Troubleshooting GKE clusters - https://medium.com/google-cloud/troubleshooting-services-on-gke-872470e60d51
 - Use GKE Autopilot - https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot

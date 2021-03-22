@@ -16,6 +16,13 @@ Tools, examples and more at this [link](https://cloud.google.com/docs/ci-cd)
 - Using Kaniko Cache with Cloud Build, https://cloud.google.com/cloud-build/docs/kaniko-cache
 - GCP CI/CD for multiple environments, https://www.youtube.com/watch?v=rt287-94Pq4
 
+### Disaster Recovery Guidance
+
+- GCP Disaster Recovery Planning Guide - https://cloud.google.com/solutions/dr-scenarios-planning-guide
+- GCP DR Building Blocks - https://cloud.google.com/solutions/dr-scenarios-building-blocks
+- Secrets Management with Cloud KMS - https://cloud.google.com/kms/docs/secret-management
+- Live Migration - https://cloud.google.com/compute/docs/instances/live-migratation
+
 #### GCP CI/CD Architecture Example
 
 ![GCP CI/CD architecture](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/ci-cd-arch.png)

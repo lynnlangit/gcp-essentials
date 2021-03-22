@@ -27,7 +27,8 @@
 ### Learn More
  - Huge list of GCE 'HOW TO' mini-labs - https://cloud.google.com/compute/docs/how-to
  - Article 'Mitigating cold starts' on Cloud Run - https://medium.com/google-cloud/3-solutions-to-mitigate-the-cold-starts-on-cloud-run-8c60f0ae7894
-  
+ - GCP Serverless short whitepaper -  https://cloud.google.com/serverless/whitepaper/
+
  ---
   
  Shown below is a grid which compares the capabilities of GCP compute services - from this [link](https://cloud.google.com/hosting-options#hosting-options)
