@@ -15,3 +15,6 @@
 
 #### IAM Service Updates
 - For more granular control of objects in GCP - [link](https://cloud.google.com/iam/docs/release-notes)
+
+#### Environmental Impact
+- Carbon footprint by GCP data-center - [link](https://github.com/GoogleCloudPlatform/region-carbon-info/blob/main/data/yearly/2019.csv)
