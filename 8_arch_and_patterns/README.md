@@ -14,7 +14,6 @@
 - Enterprise IoT Application, https://codelabs.developers.google.com/codelabs/iot-data-pipeline/index.html?index=..%2F..index#0
 - Genomics Data Pipelines, https://cloud.google.com/genomics/docs/quickstart
 - Genomic Analysis on GCP, https://www.youtube.com/watch?v=27tSivxnQ_E
-
 - Build a Data Warehouse on GCP, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
 - BigQuery for Data Warehousing, https://cloud.google.com/solutions/bigquery-data-warehouse
 - Build a Marketing DW on BQ, https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp
@@ -23,6 +22,7 @@
 - BQ Machine Learning, https://cloud.google.com/bigquery/docs/bigqueryml-intro
 - Data Fusion, https://cloud.google.com/data-fusion/concepts/overview
 - Data Fusion Tutorial, https://cloud.google.com/data-fusion/tutorials/targeting-campaign-pipeline
+- Choosing the Right Orchestrator in GCP, https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
     
 ---
 
