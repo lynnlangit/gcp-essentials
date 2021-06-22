@@ -5,6 +5,7 @@ This repository contains sample code, links and scripts for working with Google 
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course
 - 📘 For more info about advanced topics, see the links in the [`GCP-Essentials_Links.csv`](https://github.com/lynnlangit/gcp-essentials/blob/master/GCP-Essentials-Links.csv) page in this Repo
+- :octocat: **"GCP Microservices Demo"** - [link](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 Examples use the GPC scripting tools (`gcloud`, `gsutil`, `bq`...) and sometimes also the Python API with the GCP SDK.  You can work with GCP services in many programming langauges, such as Java, Go, Node and others. See this link for the GCP SDK to see examples for other programming languages: https://cloud.google.com/sdk/  
 
