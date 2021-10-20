@@ -20,4 +20,5 @@
 
 ## Tools
 
+- Cloud DLP for BigQuery - [link](https://cloud.google.com/bigquery/docs/scan-with-dlp)
 - BigQuery open source tools - [link](https://github.com/GoogleCloudPlatform/bigquery-utils)
