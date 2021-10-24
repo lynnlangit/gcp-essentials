@@ -2,7 +2,7 @@
 
 ### Chose IaaS, PaaS or SaaS for Compute
 
-**🎨 Link to Sketchnotes for Compute** --> https://thecloudgirl.dev/gcpcompute.html  
+**🎨 Link to #GCPSketchnotes for Compute** --> https://thecloudgirl.dev/gcpcompute.html  
 
 1. Decide which type of compute service object you want to work with - choices are...
 - **Virtual Machines** (VMs) - infrastructure as-a-service
