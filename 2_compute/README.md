@@ -2,6 +2,8 @@
 
 ### Chose IaaS, PaaS or SaaS for Compute
 
+**🎨 Link to Sketchnotes for Compute** --> https://thecloudgirl.dev/gcpcompute.html  
+
 1. Decide which type of compute service object you want to work with - choices are...
 - **Virtual Machines** (VMs) - infrastructure as-a-service
 - **Containers** (usually Docker containers, can by other types, i.e. Singularity...) - infrastructure or platform as-a-service depending on which service you choose on GCP
