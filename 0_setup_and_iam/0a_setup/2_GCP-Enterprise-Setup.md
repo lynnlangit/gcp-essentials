@@ -23,9 +23,10 @@ The following are general setup steps for an enterprise GCP account:
 
 ![billing actions](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png)
 
-### Compliance
+### Compliance and Organization
 
 - Review and act using the 10-step 'compliance' section of the GCP console (requires setting up as a Google Cloud Orgnazation)
+- Use `gcloud projects list --filter 'parent.id=[ORGANIZATION_ID] AND parent.type=organization` to view GCP object instances by organization
 
 ---
 
@@ -52,7 +53,7 @@ You can use the editor and language of your choice.  I am using VSCode and Pytho
 
  You will be using a number of GCP services.  Some services are enabled by default, however, for other services you will need explicitly enable API or service.  
 
-TIP: Verify that you using the intended GCP Project before you enable a service:
+TIP: Verify that you using the intended GCP Project before you enable a service
 
 ## Select and Configure Repositories
 
