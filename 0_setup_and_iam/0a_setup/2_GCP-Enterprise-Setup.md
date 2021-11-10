@@ -6,13 +6,13 @@ The following are general setup steps for an enterprise GCP account:
 
 ### Identity
 
-- Determine your identity store (G Suite, Federated Active Directory...)
-- Create a new domain or use Cloud Identity
-- Create a new GCP Organization
-- Determine membeship of Super Admins Group
-- Create Folders (optional) or Projects
-- Determine membership in Project Admins Groups
-- Populate 'Essential Contacts' for the project (in 'IAM & Admin')
+- Determine your **identity store** (G Suite, Federated Active Directory...)
+    - Create a new domain or use Cloud Identity
+- Create a new **GCP Organization**
+    - Determine membeship of **Super Admins** Group
+    - Create Folders (optional) or Projects
+    - Determine membership in **Project Admins** Groups
+    - Populate 'Essential Contacts' for the each project (in 'IAM & Admin')
 
 ### Billing and Support
 - Create a billing account using invoiced-based, business billing 
