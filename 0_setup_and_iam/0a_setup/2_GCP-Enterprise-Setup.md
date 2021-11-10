@@ -14,8 +14,9 @@ The following are general setup steps for an enterprise GCP account:
 - Determine membership in Project Admins Groups
 - Populate 'Essential Contacts' for the project (in 'IAM & Admin')
 
-### Billing 
+### Billing and Support
 - Create a billing account using invoiced-based, business billing
+- Select and purchase GCP support (std, enhanced or premium) - [link](https://cloud.google.com/support/#support-plans)
 - Associate the billing account with one or more Projects
 - Set up billing alerts for projects with a notification via pub/sub
 - Set up billing export to Big Query for billing analysis
