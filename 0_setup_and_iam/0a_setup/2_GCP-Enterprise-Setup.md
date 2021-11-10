@@ -16,11 +16,11 @@ The following are general setup steps for an enterprise GCP account:
 
 ### Billing and Support
 - Create a billing account using invoiced-based, business billing 
-    -Uunderstand billing account and payment profile types -[link](https://cloud.google.com/billing/docs/concepts#billing_account)
+    - Understand billing account and payment profile types -[link](https://cloud.google.com/billing/docs/concepts#billing_account)
 - Select and purchase GCP support (std, enhanced or premium) - [link](https://cloud.google.com/support/#support-plans)
 - Associate the billing account with one or more Projects
-- Set up billing alerts for projects with a notification via pub/sub
-- Set up billing export to Big Query for billing analysis
+    - Set up billing alerts for projects with a notification via pub/sub
+    - Set up billing export to Big Query for billing analysis
 - Visualize billing data - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
 - Set up billing actions - [example](https://cloud.google.com/billing/docs/how-to/notify) - flow shown below
 
