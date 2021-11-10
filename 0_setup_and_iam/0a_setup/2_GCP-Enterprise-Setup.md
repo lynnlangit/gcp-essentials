@@ -12,6 +12,7 @@ The following are general setup steps for an enterprise GCP account:
 - Determine membeship of Super Admins Group
 - Create Folders (optional) or Projects
 - Determine membership in Project Admins Groups
+- Populate 'Essential Contacts' for the project (in 'IAM & Admin')
 
 ### Billing 
 - Create a billing account using invoiced-based, business billing
@@ -21,7 +22,7 @@ The following are general setup steps for an enterprise GCP account:
 - Visualize billing data - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
 - Set up billing actions - [example](https://cloud.google.com/billing/docs/how-to/notify) - flow shown below
 
-![billing actions](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png)
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/billing-actions.png" width=600>
 
 ### Compliance and Organization
 
