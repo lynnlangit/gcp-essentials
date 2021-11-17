@@ -33,6 +33,7 @@
 - Data Fusion, https://cloud.google.com/data-fusion/concepts/overview
 - Data Fusion Tutorial, https://cloud.google.com/data-fusion/tutorials/targeting-campaign-pipeline
 - Choosing the Right Orchestrator in GCP, https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
+- PCI DSS (Data Security Standard) Compliance in GCP, https://cloud.google.com/architecture/pci-dss-compliance-in-gcp
     
 ---
 
