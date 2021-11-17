@@ -1,5 +1,5 @@
 # Using VPCs
-Pattern: create 'front-end' VPC and one or more 'back-end' VPCs.  Some services require 'specialty VPCs'.  For example, for CloudRun use 'serverless VPC access' and for CloudStorage (GCS) use 'private service access' (see link below.  
+Pattern: create 'front-end' VPC and one or more 'back-end' VPCs.  Some services require 'specialty VPCs'.  For example, for CloudRun use 'serverless VPC access' and for CloudStorage (GCS) use 'private service access' (see link belows for more info).  
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/3_networking/3a_VPC%20network/images/vpc-arch.png" width=600>
 
