@@ -10,7 +10,8 @@ Pattern: create 'front-end' VPC and one or more 'back-end' VPCs, shown in diagra
 
 ## Other Services
 
-Some services require 'specialty VPCs', for example... (links below too)
+Some services require 'specialty VPCs', which is called **'private services access'**, for example... (links below too)
+- Chart comparing types of Private Services Access available - [link](https://cloud.google.com/vpc/docs/private-access-options)
 - For CloudRun use 'serverless VPC access'
   - Article: "Using Serverless VPC access" - [link](https://cloud.google.com/vpc/docs/serverless-vpc-access)
 - for CloudStorage (GCS) use 'private service access' 
