@@ -20,6 +20,8 @@ Some services require 'specialty VPCs', which is called **'private services acce
       - The Cloud Run continuous deployment feature is **not available** for projects inside a VPC Service Controls perimeter.
 - For **CloudStorage (GCS)** use 'private service access' 
   - Article: "Using Private Service Access to connect to VPCs" - [link](https://cloud.google.com/vpc/docs/private-service-connect#benefits-apis)
+    - By default, if you have an application that uses a Google service, such as Cloud Storage, your application connects to the default DNS name for that service, such as storage.googleapis.com. Even though the IP addresses for the default DNS names are publicly routable, **traffic sent from Google Cloud resources remains within Google's network**.
+    - With Private Service Connect, you can create private endpoints using global internal IP addresses within your VPC network. You can assign DNS names to these internal IP addresses with meaningful names like storage-vialink1.p.googleapis.com and bigtable-adsteam.p.googleapis.com. These names and IP addresses are internal to your VPC network and any on-premises networks that are connected to it using Cloud VPN tunnels or Cloud Interconnect attachments (VLANs). You can control which traffic goes to which endpoint, and can **demonstrate that traffic stays within Google Cloud**.
 - For **AppEngine** (must check std or flex) use either 'VPC' or 'shared access VPC' 
   - Article: "Connect to VPC" - [link](https://cloud.google.com/appengine/docs/standard/python/connecting-vpc)
   - Article: "Connect to Shared VPC" - [link](https://cloud.google.com/appengine/docs/standard/python/connecting-shared-vpc)
