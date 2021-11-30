@@ -14,7 +14,11 @@ Some services require 'specialty VPCs', which is called **'private services acce
 - Chart comparing types of Private Services Access available - [link](https://cloud.google.com/vpc/docs/private-access-options)
 - For CloudRun use 'serverless VPC access'
   - Article: "Using Serverless VPC access" - [link](https://cloud.google.com/vpc/docs/serverless-vpc-access)
-- for CloudStorage (GCS) use 'private service access' 
+    - Important Limitations include the following: 
+      - For Artifact & Container Registry: - the container registry must be in the **same VPC Service Controls perimeter** as the project deploying location.
+      - The code being built must be in the **same VPC Service Controls perimeter** as the registry that the container is being pushed to.
+      - The Cloud Run continuous deployment feature is **not available** for projects inside a VPC Service Controls perimeter.
+- For CloudStorage (GCS) use 'private service access' 
   - Article: "Using Private Service Access to connect to VPCs" - [link](https://cloud.google.com/vpc/docs/private-service-connect#benefits-apis)
 - For AppEngine (must check std or flex) use either 'VPC' or 'shared access VPC' 
   - Article: "Connect to VPC" - [link](https://cloud.google.com/appengine/docs/standard/python/connecting-vpc)
