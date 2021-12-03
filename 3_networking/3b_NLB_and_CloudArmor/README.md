@@ -16,6 +16,9 @@ A network endpoint group (NEG) specifies a group of backend endpoints for a load
 
 ### NLB and Cloud Run
 
+A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
+
+- Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
 - For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 
 ### Instance Groups
