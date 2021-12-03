@@ -10,7 +10,13 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 ### Network Load Balancers
 
-GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
+A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.  
+- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+- GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
+
+### NLB and Cloud Run
+
+- For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 
 ### Instance Groups
 
