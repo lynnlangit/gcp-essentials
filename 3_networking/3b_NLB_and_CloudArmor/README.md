@@ -10,7 +10,7 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 ## CloudArmor includes WAF Rules
 
-The CloudArmor service includes example rules which can act as an WAF layer of protection with your GCP NLB.
+Google Cloud Armor helps you protect your GCP deployments from multiple types of threats, including distributed denial-of-service (DDoS) attacks and application attacks like cross-site scripting (XSS) and SQL injection (SQLi). Google Cloud Armor features some automatic protections and some that you need to configure manually.The service includes example rules which can act as an WAF layer of protection with your GCP NLB.
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/CloudArmor-WAF.png" width=800>
 
