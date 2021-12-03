@@ -8,6 +8,10 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/Network-Security-Arch.png" width=800>
 
+### Network Load Balancers
+
+GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
+
 ### Instance Groups
 
 - An instance group is a collection of virtual machine (VM) instances that you can manage as a single entity.
@@ -32,7 +36,7 @@ Use MIG to implement...
 
 ### Backend Services
 
-- A backend service defines how Cloud Load Balancing distributes traffic
+A backend service defines how Cloud Load Balancing distributes traffic.  
 - The backend service configuration contains a set of values, such as the protocol used to connect to backends, various distribution and session settings, health checks, and timeouts
 - These settings provide fine-grained control over how your load balancer behaves
 - NOTE: you can serve up 'backend buckets' if serving static content
@@ -43,7 +47,12 @@ Use MIG to implement...
 - External TCP/UDP Network Load Balancing can use either a backend service or a target pool to define the group of backend instances that receive incoming traffic.
 - For more see [link](https://cloud.google.com/load-balancing/docs/target-pools)
 
-## CloudArmor includes WAF Rules
+## Google Cloug Armor
+
+- Includes two types of service tiers, 'standard' or 'managed protection plus' - [link](https://cloud.google.com/armor/docs/managed-protection-overview)
+- Pricing by service leve - [link](https://cloud.google.com/armor/pricing)
+
+### Cloud Armor includes WAF Rules
 
 - Google Cloud Armor helps you protect your GCP deployments from multiple types of threats, including distributed denial-of-service (DDoS) attacks and application attacks like cross-site scripting (XSS) and SQL injection (SQLi) using security policies
 - Google Cloud Armor features some automatic protections and some that you need to configure manually
@@ -52,9 +61,10 @@ Use MIG to implement...
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/CloudArmor-WAF.png" width=800>
 
-## CloudArmor mitigates DDOS Attacks
+### Cloud Armor mitigates DDOS Attacks
 
-Using CloudArmor, you can protect against DDOS attacks
+Using CloudArmor, you can protect against DDOS attacks (see the diagram below).
+- Example of configuring security policies for HTTP(S) Load Balancing using Cloud Armor - [link](https://cloud.google.com/armor/docs/configure-security-policies#create-example-policies)  
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/CloudArmor-DDOS.png" width=800>
 
