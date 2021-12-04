@@ -12,6 +12,7 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 Network load balancers allow you to manage and control compute service instances (GCE, CloudRun and others).  
 - Create external (HTTP), internal (TCP) or other types of NLBs depending on your needs
+- 20 min deep dive on GCP NLB options - [link](https://www.youtube.com/watch?v=HUHBq_VGgFg)
 - GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
 
 ### NLB and Cloud Run
