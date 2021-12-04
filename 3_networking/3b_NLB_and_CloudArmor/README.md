@@ -8,16 +8,17 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/Network-Security-Arch.png" width=800>
 
-### Network Load Balancers
+## Network Load Balancers
 
-A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.  
-- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+Network load balancers allow you to manage and control compute service instances (GCE, CloudRun and others).  
+- Create external (HTTP), internal (TCP) or other types of NLBs depending on your needs
 - GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
 
 ### NLB and Cloud Run
 
 A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
 
+- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
 - Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
 - For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 
@@ -31,7 +32,7 @@ High availability.
 
 #### Managed Instance Groups
 
-Use MIG to implement...
+Use MIGs to implement...
 - High Availability
   - Keeping VM instances running. If a VM in the group stops, crashes, or is deleted by an action other than an instance group management command (for example, an intentional scale in), the MIG automatically recreates that VM in accordance with the original instance's specification (same VM name, same template) so that the VM can resume its work.
   - Application-based autohealing. You can also set up an application-based health check, which periodically verifies that your application responds as expected on each of the MIG's instances. If an application is not responding on a VM, the autohealer automatically recreates that VM for you. Checking that an application responds is more precise than simply verifying that a VM is up and running.
@@ -45,13 +46,13 @@ Use MIG to implement...
 
 ### Backend Services
 
-A backend service defines how Cloud Load Balancing distributes traffic.  
+A backend service defines how Cloud Load Balancing distributes traffic.  Add managed instance groups to backend services.
 - The backend service configuration contains a set of values, such as the protocol used to connect to backends, various distribution and session settings, health checks, and timeouts
 - These settings provide fine-grained control over how your load balancer behaves
 - NOTE: you can serve up 'backend buckets' if serving static content
 - For more see [link](https://cloud.google.com/load-balancing/docs/backend-service)
 
-### Target Pools
+### Target Pools for GCE
 
 - External TCP/UDP Network Load Balancing can use either a backend service or a target pool to define the group of backend instances that receive incoming traffic.
 - For more see [link](https://cloud.google.com/load-balancing/docs/target-pools)
