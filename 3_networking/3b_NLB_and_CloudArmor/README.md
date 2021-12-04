@@ -1,12 +1,12 @@
 # NLB & Cloud Armor
 
-GCP includes Network Load Balancing and Cloud Armor to protect external service boundaries. More detail in this 15 min talk - [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
+GCP includes services such as Network Load Balancing and Cloud Armor to allow you to protect external service application boundaries. More detail in this 15 min talk - [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
 
 ## Network Security Architecture 
 
-Shown below is an example using GCP networking services, CloudArmor, NLB, VPC and more.
+Shown below is an example using GCP networking services, CloudArmor, NLB, VPC and others.
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/Network-Security-Arch.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/Network-Security-Arch.png" width=900>
 
 ## Network Load Balancers
 
