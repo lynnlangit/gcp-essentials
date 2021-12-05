@@ -14,6 +14,10 @@ Network load balancers allow you to manage and control compute service instances
 - Create external (HTTP), internal (TCP) or other types of NLBs depending on your needs
 - 20 min deep dive on GCP NLB options - [link](https://www.youtube.com/watch?v=HUHBq_VGgFg)
 - GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
+- Load balancers can be regional or global, see data model for global LB below
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/global-lb.png" width=900>
+
 
 ### NLB and Cloud Run
 
@@ -34,14 +38,17 @@ High availability.
 #### Managed Instance Groups
 
 Use MIGs to implement...
-- High Availability
+- **High Availability**
   - Keeping VM instances running. If a VM in the group stops, crashes, or is deleted by an action other than an instance group management command (for example, an intentional scale in), the MIG automatically recreates that VM in accordance with the original instance's specification (same VM name, same template) so that the VM can resume its work.
   - Application-based autohealing. You can also set up an application-based health check, which periodically verifies that your application responds as expected on each of the MIG's instances. If an application is not responding on a VM, the autohealer automatically recreates that VM for you. Checking that an application responds is more precise than simply verifying that a VM is up and running.
   - Regional (multiple zone) coverage. Regional MIGs let you spread app load across multiple zones. This replication protects against zonal failures. If that happens, your app can continue serving traffic from instances running in the remaining available zones in the same region.
   - Load balancing. MIGs work with load balancing services to distribute traffic across all of the instances in the group.
-- Scalability. When your apps require additional compute resources, autoscaled MIGs can automatically grow the number of instances in the group to meet demand. If demand drops, autoscaled MIGs can automatically shrink to reduce your costs.
-- Automated updates. The MIG automatic updater lets you safely deploy new versions of software to instances in your MIG and supports a flexible range of rollout scenarios, such as rolling updates and canary updates. You can control the speed and scope of deployment as well as the level of disruption to your service.
-- Support for stateful workloads. You can use MIGs for building highly available deployments and automating operation of applications with stateful data or configuration, such as databases, DNS servers, legacy monolith applications, or long-running batch computations with checkpointing. Stateful MIGs preserve each instance's unique state (instance name, attached persistent disks, and metadata) on machine restart, recreation, auto-healing, and update events.
+- **Scalability** 
+  - When your apps require additional compute resources, autoscaled MIGs can automatically grow the number of instances in the group to meet demand. If demand drops, autoscaled MIGs can automatically shrink to reduce your costs.
+- **Automated updates** 
+  - The MIG automatic updater lets you safely deploy new versions of software to instances in your MIG and supports a flexible range of rollout scenarios, such as rolling updates and canary updates. You can control the speed and scope of deployment as well as the level of disruption to your service.
+- **Support for stateful workloads**
+  - You can use MIGs for building highly available deployments and automating operation of applications with stateful data or configuration, such as databases, DNS servers, legacy monolith applications, or long-running batch computations with checkpointing. Stateful MIGs preserve each instance's unique state (instance name, attached persistent disks, and metadata) on machine restart, recreation, auto-healing, and update events.
 
 - For more see [link](https://cloud.google.com/compute/docs/instance-groups/)
 
