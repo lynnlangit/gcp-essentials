@@ -1,0 +1,41 @@
+{
+  "adaptiveProtectionConfig": {
+    "layer7DdosDefenseConfig": {
+      "enable": false
+    }
+  },
+  "description": "default",
+  "fingerprint": "yBVLOCi6p_s=",
+  "kind": "compute#securityPolicy",
+  "name": "allow-all",
+  "rules": [
+    {
+      "action": "deny(403)",
+      "description": "stop sql injection l1",
+      "kind": "compute#securityPolicyRule",
+      "match": {
+        "expr": {
+          "expression": "evaluatePreconfiguredExpr('sqli-stable', ['owasp-crs-v030001-id942110-sqli',\n  'owasp-crs-v030001-id942120-sqli',\n  'owasp-crs-v030001-id942150-sqli',\n  'owasp-crs-v030001-id942180-sqli',\n  'owasp-crs-v030001-id942200-sqli',\n  'owasp-crs-v030001-id942210-sqli',\n  'owasp-crs-v030001-id942260-sqli',\n  'owasp-crs-v030001-id942300-sqli',\n  'owasp-crs-v030001-id942310-sqli',\n  'owasp-crs-v030001-id942330-sqli',\n  'owasp-crs-v030001-id942340-sqli',\n  'owasp-crs-v030001-id942380-sqli',\n  'owasp-crs-v030001-id942390-sqli',\n  'owasp-crs-v030001-id942400-sqli',\n  'owasp-crs-v030001-id942410-sqli',\n  'owasp-crs-v030001-id942430-sqli',\n  'owasp-crs-v030001-id942440-sqli',\n  'owasp-crs-v030001-id942450-sqli',\n  'owasp-crs-v030001-id942251-sqli',\n  'owasp-crs-v030001-id942420-sqli',\n  'owasp-crs-v030001-id942431-sqli',\n  'owasp-crs-v030001-id942460-sqli',\n  'owasp-crs-v030001-id942421-sqli',\n  'owasp-crs-v030001-id942432-sqli']\n)"
+        }
+      },
+      "preview": false,
+      "priority": 10001
+    },
+    {
+      "action": "allow",
+      "description": "Default rule, higher priority overrides it",
+      "kind": "compute#securityPolicyRule",
+      "match": {
+        "config": {
+          "srcIpRanges": [
+            "*"
+          ]
+        },
+        "versionedExpr": "SRC_IPS_V1"
+      },
+      "preview": false,
+      "priority": 2147483647
+    }
+  ],
+  "selfLink": "projects/c2m-waf/global/securityPolicies/allow-all"
+}
