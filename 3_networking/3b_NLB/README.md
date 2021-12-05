@@ -1,8 +1,8 @@
 # Network Load Balancers 
 GCP includes services such as Network Load Balancing and Cloud Armor to allow you to protect external service application boundaries. 
 
-- 5 minute overview of GCP load balancing options - [link](https://www.youtube.com/watch?v=h8EqM6Xt3MA)
-- More detail in this 15 min talk - [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
+-  📺  5 minute overview of GCP load balancing options - [link](https://www.youtube.com/watch?v=h8EqM6Xt3MA)
+-  📺  More detail in this 15 min talk - [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
 
 ## Network Security Architecture 
 
@@ -14,8 +14,8 @@ Shown below is an example using GCP networking services, CloudArmor, NLB, VPC an
 
 Network load balancers allow you to manage and control compute service instances (GCE, CloudRun and others).  
 - Create external (HTTP), internal (TCP) or other types of NLBs depending on your needs
-- 20 min deep dive on GCP NLB options - [link](https://www.youtube.com/watch?v=HUHBq_VGgFg)
-- GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
+-  📺  20 min deep dive on GCP NLB options - [link](https://www.youtube.com/watch?v=HUHBq_VGgFg)
+-  📖  GCP includes many options to implement NLB services - see this feature comparison list - [link](https://cloud.google.com/load-balancing/docs/features)
 - Load balancers can be regional or global, see data model for global LB below
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/global-lb.png" width=900>
@@ -49,12 +49,12 @@ A backend service defines how Cloud Load Balancing distributes traffic.  Add man
 - The backend service configuration contains a set of values, such as the protocol used to connect to backends, various distribution and session settings, health checks, and timeouts
 - These settings provide fine-grained control over how your load balancer behaves
 - NOTE: you can serve up 'backend buckets' if serving static content
-- For more see [link](https://cloud.google.com/load-balancing/docs/backend-service)
+-  📖  For more see [link](https://cloud.google.com/load-balancing/docs/backend-service)
 
 ### Target Pools for GCE
 
 - External TCP/UDP Network Load Balancing can use either a backend service or a target pool to define the group of backend instances that receive incoming traffic.
-- For more see [link](https://cloud.google.com/load-balancing/docs/target-pools)
+-  📖  For more see [link](https://cloud.google.com/load-balancing/docs/target-pools)
 
 ---
 
@@ -62,9 +62,9 @@ A backend service defines how Cloud Load Balancing distributes traffic.  Add man
 
 A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
 
-- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
-- Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
-- For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
+-  📖  About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+-  📖  Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+-  📖  For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 
 
 
