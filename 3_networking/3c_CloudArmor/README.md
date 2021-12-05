@@ -24,5 +24,6 @@ Using CloudArmor, you can protect against DDOS attacks (see the diagram below).
 
 ## Cloud Armor rules for Rate Limiting
 
-- 📖 Example at this [link](https://cloud.google.com/armor/docs/configure-security-policies)
+- 📖 Example at this [link](https://cloud.google.com/armor/docs/configure-security-policies#rate-limiting-throttling)
+- See files in this folder for example syntax
 
