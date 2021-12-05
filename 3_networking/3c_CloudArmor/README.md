@@ -1,7 +1,7 @@
 # Cloud Armor
 
-GCP includes services such as Network Load Balancing and Cloud Armor to allow you to protect external service application boundaries. More detail in this 15 min talk 
--  📺  [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
+GCP includes services such as Network Load Balancing and Cloud Armor to allow you to protect external service application boundaries. 
+-  📺  More detail in this 15 min talk - [link](https://www.youtube.com/watch?v=oXJ68Sa8jfU)
 
 ## Network Security Architecture 
 
