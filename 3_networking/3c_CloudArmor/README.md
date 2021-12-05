@@ -29,7 +29,8 @@ Google Cloud Armor provides DDoS and application layer defense working in conjun
 ### Cloud Armor mitigates DDOS Attacks
 
 Using CloudArmor, you can protect against DDOS attacks (see the diagram below).
-- 📖  Example of configuring security policies for HTTP(S) Load Balancing using Cloud Armor - [link](https://cloud.google.com/armor/docs/configure-security-policies#create-example-policies)  and features described - [link[(https://cloud.google.com/load-balancing/docs/tutorials/faster-performance-improved-protection)
+- 📖  Example of configuring security policies for HTTP(S) Load Balancing using Cloud Armor - [link](https://cloud.google.com/armor/docs/configure-security-policies#create-example-policies)  
+- 📖  Features described - [link[(https://cloud.google.com/load-balancing/docs/tutorials/faster-performance-improved-protection)
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/CloudArmor-DDOS.png" width=800>
 
