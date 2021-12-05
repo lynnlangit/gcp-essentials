@@ -10,7 +10,6 @@ Google Cloud Armor provides DDoS and application layer defense working in conjun
 - Google Cloud Armor helps you protect your GCP deployments from multiple types of threats, including distributed denial-of-service (DDoS) attacks and application attacks like cross-site scripting (XSS) and SQL injection (SQLi) using security policies which are implemented as WAF (web application firewall) rules
 - Google Cloud Armor features some automatic protections and some that you need to configure manually
 - The service includes example rules which can act as an WAF layer of protection with your GCP NLB
-- These preconfigured rules can be tuned to disable noisy or otherwise unnecessary signatures, see Tuning Google Cloud Armor WAF rules
 - 📖 List of preconfigured WAF rules - [link](https://cloud.google.com/armor/docs/rule-tuning)
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/CloudArmor-WAF.png" width=800>
