@@ -18,26 +18,15 @@ Network load balancers allow you to manage and control compute service instances
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/global-lb.png" width=900>
 
-
-### NLB and Cloud Run
-
-A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
-
-- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
-- Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
-- For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
-
 ### Instance Groups
 
 - An instance group is a collection of virtual machine (VM) instances that you can manage as a single entity.
 - Compute Engine offers two kinds of VM instance groups, managed and unmanaged:
-  - Managed instance groups (MIGs) let you operate apps on multiple identical VMs. You can make your workloads scalable and highly available by taking advantage of automated MIG services, including: autoscaling, autohealing, regional (multiple zone) deployment, and automatic updating.
-  - Unmanaged instance groups let you load balance across a fleet of VMs that you manage yourself.
-High availability.
+  - **Managed instance groups (MIGs)** let you operate apps on multiple identical VMs. You can make your workloads scalable and highly available by taking advantage of automated MIG services, including: autoscaling, autohealing, regional (multiple zone) deployment, and automatic updating.
+  - **Unmanaged instance groups** let you load balance across a fleet of VMs that you manage yourself.
 
 #### Managed Instance Groups
 
-Use MIGs to implement...
 - **High Availability**
   - Keeping VM instances running. If a VM in the group stops, crashes, or is deleted by an action other than an instance group management command (for example, an intentional scale in), the MIG automatically recreates that VM in accordance with the original instance's specification (same VM name, same template) so that the VM can resume its work.
   - Application-based autohealing. You can also set up an application-based health check, which periodically verifies that your application responds as expected on each of the MIG's instances. If an application is not responding on a VM, the autohealer automatically recreates that VM for you. Checking that an application responds is more precise than simply verifying that a VM is up and running.
@@ -64,6 +53,16 @@ A backend service defines how Cloud Load Balancing distributes traffic.  Add man
 
 - External TCP/UDP Network Load Balancing can use either a backend service or a target pool to define the group of backend instances that receive incoming traffic.
 - For more see [link](https://cloud.google.com/load-balancing/docs/target-pools)
+
+---
+
+## NLB and Cloud Run
+
+A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
+
+- About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+- Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
+- For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 
 
 
