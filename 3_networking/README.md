@@ -1,6 +1,9 @@
-# Sketchnote for GCP Networking
+# GCP Networking
 
-![GCP Network Choices](https://https://storage.googleapis.com/gweb-cloudblog-publish/images/image1_qJ8TE3M.max-2000x2000.jpg)
+Thanks to @pvergadia for this #GCPSketchNote
+
+![GCP Network Choices](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/networking-sketchnote.png)
+
 
 ## Network Choices
 
