@@ -58,9 +58,9 @@ A backend service defines how Cloud Load Balancing distributes traffic.  Add man
 
 ---
 
-## NLB and Cloud Run
+## Serverless Network Endpoint Groups (NEG)
 
-A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A serverless NEG is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
+A network endpoint group (NEG) specifies a group of backend endpoints for a load balancer. A **serverless NEG** is a backend that points to a Cloud Run, App Engine, or Cloud Functions service.
 
 -  📖  About serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
 -  📖  Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
