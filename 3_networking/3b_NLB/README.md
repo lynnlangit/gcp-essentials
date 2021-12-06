@@ -66,6 +66,7 @@ A network endpoint group (NEG) specifies a group of backend endpoints for a load
 -  📖 - Overview of Serverless network endpoint groups - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
 -  📖 - For an example, see this [link](https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless)
 -  📖 - Limitations of serverless NEGs - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts#limitations)
+-  📖 - Securing ClourRun access with NLBs - [link](https://cloud.google.com/run/docs/securing/ingress)
 
 
 
