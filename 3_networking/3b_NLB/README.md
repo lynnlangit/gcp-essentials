@@ -68,5 +68,11 @@ A network endpoint group (NEG) specifies a group of backend endpoints for a load
 -  📖 - Limitations of serverless NEGs - [link](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts#limitations)
 -  📖 - Securing ClourRun access with NLBs - [link](https://cloud.google.com/run/docs/securing/ingress)
 
+### Example
+
+Shown below is a customer example 
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-nlb-example.png" width=800>
+
 
 
