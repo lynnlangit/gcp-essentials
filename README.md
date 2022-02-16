@@ -7,6 +7,7 @@ This repository contains sample code, links and scripts for working with Google 
 - 📘 For more info about advanced topics, see the links in the [`GCP-Essentials_Links.csv`](https://github.com/lynnlangit/gcp-essentials/blob/master/GCP-Essentials-Links.csv) page in this Repo
 
 ## Other Tools
+- 📝 interactive list of every **GCP Service in 4 words** - [link](https://googlecloudcheatsheet.withgoogle.com/)
 - :octocat: **"GCP Microservices Demo"** - [link](https://github.com/GoogleCloudPlatform/microservices-demo) to runnable demo
 - 📔 **GCP Qwiklabs** - [link](https://www.qwiklabs.com/) sandboxed environments and GCP labs
 - 📘 **GCP (gcloud) command quick ref** - [link](https://github.com/gagandeepreehal/Cheatsheets/blob/main/Network%2C%20Cloud%20%26%20Security/Google%20Cloud.pdf)
