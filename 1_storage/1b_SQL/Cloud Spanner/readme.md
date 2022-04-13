@@ -9,3 +9,7 @@ Spanner supports globally distributed transactional databases.
     - query visualizer - https://cloud.google.com/spanner/docs/tune-query-with-visualizer
     - query statistics - https://cloud.google.com/spanner/docs/query-stats-tables
     - transaction statistics - https://cloud.google.com/blog/products/databases/database-transaction-stats-in-spanner
+
+## Real-world Spanner Tips
+
+- Great list of 'Do's/Don'ts for Spanner' by @polleyg --> https://polleyg.dev/posts/spanner-tips/
