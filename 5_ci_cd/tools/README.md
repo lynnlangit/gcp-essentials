@@ -10,16 +10,16 @@ The table below shows GCP tools by User Persona / Role.  The **bold** item(s) ar
 | Personas  | Tools |
 | ------------- | ------------- |
 | Learners, Application Users  | GCP Console (WebUI) |
-| **DevOps, Developers**  | **Cloud Shell and gcloud**  |
+| DevOps, Developers  | Cloud Shell and gcloud  |
 | DevOps, Developers  | gcloud running locally |
 | Data Scientists  | Colab Notebooks  |
 | Data Scientists  | Vertex AI Managed Notebook Instances  |
 | Data Scientists  | Vertex AI APIs  |
 | **DevOps**  | **GCP Deployments and Terraform**  |
 | **DevOps**  | **GCP SCC monitoring**  |
-| Developers  | VSCode with Google Cloud add-in  |
-| Developers  | GCP APIs  |
+| **Developers**  | **VSCode with Google Cloud add-in**  |
+| **Developers**  | **GCP APIs**  |
 | **DevOps, Developers**  | **Google Container and Artifact Registries** |
-| DevOps, Developers  | Google KMS |
-| DevOps, Developers  | Code Commit Repositories |
+| **DevOps, Developers**  | **Google KMS** |
+| **DevOps, Developers**  | **Code Commit Repositories** |
 | **DevOps, Developers**  | **Cloud Build** |
