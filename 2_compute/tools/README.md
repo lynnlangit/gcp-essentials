@@ -9,9 +9,9 @@ The table below shows GCP tools by User Persona / Role.  The **bold** item(s) ar
 
 | Personas  | Tools |
 | ------------- | ------------- |
-| **Learners, Application Users**  | **GCP Console (WebUI)**  |
-| DevOps, Developers  | Cloud Shell and gcloud |
-| DevOps, Developers  | gcloud running locally |
+| Learners, Application Users  | GCP Console (WebUI) |
+| **DevOps, Developers**  | **Cloud Shell and gcloud**  |
+| **DevOps, Developers**  | **gcloud running locally** |
 | Data Scientists  | Colab Notebooks  |
 | Data Scientists  | Vertex AI Managed Notebook Instances  |
 | Data Scientists  | Vertex AI APIs  |
