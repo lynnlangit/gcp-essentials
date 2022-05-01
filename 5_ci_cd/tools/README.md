@@ -21,5 +21,5 @@ The table below shows GCP tools by User Persona / Role.  The **bold** item(s) ar
 | **Developers**  | **GCP APIs**  |
 | **DevOps, Developers**  | **Google Container and Artifact Registries** |
 | **DevOps, Developers**  | **Google KMS** |
-| **DevOps, Developers**  | **Code Commit Repositories** |
+| **DevOps, Developers**  | **Cloud Source Repositories** |
 | **DevOps, Developers**  | **Cloud Build** |
