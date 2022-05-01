@@ -1,6 +1,6 @@
 # Tools for GCP
 
-This folder contains info about tools commonly used with GCP for this set of services.**
+This folder contains info about tools commonly used with GCP for this set of services.
 
 
 ## Tools by Persona
