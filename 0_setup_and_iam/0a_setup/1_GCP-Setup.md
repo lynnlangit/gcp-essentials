@@ -25,11 +25,11 @@ You can use the editor and language of your choice.  I am using VSCode and Pytho
         - Python
         - VS Code Jupyter Notebook viewer
 
-## GCP SDK 
+## GCP Cloud SDK 
  
- You can use the included console in GCP to run GCP SDK (gcloud) commands or you can download and install the GCP SDK locally
+ You can use the included console in GCP to run GCP Cloud SDK (`gcloud`, `gsutil`, `bq` and others...) commands or you can download and install the GCP SDK locally
 
- - Download,unzip, install and authenticate to GCP SDK
+ - Download,unzip, install and authenticate to GCP Cloud SDK
  - Verify with `gcloud auth list` or `gcloud config list`
 
  ## Enable APIs
