@@ -28,4 +28,4 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
   - inegrated Kubernetes testing tools using `minikube`, dashboard and `kubectl`
   - mulitple run modes ( default | safe | ephemeral )
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=600>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-editor.png" width=600>
