@@ -13,6 +13,14 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
 - Wait for the Cloud Shell to initialize (first use) and click `authorize` when the dialog box pops us
 - Review installed components using `gcloud components list`
 - Enable auto-complete using `gcloud beta interactive` (example in terminal mode is shown below)
+- Cloud Shell terminal includes...
+  - Google Cloud SDK cli tools (`gcloud`, `gsutil`, `bq`....)
+  - Terraform tools
+  - Docker tools
+  - Kubernetes tools - `minikube`, `kubectl`
+  - Source control tools - `git` and more --> https://cloud.google.com/shell/docs/how-cloud-shell-works#tools
+  - multiple run modes ( default | safe | ephemeral )
+  - configuration options --> https://cloud.google.com/shell/docs/configuring-cloud-shell
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=600>
 
