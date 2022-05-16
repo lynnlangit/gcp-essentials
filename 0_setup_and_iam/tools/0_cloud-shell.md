@@ -4,8 +4,8 @@ Use Google Cloud Shell (VM) from within Google Cloud to use the set of Google Cl
 some customers prefer to install these tools on their local laptops.
 
 Google Cloud Shell has multiple modes of operation.  These include Terminal mode or Editor Mode
-- Terminal mode - interactive BASH shell, you can open multiple terminal windows using the `+` button in the shell
-- Editor mode - cloud-based IDE, open from terminal by clicking the `open editor` button. Editor includes...
+- **Terminal mode** - interactive BASH shell, you can open multiple terminal windows using the `+` button in the shell
+- **Editor mode** - cloud-based IDE, open from terminal by clicking the `open editor` button. Editor includes...
 
 ## Using Terminal Mode
 
