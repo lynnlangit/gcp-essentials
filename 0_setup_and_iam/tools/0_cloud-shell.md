@@ -7,7 +7,7 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
 - Terminal mode - interactive BASH shell, you can open multiple terminal windows using the `+` button in the shell
 - Editor mode - cloud-based IDE, open from terminal by clicking the `open editor` button. Editor includes...
 
-## Process / Terminal Mode
+## Using Terminal Mode
 
 - From the Google Cloud WebUI (or console), click the white terminal buttom on the upper right of the blue bar
 - Wait for the Cloud Shell to initialize (first use) and click `authorize` when the dialog box pops us
@@ -16,7 +16,7 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=600>
 
-## Process / Editor Mode
+## Using Editor Mode
 
 - From the GCP console, open Cloud Shell, then from terminal window, click the `open editor` button. Editor includes...
   - auto-detected language linters, i.e. for Python, etc...
