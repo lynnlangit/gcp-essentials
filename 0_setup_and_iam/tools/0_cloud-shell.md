@@ -10,3 +10,5 @@ some customers prefer to install these tools on their local laptops.
 - Review installed components using `gcloud components list`
 - Enable auto-complete using `gcloud beta interactive` (example shown below)
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=800>
+
