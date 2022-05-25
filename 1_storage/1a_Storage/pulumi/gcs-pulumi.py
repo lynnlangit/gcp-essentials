@@ -1,6 +1,5 @@
 # Pulumi Examples
 
-
 # Create a GCS bucket
 import pulumi
 import pulumi_gcp as gcp
