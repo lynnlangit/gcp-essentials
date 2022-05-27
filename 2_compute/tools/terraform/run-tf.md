@@ -18,5 +18,8 @@
 ## Output the private IP address of the instance
 `terraform output private_ip`
 
+## Show the Terraform state
+`terraform show`
+
 
 
