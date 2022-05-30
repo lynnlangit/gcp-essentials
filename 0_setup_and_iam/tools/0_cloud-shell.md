@@ -13,17 +13,19 @@ From the Google Cloud WebUI (or console), click the white terminal buttom on the
 - Wait for the Cloud Shell to initialize (first use) and click `authorize` when the dialog box pops us
 - Review installed components using `gcloud components list`
 - Enable auto-complete using `gcloud beta interactive` (example in terminal mode is shown below)
-- Cloud Shell terminal includes a number of tools and libraries --> https://cloud.google.com/shell/docs/how-cloud-shell-works#tools
-  - Google Cloud SDK cli tools (`gcloud`, `gsutil`, `bq`....)
-  - Terraform tools
-  - Docker tools
-  - Kubernetes tools - `minikube`, `kubectl`
-  - Text editors and source control tools - `git`, `nano` and more 
-  - Build and package tools - `pip` , `npm` and more
-  - Data science tools - `ipython`, `tensorFlow` and more
-  - multiple run modes ( default | safe | ephemeral )
-  - configuration options --> https://cloud.google.com/shell/docs/configuring-cloud-shell
-  - **TIPS** Google Cloud Shell cheat sheet --> https://cloud.google.com/sdk/docs/cheatsheet
+- Cloud Shell terminal includes a number of tools and libraries --> [link](https://cloud.google.com/shell/docs/how-cloud-shell-works#tools)
+  - Tools and Libraries
+    - Google Cloud SDK cli tools (`gcloud`, `gsutil`, `bq`....)
+    - Terraform tools
+    - Docker tools
+    - Kubernetes tools - `minikube`, `kubectl`
+    - Text editors and source control tools - `git`, `nano` and more 
+    - Build and package tools - `pip` , `npm` and more
+    - Data science tools - `ipython`, `tensorFlow` and more
+  - Modes and Configurations
+    - multiple run modes ( default | safe | ephemeral )
+    - configuration options --> https://cloud.google.com/shell/docs/configuring-cloud-shell
+    - **TIPS** Google Cloud Shell cheat sheet --> https://cloud.google.com/sdk/docs/cheatsheet
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=600>
 
