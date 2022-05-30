@@ -19,7 +19,7 @@ The table below shows GCP tools by User Persona / Role.  The **bold** item(s) ar
 | **Data Scientists**  | **Colab Notebooks**  |
 | **Data Scientists**  | **Vertex AI Managed Notebook Instances**  |
 | **Data Scientists**  | **Vertex AI APIs**  |
-| DevOps  | GCP Deployments and Terraform**  |
+| DevOps  | GCP Deployments and Terraform  |
 | DevOps  | GCP SCC monitoring  |
 | Developers  | VSCode with Google Cloud add-in  |
 | Developers  | GCP APIs  |
