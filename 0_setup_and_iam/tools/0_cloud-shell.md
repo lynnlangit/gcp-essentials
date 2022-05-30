@@ -9,7 +9,7 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
 
 ## Using Terminal Mode
 
-- From the Google Cloud WebUI (or console), click the white terminal buttom on the upper right of the blue bar
+From the Google Cloud WebUI (or console), click the white terminal buttom on the upper right of the blue bar
 - Wait for the Cloud Shell to initialize (first use) and click `authorize` when the dialog box pops us
 - Review installed components using `gcloud components list`
 - Enable auto-complete using `gcloud beta interactive` (example in terminal mode is shown below)
@@ -21,6 +21,7 @@ Google Cloud Shell has multiple modes of operation.  These include Terminal mode
   - Source control tools - `git` and more --> https://cloud.google.com/shell/docs/how-cloud-shell-works#tools
   - multiple run modes ( default | safe | ephemeral )
   - configuration options --> https://cloud.google.com/shell/docs/configuring-cloud-shell
+  - **TIPS** Google Cloud Shell cheat sheet --> https://cloud.google.com/sdk/docs/cheatsheet
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-interactive.png" width=600>
 
