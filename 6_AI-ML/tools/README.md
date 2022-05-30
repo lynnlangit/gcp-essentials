@@ -4,7 +4,7 @@ This folder contains info about tools commonly used with GCP for this set of ser
 
 ## Notebook Examples
 
-- :Octocat: In my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml/tree/master/notebooks
+- :octocat: In my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml/tree/master/notebooks
 
 
 ## Tools by Persona
