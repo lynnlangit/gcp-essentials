@@ -42,3 +42,12 @@ From the Google Cloud WebUI (or console), click the white terminal buttom on the
   - mulitple run modes ( default | safe | ephemeral )
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cloud-shell-editor.png" width=600>
+
+## Limits and Customization
+
+There are a number of default resource limits, see this [link](https://cloud.google.com/shell/docs/quotas-limits) and notable...
+- Default storage is 5 GB persistant disk
+- Use `tmux` to allows persistence across browser tab sessions. `Ctrl+b` and then `%`, tmux splits the current session window into left and right panes, which can be useful for debugging
+- Customize using a startup script - [link](https://cloud.google.com/shell/docs/configuring-cloud-shell#environment_customization_script) - can also use a custom Docker image
+- Default inactive timeout is 20 minutes
+- Cloud Shell Terminal Ephemeral mode does not store any information on disk, but is fastest to startup and use
