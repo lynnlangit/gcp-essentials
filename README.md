@@ -4,7 +4,7 @@ This repository contains sample code, links and scripts for working with Google 
 - 📚 **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-4) to course. This course is also named **"Google Cloud Platform Essential Training for Administrators"**
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course
-- 🌟 Coming soon in 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into this repo --> example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam)
+- 🌟 Coming soon in 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into this repo --> example in `tools` folder at [link]([https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
 - 📘 For more info about advanced topics, see the links in the [`GCP-Essentials_Links.csv`](https://github.com/lynnlangit/gcp-essentials/blob/master/GCP-Essentials-Links.csv) page in this Repo
 
 ## Other Tools
