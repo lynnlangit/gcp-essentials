@@ -51,3 +51,4 @@ There are a number of default resource limits, see this [link](https://cloud.goo
 - Customize using a startup script - [link](https://cloud.google.com/shell/docs/configuring-cloud-shell#environment_customization_script) - can also use a custom Docker image
 - Default inactive timeout is 20 minutes
 - Cloud Shell Terminal Ephemeral mode does not store any information on disk, but is fastest to startup and use
+- NOTE: The GCP VM must be in the same GCP network as the resource(s) in your project in order to be able to interact/operate with them
