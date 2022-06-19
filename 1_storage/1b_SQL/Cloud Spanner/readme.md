@@ -19,4 +19,6 @@ Spanner supports globally distributed transactional databases.
 - Detailed blog post --> https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36
 - Image of GCP Spanner harware (from Google and also blog linked above) shown below
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/true-time.jpg" width=800>
+
 
