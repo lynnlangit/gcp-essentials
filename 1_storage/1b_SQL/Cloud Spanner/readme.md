@@ -13,3 +13,10 @@ Spanner supports globally distributed transactional databases.
 ## Real-world Spanner Tips
 
 - Great list of 'Do's/Don'ts for Spanner' by @polleyg --> https://polleyg.dev/posts/spanner-tips/
+
+## Internals
+
+- Detailed blog post --> https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36
+- Image of GCP Spanner harware (from Google and also blog linked above) shown below
+
+
