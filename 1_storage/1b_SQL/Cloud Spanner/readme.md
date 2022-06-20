@@ -14,6 +14,7 @@ Spanner supports globally distributed transactional databases.
 
 - Great list of 'Do's/Don'ts for Spanner' by @polleyg --> https://polleyg.dev/posts/spanner-tips/
 - Spanner schema design best practices --> https://cloud.google.com/spanner/docs/schema-design
+- Spanner SQL best practices --> https://cloud.google.com/spanner/docs/sql-best-practices
 - How to write a commit timestamp for each insert and update operation --> https://cloud.google.com/spanner/docs/commit-timestamp
 - Spanner timestamp bounds configuration options explained --> https://cloud.google.com/spanner/docs/timestamp-bounds
 
