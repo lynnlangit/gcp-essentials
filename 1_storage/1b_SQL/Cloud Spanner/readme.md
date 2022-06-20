@@ -2,6 +2,8 @@
 
 Spanner supports globally distributed transactional databases. 
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/spanner-sketchnote.png" width=800>
+
 - Read "The Story of Spanner" - [link](https://medium.com/google-cloud/spanners-sql-story-79bda8bb632d)
 - Try Spanner using Google Codelabs - https://cloud.google.com/spanner/docs/labs?linkId=97409312
 - Spanner includes query performance observability metrics via...
