@@ -18,6 +18,7 @@ To create a new database, run the following command:
 To create a new table, run the following command:  
 `gcloud spanner tables create my-table --instance=my-instance --database=my-database`  
 `gcloud spanner databases ddl update example-db --ddl='CREATE TABLE Singers ( SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo BYTES(MAX) ) PRIMARY KEY (SingerId)`  
+`gcloud spanner tables create Albums --ddl=`CREATE TABLE Albums ( SingerId INT64 NOT NULL, AlbumId INT64 NOT NULL, AlbumTitle STRING(MAX) ) PRIMARY KEY (SingerId, AlbumId)`
 
 To update a table, run the following command:  
 `gcloud spanner databases ddl update example-db --ddl='CREATE TABLE Singers ( SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo BYTES(MAX) ) PRIMARY KEY (SingerId)`  
