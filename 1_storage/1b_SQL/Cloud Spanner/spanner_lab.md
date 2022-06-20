@@ -5,28 +5,24 @@ https://cloud.google.com/spanner/docs/samples/spanner-quickstart
 ### Setup Spanner
 
 To create an intance configuration, run the following command:  
-`gcloud spanner instance-configs create my-config --instance=my-instance`  
+`gcloud spanner instance-configs create my-config --instance=my-instance --config=regional-us-central1`   
 
 To setup a new Spanner instance, run the following command:  
-`gcloud spanner instances create my-instance --config=regional-us-central1`  
-`gcloud spanner instances create test-instance --config=regional-us-central1 --description="My Instance" --nodes=1`  
+`gcloud spanner instances create my-instance --instance-config=my-config --display-name="My Instance" --num-nodes=1` 
 
-To create a new database, run the following command:  
-`gcloud spanner databases create my-database --instance=my-instance`  
-`gcloud spanner databases create example-db --instance=example-instance`    
-
-To create a new table, run the following command:  
-`gcloud spanner tables create my-table --instance=my-instance --database=my-database`  
-`gcloud spanner databases ddl update example-db --ddl='CREATE TABLE Singers ( SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo BYTES(MAX) ) PRIMARY KEY (SingerId)`  
-`gcloud spanner tables create Albums --ddl=`CREATE TABLE Albums ( SingerId INT64 NOT NULL, AlbumId INT64 NOT NULL, AlbumTitle STRING(MAX) ) PRIMARY KEY (SingerId, AlbumId)`
+To create a new database and table, run the following command:  
+`gcloud spanner databases create my-database --instance=my-instance --ddl="CREATE TABLE Singers (SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo STRING(1024) ) PRIMARY KEY (SingerId)"`  
 
 To update a table, run the following command:  
-`gcloud spanner databases ddl update example-db --ddl='CREATE TABLE Singers ( SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo BYTES(MAX) ) PRIMARY KEY (SingerId)`  
+`gcloud spanner databases ddl update my-database --instance=my-instance --ddl="UPDATE TABLE Singers (SingerId INT64 NOT NULL, FirstName STRING(1024), LastName STRING(1024), SingerInfo STRING(1024), Birthplace STRING(1024) ) PRIMARY KEY (SingerId)"`
+
+To create another table with a timestamp column, run the following command:
+`gcloud spanner tables create Albums --ddl="CREATE TABLE Albums ( SingerId INT64 NOT NULL, AlbumId INT64 NOT NULL, AlbumTitle STRING(MAX) ) PRIMARY KEY (SingerId, AlbumId), Timestamp TIMESTAMP()"`
 
 ### Insert Data
 
 To insert a new row, run the following command:  
-`gcloud spanner rows insert my-table --instance=my-instance --database=my-database --json-file=my-data.json`  
+`gcloud spanner rows insert my-table --instance=my-instance --database=my-database --json-file=my-data.json`  --or-- --data-string="'SingerId': 1, 'FirstName': 'Marc', 'LastName': 'Richards', 'SingerInfo': 'American singer.'"  
 
 ```
 gcloud spanner rows insert --database=example-db \
