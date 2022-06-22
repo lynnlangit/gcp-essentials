@@ -1,6 +1,6 @@
-# What is GCLOUD Storage?
+# What is the gcloud storage command set?
 
-Using the new `gcloud storage ...` command is an alternative to using `gsutil` commands to work with GCS (Google Cloud Storage).  
+Using the new `gcloud storage ...` command set is an alternative to using `gsutil` commands to work with GCS (Google Cloud Storage) object instances (buckets, folders, files).  
 
 (From GCP [Docs](https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-enables-super-fast-data-transfers)) *"Gcloud storage takes large files and breaks them down into pieces, so that transfers can best take advantage of the available bandwidth. What’s new in `gcloud storage` (vs `gsutil` is its **parallelization strategy**, which treats task management as a graph problem, where each unit of work is treated as a node, and each dependency as an edge. This strategy allows **more work to be done in parallel** with far less overhead. Under the hood, gcloud storage also benefits from a new hashing library that enables faster integrity checking. It can also adjust its own settings based on the workload and local machine size to optimize for performance."* 
 
