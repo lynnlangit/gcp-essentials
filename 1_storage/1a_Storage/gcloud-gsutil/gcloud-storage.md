@@ -4,9 +4,12 @@
 
 ## Performance Comparision
 
-When transferring **100 files** that were 100MB in size, `gcloud storage` was 79% faster than `gsutil` on download and 33% faster on upload, with both using a composite upload strategy, where a file was broken up and uploaded as separate files, and then recombined into a single file. 
+When transferring **100 files** that were 100MB in size
+- `gcloud storage` was **79% faster** than `gsutil` on download and 33% faster on upload
+-  with both using a composite upload strategy, where a file was broken up and uploaded as separate files, and then recombined into a single file. 
 
-When transferring **a single large file**, the difference is even more pronounced. With a 10GB file, `gcloud storage` was 94% faster than `gsutil` on download and 57% faster on upload.
+When transferring **a single large file**, the difference is even more pronounced
+- With a 10GB file, `gcloud storage` was **94% faster** than `gsutil` on download and 57% faster on upload.
 
 To quickly try it out
 ```
