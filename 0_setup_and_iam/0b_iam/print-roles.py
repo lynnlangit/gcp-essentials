@@ -19,3 +19,4 @@ for role in roles:
     print('Name: ' + role['name'])
     print('Description: ' + role['description'])
     print('')
+
