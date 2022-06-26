@@ -2,10 +2,11 @@
 
 This folder contains info about tools commonly used with GCP for this set of services.
 
-## Notebook Examples
+## Tool and Notebook Examples
 
-- :octocat: In my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml/tree/master/notebooks
-
+- :octocat: TOOLS -- in my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml
+- :octocat: NOTEBOOKS -- in my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml/tree/master/notebooks
+- :octocat: SCRIPTS -- in my `GCP-ML` Repo --> https://github.com/lynnlangit/gcp-ml/tree/master/scripts
 
 ## Tools by Persona
 
