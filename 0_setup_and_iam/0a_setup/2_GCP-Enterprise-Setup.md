@@ -1,5 +1,7 @@
 # Setup for Enterprise GCP Account
 
+- Basic Checklist - Set up GCP Enterprise Account --> https://cloud.google.com/docs/enterprise/setup-checklist#checklist-title
+
 ## Enterprise GCP Account Setup
 
 The following are general setup steps for an enterprise GCP account:
