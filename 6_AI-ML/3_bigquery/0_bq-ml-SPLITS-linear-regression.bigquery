@@ -1,5 +1,9 @@
 --  Linear regression — use to predict a numeric value
 
+--#0 - Dataset and Table
+-- CREATE a BigQuery dataset in the BQ console named 'bqml_tutorial' in 'US'
+-- CREATE a table named `mytable'
+
 -- #1 - Train - no split
 #standardSQL
     CREATE MODEL `bqml_tutorial.linearModel` OPTIONS ( model_type='linear_reg', ls_init_learn_rate=.15, l1_reg=1,max_iterations=5 ) AS
@@ -12,7 +16,7 @@
 --         IFNULL(device.operatingSystem, "") AS os,
 --         device.isMobile AS is_mobile,
 --         IFNULL(totals.pageviews, 0) AS pageviews
-    FROM `lynnlangit.mytable`
+    FROM `mydataset.mytable`
     WHERE column4 < 10
 
 -- #2 - Sequential data split
