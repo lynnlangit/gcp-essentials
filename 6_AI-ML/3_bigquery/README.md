@@ -3,14 +3,12 @@
 Code samples BigQuery Machine Learning.  BQ ML currently supports the following types of models:  
 
  - **Linear regression** — use to predict a numerical value  
-
  - **Binary logistic regression** — use to predict whether an input is a member of a class or not  
-
  - **Multiclass logistic regression for classification** — use to predict whether an input is a member of 2+ classes 
         such as whether an input is "low-value", "medium-value", or "high-value"
 
  ## Samples
-
+  - [Quickstart Linear Regression in BQ ML](https://cloud.google.com/bigquery-ml/docs/create-machine-learning-model) includes data table set up
   - [BQ ML for Analysts](FROM 'https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start') code walkthrough
   - [CREATE MODEL](https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create#models_in_bqml_name') syntax
 
