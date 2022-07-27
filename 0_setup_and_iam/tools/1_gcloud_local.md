@@ -7,6 +7,8 @@ some customers prefer to install these tools on their local laptops.
 
 - Go to https://cloud.google.com/sdk/docs/install
 - Follow instructions for your OS - be sure to close terminal and re-open and then run `gcloud init...`
+  - TIP: For MacOS, this Medium article has step-by-step installation - [link](https://jansutris10.medium.com/install-google-cloud-sdk-using-homebrew-on-mac-2952c9c7b5a1) 
+  - TIP: For MacOS, use `homebrew install google-cloud-sdk`
 - Verify install using `gcloud version`
 - Init and auth https://cloud.google.com/sdk/docs/initializing
 
