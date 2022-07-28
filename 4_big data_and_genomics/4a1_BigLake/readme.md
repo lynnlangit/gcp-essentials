@@ -1,6 +1,8 @@
 # BigLake
 
-BigLake is a unified storage engine that simplifies data access for data warehouses and lakes by providing **uniform fine-grained access control** across multi-cloud storage and open formats. BigLake extends BigQuery's fine-grained row- and column-level security to tables on data resident object stores such as Amazon S3, Azure Data Lake Storage Gen2, and Google Cloud Storage. BigLake decouples access to the table from the underlying cloud storage data through access delegation. This feature helps you to securely grant **row- and column-level access** to users and pipelines in your organization without providing them full access to the table.  Architecture shown below.
+BigLake is a unified storage engine that simplifies data access for data warehouses and lakes by providing **uniform fine-grained access control** across multi-cloud storage and open formats. 
+- BigLake extends BigQuery's fine-grained row- and column-level security to tables on data resident object stores such as Amazon S3, Azure Data Lake Storage Gen2, and Google Cloud Storage. 
+- BigLake decouples access to the table from the underlying cloud storage data through access delegation. This feature helps you to securely grant **row- and column-level access** to users and pipelines in your organization without providing them full access to the table.  Architecture shown below.
 
 <img src="https://cloud.google.com/bigquery/images/biglake_arch.png" width=800>
 
