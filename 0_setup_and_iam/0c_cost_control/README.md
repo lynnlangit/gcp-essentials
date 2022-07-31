@@ -15,6 +15,10 @@ Cost management is an important skill set for using GCP services. Shown below is
 
 - 5 best practices for controlling compute engine costs - https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization
 
+## Cloud Billing API
+
+- IAM roles for Cloud Billing Service - https://cloud.google.com/billing/v1/how-tos/access-control
+
 ## Other Tools and Patterns
 
 - Understand and analyze cloud costs - https://cloud.google.com/blog/topics/developers-practitioners/understanding-and-analyzing-your-google-cloud-costs
