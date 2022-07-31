@@ -11,6 +11,10 @@ Cost management is an important skill set for using GCP services. Shown below is
 - View cost details for GCP - https://cloud.google.com/billing/docs/how-to/cost-table
 - Short article, best practices for cost control - https://www.linkedin.com/pulse/gcp-cost-management-best-practices-kevin-johnson-/
 
+## Control Compute Costs
+
+- 5 best practices for controlling compute engine costs - https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization
+
 ## Other Tools and Patterns
 
 - Understand and analyze cloud costs - https://cloud.google.com/blog/topics/developers-practitioners/understanding-and-analyzing-your-google-cloud-costs
