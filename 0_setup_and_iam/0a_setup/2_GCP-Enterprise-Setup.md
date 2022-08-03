@@ -1,20 +1,22 @@
 # Setup for Enterprise GCP Account
 
-- Basic Checklist - Set up GCP Enterprise Account --> [link](https://cloud.google.com/docs/enterprise/setup-checklist#checklist-title)
+Basic Checklist - Set up GCP Enterprise Account --> [link](https://cloud.google.com/docs/enterprise/setup-checklist#checklist-title)
 
 ## Enterprise GCP Account Setup
 
 The following are general setup steps for an enterprise GCP account:
 
-### Identity
+### Identity and Organization
 
 - Determine your **identity store** (G Suite, Federated Active Directory...)
     - Create a new domain or use Cloud Identity
-- Create a new **GCP Organization**
+- Create a new **GCP Organization** structure (see diagram below)
     - Determine membeship of **Super Admins** Group
     - Create Folders (optional) or Projects
     - Determine membership in **Project Admins** Groups
     - Populate 'Essential Contacts' for the each project (in 'IAM & Admin')
+
+ <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/raw/master/images/resources.png" width="800">  
 
 ### Billing and Support
 - Create a billing account using invoiced-based, business billing 
