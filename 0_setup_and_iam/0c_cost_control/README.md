@@ -1,6 +1,6 @@
 # GCP Cost Control
 
-Cost management is an important skill set for using GCP services. Shown below is an example Billing Console.
+Cost management is an important skill set for using GCP services. Effective cost control is implemented via a set of practices, patterns and tools.  Increasingly, GCP includes tools for this topic.  Shown below is a good starting point - an example of the GCP Billing Console.
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-billing.png" width=800>
 
