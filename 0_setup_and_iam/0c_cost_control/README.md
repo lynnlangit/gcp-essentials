@@ -13,18 +13,19 @@ Cost management is an important skill set for using GCP services. Effective cost
 - Short article, best practices for cost control - https://www.linkedin.com/pulse/gcp-cost-management-best-practices-kevin-johnson-/
 
 ## Control Storage Costs
-- Best practices for controlling cloud storage (bucket) costs - https://cloud.google.com/blog/products/storage-data-transfer/best-practices-for-cloud-storage-cost-optimization
+- :cloud: Best practices for controlling cloud storage (bucket) costs - [link](https://cloud.google.com/blog/products/storage-data-transfer/best-practices-for-cloud-storage-cost-optimization)
 
 ## Control Compute Costs
 
-- 5 best practices for controlling compute engine costs - https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization
-- Example BQ Cloud Billing queries - https://cloud.google.com/billing/docs/how-to/bq-examples
-- Docs "Reduce GKE Costs by Scaling Down Clusters" - https://cloud.google.com/architecture/reducing-costs-by-scaling-down-gke-off-hours
+- 5️⃣ Article: "5 best practices for controlling compute engine costs" - [link](https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization)
+- ❓ Example BQ Cloud Billing queries - [link](https://cloud.google.com/billing/docs/how-to/bq-examples}
+- 📖 Docs "GKE Cost Optimization Options (HPA, VPA, more...) - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#gke_cost-optimization_features_and_options)
+- 📖 Docs "Reduce GKE Costs by Scaling Down Clusters" - [link](https://cloud.google.com/architecture/reducing-costs-by-scaling-down-gke-off-hours)
 
 ## Analyze and Control Costs
 
-- 🔑 IAM roles for Cloud Billing API - https://cloud.google.com/billing/v1/how-tos/access-control
-- 👀 Viz costs over time - https://cloud.google.com/billing/docs/how-to/visualize-data
+- 🔑 IAM roles for Cloud Billing API - [link](https://cloud.google.com/billing/v1/how-tos/access-control)
+- 👀 Viz costs over time - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
 
 ----
 
