@@ -10,6 +10,7 @@ Cost management is an important skill set for using GCP services. Effective cost
 - Cloud Billing onboarding checklist - https://cloud.google.com/billing/docs/onboarding-checklist
 - View cost details for GCP - https://cloud.google.com/billing/docs/how-to/cost-table
 - Online GCP service pricing calculator - https://cloud.google.com/products/calculator
+- Short article, best practices for cost control - https://www.linkedin.com/pulse/gcp-cost-management-best-practices-kevin-johnson-/
 
 ## Control Storage Costs
 - Best practices for controlling cloud storage (bucket) costs - https://cloud.google.com/blog/products/storage-data-transfer/best-practices-for-cloud-storage-cost-optimization
@@ -18,7 +19,7 @@ Cost management is an important skill set for using GCP services. Effective cost
 
 - 5 best practices for controlling compute engine costs - https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization
 - Example BQ Cloud Billing queries - https://cloud.google.com/billing/docs/how-to/bq-examples
-- Short article, best practices for cost control - https://www.linkedin.com/pulse/gcp-cost-management-best-practices-kevin-johnson-/
+- Docs "Reduce GKE Costs by Scaling Down Clusters" - https://cloud.google.com/architecture/reducing-costs-by-scaling-down-gke-off-hours
 
 ## Analyze and Control Costs
 
