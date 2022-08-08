@@ -14,7 +14,10 @@ Cost management is an important skill set for using GCP services. Effective cost
 
 ## Some Key GCP Pricing Features
 
-Google offers pricing features that help its users reduce their cloud costs:
+Google offers pricing features that help its users manage and reduce their cloud costs:
+- Flexible Payment Charging Cycles - more at [link](https://cloud.google.com/billing/docs/how-to/billing-cycle)
+  - **Monthly** - for invoiced or self-serve billing cycle types
+  - **Threshold** - when your account spend reaches a pre-defined level (for self-serve cycle types)
 - For Many Services (check documentation to verify which services are included).
   -  **Sustained-use discounts** — up to 30% off for workloads that run for most of the billing month on GCP services
   -  **Committed-use discounts** - up to 57% off if users commit to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period - more at [link](https://cloud.google.com/billing/docs/how-to/cud-analysis)
