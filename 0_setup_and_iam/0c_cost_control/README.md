@@ -10,6 +10,7 @@ Cost management is an important skill set for using GCP services. Effective cost
 - 📋 Cloud Billing onboarding checklist - [link](https://cloud.google.com/billing/docs/onboarding-checklist)
 - 💰View cost details for GCP - [link](https://cloud.google.com/billing/docs/how-to/cost-table)
 - ➕ Online GCP service pricing calculator - [link](https://cloud.google.com/products/calculator)
+- 💸 Understand and Use custom GCP Recommendations - [link](https://cloud.google.com/recommender/docs/insights/using-insights)
 - 🔖 Short article, best practices for cost control - [link](https://www.linkedin.com/pulse/gcp-cost-management-best-practices-kevin-johnson-/)
 
 ## Some Key GCP Pricing Features
