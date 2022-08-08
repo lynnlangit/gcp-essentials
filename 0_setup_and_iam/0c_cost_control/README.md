@@ -17,7 +17,7 @@ Cost management is an important skill set for using GCP services. Effective cost
 Google offers pricing features that help its users reduce their cloud costs:
 - For Many Services (check documentation to verify which services are included).
   -  **Sustained-use discounts** — up to 30% off for workloads that run for most of the billing month on GCP services
-  -  **Committed-use discounts** - up to 57% off if users commit to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period
+  -  **Committed-use discounts** - up to 57% off if users commit to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period - more at [link](https://cloud.google.com/billing/docs/how-to/cud-analysis)
 - For Google Compute Engine instance (VMs)  
   -  **Preemptible VMs** — up to 80% off for Virtual Machines (GCE instances) that they can be shut down at any time and replace with others
   -  **Per-second billing** — Google charges per second, which can add up to major savings when instances are frequently started and stopped.
