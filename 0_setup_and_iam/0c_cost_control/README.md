@@ -26,6 +26,20 @@ Google offers pricing features that help its users reduce their cloud costs:
   - **NearLine or ColdLine storage tiers** -  for archived data, which are significantly cheaper than ordinary storage and offer fast access.
 
 ## Control Storage Costs
+
+Google Cloud Storage offers 4 storage classes with progressively lower storage costs, but **higher retrieval costs**: 
+- **Standard** (frequently used data) - this is the default storage class
+- **Nearline** (infrequently used data) - accessed once a month or less
+- **Coldline** (rarely used data) - accessed once a year or less
+- **Archive** (long term archival) - accessed only for exceptions (DR, etc...)
+
+Cloud Storage pricing is based on the following components:
+- Data storage — quantity of data stored in Google Cloud Storage buckets
+- Network usage — amount of data transferred to or from storage
+- Operations use — actions performed on data within Google Cloud Storage
+- Retrieval & early deletion fees — only applies to information saved in the three cold storage tiers (Nearline, Coldline, Archive)
+
+GCP Guidance for Storage Costs
 - :cloud: Best practices for controlling cloud storage (bucket) costs - [link](https://cloud.google.com/blog/products/storage-data-transfer/best-practices-for-cloud-storage-cost-optimization)
 
 ## Control Compute Costs
