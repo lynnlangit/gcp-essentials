@@ -69,6 +69,7 @@ GCP Guidance for Storage Costs and Compliance
 
 - 🔑 IAM roles for Cloud Billing API - [link](https://cloud.google.com/billing/v1/how-tos/access-control)
 - 👀 Viz costs over time - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
+- 📖 Implement Cloud Logging Cost Control - [link](https://cloud.google.com/architecture/stackdriver-cost-optimization#implementing_cost_controls)
 
 ----
 
