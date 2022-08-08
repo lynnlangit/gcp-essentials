@@ -24,8 +24,12 @@ Google offers pricing features that help its users reduce their cloud costs:
   -  **Customizable machine types** — this feature lets users configure their own machine configurations. This can translate into significant savings if you need a machine with stronger capabilities, but the high-end instances offered by other providers are not an exact fit.
 - For Google Cloud Storage buckets (file/blob storage)
   - **NearLine or ColdLine storage tiers** -  for archived data, which are significantly cheaper than ordinary storage and offer fast access.
+  
+## Cost Control by Service
 
-## Control Storage Costs
+Sections for key services, organized by service type....
+
+### Control Storage Costs
 
 Google Cloud Storage offers 4 storage classes with progressively lower storage costs, but **higher retrieval costs**: 
 - **Standard** (frequently used data) - this is the default storage class
@@ -46,13 +50,18 @@ GCP Guidance for Storage Costs and Compliance
   - Add a **bucket lock** attribute to minimize the chance for accidental deletion and to prevent issues with compliance standards like FINRA and SEC.
   - Use of **best-fit storage tier** — Long-term storage is less expensive in terms of ongoing storage costs, but there are additional fees incurred if you need to access the data regularly. There are also minimum periods for data storage, so you may not be able to delete data if you realize it is not needed.
 
-## Control Compute Costs
+### Control Compute Costs
 
 - 5️⃣ Article: "5 best practices for controlling compute engine costs" - [link](https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization)
 - ❓ Example BQ Cloud Billing queries - [link](https://cloud.google.com/billing/docs/how-to/bq-examples)
 - 📋 Checklist: "GKE Scaling Best Practices: - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#summary_of_best_practices)
 - 📖 Docs "GKE Cost Optimization Options (HPA, VPA, more...) - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#gke_cost-optimization_features_and_options)
 - 📖 Docs "Reduce GKE Costs by Scaling Down Clusters" - [link](https://cloud.google.com/architecture/reducing-costs-by-scaling-down-gke-off-hours)
+
+### Control BigQuery Costs
+- Article: "Your Guide to BigQuery Cost" - [link](https://blog.coupler.io/bigquery-cost/)
+
+----
 
 ## Analyze and Control Costs
 
