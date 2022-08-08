@@ -58,7 +58,9 @@ GCP Guidance for Storage Costs and Compliance
 - 📖 Docs "GKE Cost Optimization Options (HPA, VPA, more...) - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#gke_cost-optimization_features_and_options)
 - 📖 Docs "Reduce GKE Costs by Scaling Down Clusters" - [link](https://cloud.google.com/architecture/reducing-costs-by-scaling-down-gke-off-hours)
 
-### Control BigQuery Costs
+### Control BigTable and BigQuery Costs
+
+- Docs: "BigTable Cost Control" - [link](https://cloud.google.com/bigtable/pricing)
 - Article: "Your Guide to BigQuery Cost" - [link](https://blog.coupler.io/bigquery-cost/)
 
 ----
