@@ -33,8 +33,7 @@ Google offers pricing features that help its users manage and reduce their cloud
   
 ## Cost Control by Service
 
-Sections for key services, organized by service type....
-
+Sections for key services, organized by service group type - links to additional pages in this repo.  
 ### Control Storage Costs - GCS Buckets - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/bucket-costs.md)
 ### Control Compute Costs - GCE VMs / GKE K8 - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control)
 ### Control BigTable and BigQuery Costs - DW / NoSQL - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/database-costs.md)
