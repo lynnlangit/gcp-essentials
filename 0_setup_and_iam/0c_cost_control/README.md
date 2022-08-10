@@ -30,13 +30,6 @@ Google offers pricing features that help its users manage and reduce their cloud
   - **NearLine or ColdLine storage tiers** -  for archived data, which are significantly cheaper than ordinary storage and offer fast access.
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cud-gcp.png" width=800>
-  
-## Cost Control by Service
-
-Sections for key services, organized by service group type - links to additional pages in this repo.  
-### Control Storage Costs - GCS Buckets - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/bucket-costs.md)
-### Control Compute Costs - GCE VMs / GKE K8 - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control)
-### Control BigTable and BigQuery Costs - DW / NoSQL - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/database-costs.md)
 
 ----
 
@@ -49,6 +42,15 @@ Sections for key services, organized by service group type - links to additional
 - 📖 Implement Cloud Logging Cost Control - [link](https://cloud.google.com/architecture/stackdriver-cost-optimization#implementing_cost_controls)
 
 ----
+
+## Cost Control by Service
+
+Sections for key services, organized by service group type - links to additional pages in this repo.  
+- Control Storage Costs - GCS Buckets - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/bucket-costs.md)
+- Control Compute Costs - GCE VMs / GKE K8 - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control)
+- Control BigTable and BigQuery Costs - DW / NoSQL - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/database-costs.md)
+
+---
 
 ## Other Tools and Patterns
 
