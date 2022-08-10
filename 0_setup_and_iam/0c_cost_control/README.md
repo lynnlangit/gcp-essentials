@@ -37,10 +37,7 @@ Sections for key services, organized by service type....
 
 ### Control Storage Costs - GCS Buckets - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/bucket-costs.md)
 ### Control Compute Costs - GCE VMs / GKE K8 - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control)
-### Control BigTable and BigQuery Costs - DW / NoSQL
-
-- Docs: "BigTable Cost Control" - [link](https://cloud.google.com/bigtable/pricing)
-- Article: "Your Guide to BigQuery Cost" - [link](https://blog.coupler.io/bigquery-cost/)
+### Control BigTable and BigQuery Costs - DW / NoSQL - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/database-costs.md)
 
 ----
 
