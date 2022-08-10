@@ -29,7 +29,7 @@ Google offers pricing features that help its users manage and reduce their cloud
 - For Google Cloud Storage buckets (file/blob storage)
   - **NearLine or ColdLine storage tiers** -  for archived data, which are significantly cheaper than ordinary storage and offer fast access.
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/setup-checklist.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/cud-gcp.png" width=800>
   
 ## Cost Control by Service
 
