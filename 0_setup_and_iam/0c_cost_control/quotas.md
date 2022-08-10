@@ -1,4 +1,4 @@
-## About Quotas
+## About Quotas and Billing Automation
 
 GCP mostly have quotas set by default. Quotas are set **per project**.  
 Quotas are set in the `IAM` section.    
@@ -16,4 +16,12 @@ TIP: Use filters by type to narrow the list - example shown below
 
 ### To check project Quotas
 `gcloud compute project-info describe --project PROJECT_ID`
+
+----
+
+### Pattern for Using Billing API
+
+Shows using GCP Pub/Sub as event bus for billing notification alerts
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/budget-api.png" width=500>
 
