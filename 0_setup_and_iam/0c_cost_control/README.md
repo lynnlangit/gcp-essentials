@@ -57,7 +57,6 @@ GCP Guidance for Storage Costs and Compliance
 ### Control Compute Costs - GCE VMs / GKE K8
 
 - 5️⃣ Article: "5 best practices for controlling compute engine costs" - [link](https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization)
-- :book: Doc "Compute Engine Quotas - [link](https://cloud.google.com/compute/quotas)
 - ❓ Example BQ Cloud Billing queries - [link](https://cloud.google.com/billing/docs/how-to/bq-examples)
 - 📋 Checklist: "GKE Scaling Best Practices: - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#summary_of_best_practices)
 - 📖 Docs "GKE Cost Optimization Options (HPA, VPA, more...) - [link](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke#gke_cost-optimization_features_and_options)
@@ -74,6 +73,7 @@ GCP Guidance for Storage Costs and Compliance
 
 - 🔑 IAM roles for Cloud Billing API - [link](https://cloud.google.com/billing/v1/how-tos/access-control)
 - 💰 Set budget alerts on GCP services - [link](https://cloud.google.com/billing/docs/how-to/budgets)
+- :book: Doc "GCP Service Quotas - [link](https://cloud.google.com/compute/quotas) and also this page - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/quotas.md)
 - 👀 Viz costs over time using Big Query and Data Studio - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
 - 📖 Implement Cloud Logging Cost Control - [link](https://cloud.google.com/architecture/stackdriver-cost-optimization#implementing_cost_controls)
 
