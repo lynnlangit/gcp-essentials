@@ -21,13 +21,15 @@ Google offers pricing features that help its users manage and reduce their cloud
   - **Threshold** - when your account spend reaches a pre-defined level (for self-serve cycle types)
 - For Many Services (check documentation to verify which services are included).
   -  **Sustained-use discounts** — up to 30% off for workloads that run for most of the billing month on GCP services
-  -  **Committed-use discounts** - up to 57% off if users commit to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period - more at [link](https://cloud.google.com/billing/docs/how-to/cud-analysis)
+  -  **Committed-use discounts** - up to 57% off if users commit to use an instance for a certain time period, with no upfront payment and with the flexibility to change instances during the commitment period - more at [link](https://cloud.google.com/billing/docs/how-to/cud-analysis) - report view example shown below
 - For Google Compute Engine instance (VMs)  
   -  **Preemptible VMs** — up to 80% off for Virtual Machines (GCE instances) that they can be shut down at any time and replace with others
   -  **Per-second billing** — Google charges per second, which can add up to major savings when instances are frequently started and stopped.
   -  **Customizable machine types** — this feature lets users configure their own machine configurations. This can translate into significant savings if you need a machine with stronger capabilities, but the high-end instances offered by other providers are not an exact fit.
 - For Google Cloud Storage buckets (file/blob storage)
   - **NearLine or ColdLine storage tiers** -  for archived data, which are significantly cheaper than ordinary storage and offer fast access.
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/setup-checklist.png" width=800>
   
 ## Cost Control by Service
 
