@@ -6,3 +6,7 @@ organization to distribute datasets across different locations."*
 
 - build --> https://cloud.google.com/dataplex/docs/build-a-data-mesh?hl=en_US
 - whitepaper --> https://services.google.com/fh/files/misc/build-a-modern-distributed-datamesh-with-google-cloud-whitepaper.pdf
+
+## Works with BigLake
+
+See also the BigLake page in this section
