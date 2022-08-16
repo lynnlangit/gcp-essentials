@@ -1,5 +1,15 @@
 ## About Quotas and Billing Automation
 
+## Analyze and Control Costs
+
+- 🔑 IAM roles for Cloud Billing API - [link](https://cloud.google.com/billing/v1/how-tos/access-control)
+- 💰 Set budget alerts on GCP services - [link](https://cloud.google.com/billing/docs/how-to/budgets)
+- :book: Doc "GCP Service Quotas - [link](https://cloud.google.com/compute/quotas) and also this page - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/quotas.md)
+- 👀 Viz costs over time using Big Query and Data Studio - [link](https://cloud.google.com/billing/docs/how-to/visualize-data)
+- 📖 Implement Cloud Logging Cost Control - [link](https://cloud.google.com/architecture/stackdriver-cost-optimization#implementing_cost_controls)
+
+----
+
 GCP mostly have quotas set by default. Quotas are set **per project**.  
 Quotas are set in the `IAM` section.    
 There are many types of quotas, in general, there are two approaches to quota type...
