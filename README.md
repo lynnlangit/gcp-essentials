@@ -5,7 +5,7 @@ This repository contains sample code, links and scripts for working with Google 
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course
 - 🌟 Coming in 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into this repo --> example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
-- 🌟 Coming in 2022 - **'GCP Cost Control'** will be a course on LI_L & associated updates into this repo --> key links on `costs` page at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control)
+- 🌟 Coming in 2022 - **'GCP Cost Control'** will be a course on LI_L & associated updates into this repo --> key links on `costs` page at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
 
 ## Other Tools
 - 📝 interactive list of every **GCP Service in 4 words** - [link](https://googlecloudcheatsheet.withgoogle.com/)
