@@ -1,6 +1,6 @@
 ### GCP Account Setup and Security
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/Arch-center.png" width=300 align="right">
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/Arch-center.png" width=300 align="right">
 
 #### Setup a GCP Account
 - Start with `1_GCP-Setup.md` - use this for personal GCP Projects for learning)  
