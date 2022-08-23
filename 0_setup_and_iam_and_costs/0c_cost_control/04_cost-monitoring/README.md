@@ -1,7 +1,7 @@
 ## About Quotas and Billing Automation
 
 ## Analyze and Control Costs
-
+- 📖 Best Practices for GCP Cost Optimization - [link](https://cloud.google.com/architecture/framework/cost-optimization)
 - 🔑 IAM roles for Cloud Billing API - [link](https://cloud.google.com/billing/v1/how-tos/access-control)
 - 💰 Set budget alerts on GCP services - [link](https://cloud.google.com/billing/docs/how-to/budgets)
 - :book: Doc "GCP Service Quotas - [link](https://cloud.google.com/compute/quotas) and also this page - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/0c_cost_control/quotas.md)
