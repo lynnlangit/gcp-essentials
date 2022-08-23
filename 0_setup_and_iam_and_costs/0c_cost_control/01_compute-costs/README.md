@@ -1,5 +1,9 @@
 ## Control Compute Costs
 
+The graphic below shows some of the available choices in right-sizing workloads on GCP (image from this [link](https://cloud.google.com/architecture/framework/cost-optimization/monitor).
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/gce-workloads.png" width=800>
+
 ### Control Compute Costs - GCE VMs / GKE K8
 
 - 5️⃣ Article: "5 best practices for controlling compute engine costs" - [link](https://cloud.google.com/blog/products/compute/5-best-practices-compute-engine-cost-optimization)
