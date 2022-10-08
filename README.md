@@ -1,11 +1,12 @@
 # My GCP Essentials Course Scripts, Links and Examples
 
 This repository contains sample code, links and scripts for working with Google Cloud Platform (GCP) services. Included technologies are for storage, database, big data and more.  This repository is designed to be used in conjunction with these LinkedIn Learning courses: 
+
 - 📚 **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-4) to course. This course is also named **"Google Cloud Platform Essential Training for Administrators"**
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course
-- 📚 **'GCP Tools'** - [link](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) to NEW course & associated updates into this repo --> example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools)
-- 🌟 Coming in 2022 - **'GCP Cost Control'** will be a course on LI_L & associated updates into this repo --> key links on `costs` page at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
+- 📚 **'GCP Tools'** - [link](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) to course & associated updates into this repo --> example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools)
+- 📚 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
 
 ## Other Tools
 - 📝 interactive list of every **GCP Service in 4 words** - [link](https://googlecloudcheatsheet.withgoogle.com/)
