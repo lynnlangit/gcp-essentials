@@ -15,8 +15,8 @@ When transferring **a single large file**, the difference is even more pronounce
 
 To quickly try it out
 ```
-gcloud alpha storage ls gs://pub
-gcloud alpha storage cp -r gs://pub/shakespeare/ .
+gcloud storage ls gs://pub
+gcloud storage cp -r gs://pub/shakespeare/ .
 ```
 
 ## gcloud storage syntax examples
@@ -25,16 +25,22 @@ gcloud alpha storage cp -r gs://pub/shakespeare/ .
 `gcloud storage ls`
 
 ### create bucket
-`gcloud storage create-bucket my-bucket`
+`gcloud storage buckets create my-bucket`
 
 ### list objects
 `gcloud storage ls my-bucket`
 
+### list object contents
+`gcloud storage cat my-bucket/my-file.txt`
+
 ### upload file
-`gcloud storage upload my-bucket/my-file.txt`
+`gcloud storage cp my-bucket/my-file.txt`
+
+### move/rename file
+`gcloud storage mv my-bucket/my-file.txt  my-new-filename.txt`
 
 ### delete file
-`gcloud storage delete my-bucket/my-file.txt`
+`gcloud storage rm my-bucket/my-file.txt`
 
 ### delete bucket
-`gcloud storage delete-bucket my-bucket`
+`gcloud storage buckets delete my-bucket`
