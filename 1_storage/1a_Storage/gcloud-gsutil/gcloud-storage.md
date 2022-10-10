@@ -21,14 +21,14 @@ gcloud alpha storage cp -r gs://pub/shakespeare/ .
 
 ## gcloud storage syntax examples
 
-### list buckets
-`gcloud storage list-buckets`
+### list buckets and objects
+`gcloud storage ls`
 
 ### create bucket
 `gcloud storage create-bucket my-bucket`
 
 ### list objects
-`gcloud storage list-objects my-bucket`
+`gcloud storage ls my-bucket`
 
 ### upload file
 `gcloud storage upload my-bucket/my-file.txt`
