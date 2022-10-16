@@ -1,10 +1,10 @@
 # GCP Architectures and Patterns
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam/images/Arch-center.png" width=300 align="right">
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/Arch-center.png" width=300 align="right">
 
 - 13 Architectures - [link](https://cloud.google.com/blog/products/application-development/13-popular-application-architectures-for-google-cloud)
 - GCP Sketchnotes - [link](https://thecloudgirl.dev/index.html)
-- Cloud Architecture Framework - [link](https://cloud.google.com/architecture/framework) 
+- Cloud Architecture Framework - [link](https://cloud.google.com/architecture/framework), topics shown to the right -->
 
 ## Data and Data Warehouse Patterns
 
