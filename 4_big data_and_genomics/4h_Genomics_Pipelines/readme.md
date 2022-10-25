@@ -50,11 +50,11 @@ This service is currently in preview.  Also it does NOT yet support the ability 
  
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-result.png" width=700>
 
- -----
-
 ### How to verify you've done it
  - Run your analysis, monitor for correct results (view files in your output bucket)
  - Monitor for service cost, execution time and adjust to meet your requirements
+
+ -----
 
 
 ### How to learn more
