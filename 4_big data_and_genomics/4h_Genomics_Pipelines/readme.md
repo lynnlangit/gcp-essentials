@@ -59,7 +59,10 @@ This service is currently in preview.  Also it does NOT yet support the ability 
 
 ### How to learn more
 
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-tool-tests.png" width=800>
+
 #### General Google Batch 
+- 🛠️ Example (simple event-based workflow) Google Batch pipeline architecture shown above
 - :books: GCP Docs and more examples of using Google Batch features - [link](https://cloud.google.com/batch/docs/create-run-job#create-basic-script)
 - 📺 10 minute video on Google Batch (includes demo) - [link](https://www.youtube.com/watch?v=RS7UJhD4R48)
 - :octocat: Batch Samples - [link](https://github.com/GoogleCloudPlatform/batch-samples)
