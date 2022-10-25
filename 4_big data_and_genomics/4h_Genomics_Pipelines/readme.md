@@ -58,8 +58,13 @@ This service is currently in preview.  Also it does NOT yet support the ability 
 
 
 ### How to learn more
+
+#### General Google Batch 
+- :books: GCP Docs and more examples of using Google Batch features - [link](https://cloud.google.com/batch/docs/create-run-job#create-basic-script_
 - 📺 10 minute video on Google Batch (includes demo) - [link](https://www.youtube.com/watch?v=RS7UJhD4R48)
 - :octocat: Batch Samples - [link](https://github.com/GoogleCloudPlatform/batch-samples)
+
+#### Google Batch and HPC or Nextflow
 - :octocat: HPC + Batch Toolkit - [link](https://github.com/GoogleCloudPlatform/hpc-toolkit/blob/develop/docs/cloud-batch.md)
 - :book: Nextflow Pipelines using Google Batch - [link](https://www.nextflow.io/blog/2022/deploy-nextflow-pipelines-with-google-cloud-batch.html)
 - :books: Nextflow Pipelines and Google Batch configuration documentation - [link](https://www.nextflow.io/docs/edge/google.html#cloud-batch)
