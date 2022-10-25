@@ -60,7 +60,7 @@ This service is currently in preview.  Also it does NOT yet support the ability 
 ### How to learn more
 
 #### General Google Batch 
-- :books: GCP Docs and more examples of using Google Batch features - [link](https://cloud.google.com/batch/docs/create-run-job#create-basic-script_
+- :books: GCP Docs and more examples of using Google Batch features - [link](https://cloud.google.com/batch/docs/create-run-job#create-basic-script)
 - 📺 10 minute video on Google Batch (includes demo) - [link](https://www.youtube.com/watch?v=RS7UJhD4R48)
 - :octocat: Batch Samples - [link](https://github.com/GoogleCloudPlatform/batch-samples)
 
