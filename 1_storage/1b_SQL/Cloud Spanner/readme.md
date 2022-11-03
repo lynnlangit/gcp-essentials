@@ -22,9 +22,10 @@ Spanner supports globally distributed transactional databases.
 
 ## Internals
 
-- Detailed blog post --> https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36
-- Image of GCP Spanner harware (from Google and also blog linked above) shown below
-- About "True Time" and external time consistency in Spanner --> https://cloud.google.com/spanner/docs/true-time-external-consistency
+- Detailed blog post "Internals of Spanner" - [link](https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36)
+- Article "About Spanner's Query Optimizer" - [link](https://cloud.google.com/blog/products/databases/a-technical-overview-of-cloud-spanners-query-optimizer)
+- About "True Time" and external time consistency in Spanner - [link](https://cloud.google.com/spanner/docs/true-time-external-consistency)
+    - Image of GCP Spanner harware (from Google and also blog linked above) shown below
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/true-time.jpg" width=800>
 
