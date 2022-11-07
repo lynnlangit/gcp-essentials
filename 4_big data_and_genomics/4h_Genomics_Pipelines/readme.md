@@ -1,11 +1,13 @@
-# Google Bioinformatics APIs & Google Batch
+# Google Batch API
 
-Google has made several versions of a workload batch API available over time.  The latest version is listed first in the list below.
+Google has made several versions of a workload batch API to control the scaling of Google Compute Engine instances (VMs) available over time.  The latest version is listed first in the list below.
 
 - **Google Batch** - GA in 2022 - for more detail about using in bioinformatics, see this [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/6b_Use_Batch_API.md)
    - **Google Life Sciences** - beta, but in broad, general usage
    - **Google Pipelines (v1 and v2)** - replaced by Google Life Sciences API, also called `PAPI`, note that API calls for LS API (above) still sometimes refer to PAPI API
    - **Google Genomics** - replaced by Google Pipelines API
+
+---
 
 ## Understanding Google Batch
 
@@ -36,7 +38,7 @@ The Google Batch service can...
  
  USE the [Transcoding Tutorial](https://github.com/GoogleCloudPlatform/batch-samples/tree/main/transcoding) to run a pipeline that which leverages Batch to transcode H.264 video files to VP9.  Running batch job example shown to the right.
  
- You can use either a container image or a script to detail job run steps (or tasks).  This example uses a shell script `transcode.sh` to run a job.    
+ You can use either a **container image** or a **script** to detail job run steps (or tasks).  This example uses a shell script `transcode.sh` to run a job.    
  
  To configure a job, update the example `job.json` with your demo cloud storage bucket.  Use this file to configure the cores and memory requested for your job run.  In this configuration file, you can also detail the `VM Model` (standard or spot) type, task count and parallelism for your job run.    
  
