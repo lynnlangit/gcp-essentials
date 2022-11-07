@@ -1,4 +1,4 @@
-# Google Bioinformatics APIs
+# Google Bioinformatics APIs & Google Batch
 
 Google has made several versions of a workload batch API available over time.  The latest version is listed first in the list below.
 
