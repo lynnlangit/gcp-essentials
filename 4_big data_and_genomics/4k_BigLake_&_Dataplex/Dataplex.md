@@ -1,6 +1,6 @@
-# Dataplex
+# DataPlex
 
-Features shown below - components of a DataMesh shown below.
+Features shown below - components of a DataMesh using GCP services (featuring GCP DataPlex) shown below.
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dataplex-features.png" width=600>
 
