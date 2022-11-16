@@ -21,3 +21,9 @@ Dataplex domains example shown below (from linked whitepaper above)
 ## Works with BigLake
 
 See also the BigLake page in this section
+
+## Example / Genomics Domain
+
+Shown below is an example architecture, including the compute portions for genomics
+
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=900>
