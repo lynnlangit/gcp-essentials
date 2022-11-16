@@ -1,8 +1,8 @@
 # Dataplex
 
-Features shown below
+Features shown below - components of a DataMesh shown below.
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dataplex-features.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dataplex-features.png" width=600>
 
 - 2 min video --> https://www.youtube.com/watch?v=bbFeAt7cw1g
 - 45 min video --> https://www.youtube.com/watch?v=j2hU_vkiWa0
