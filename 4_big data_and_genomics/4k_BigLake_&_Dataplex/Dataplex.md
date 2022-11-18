@@ -11,7 +11,10 @@ from the GCP docs *"You can use Dataplex to build a data mesh architecture. The 
 A data mesh is an organizational and technical approach that decentralizes data ownership among domain data owners. These owners provide the data as a product in a standard way and facilitate communication among different parts of the 
 organization to distribute datasets across different locations."*
 
+## Details and Links
+
 - build --> https://cloud.google.com/dataplex/docs/build-a-data-mesh?hl=en_US
+- guides --> https://cloud.google.com/dataplex/docs/guides
 - whitepaper --> https://services.google.com/fh/files/misc/build-a-modern-distributed-datamesh-with-google-cloud-whitepaper.pdf
 - best practices --> https://cloud.google.com/dataplex/docs/best-practices
 
