@@ -27,7 +27,7 @@ From the Google Cloud WebUI (or console), click the white terminal buttom on the
     - configuration options --> https://cloud.google.com/shell/docs/configuring-cloud-shell
     - **TIPS:** Google Cloud Shell cheat sheet --> https://cloud.google.com/sdk/docs/cheatsheet
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/cloud-shell-interactive.png" width=600>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/cloud-shell-interactive.png" width=700>
 
 ## Using Editor Mode
 
@@ -41,7 +41,7 @@ From the Google Cloud WebUI (or console), click the white terminal buttom on the
   - inegrated Kubernetes testing tools using `minikube`, dashboard and `kubectl`
   - mulitple run modes ( default | safe | ephemeral )
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/cloud-shell-editor.png" width=600>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/cloud-shell-editor.png" width=700>
 
 ## Limits and Customization
 
