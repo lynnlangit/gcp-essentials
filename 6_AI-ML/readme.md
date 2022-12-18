@@ -2,7 +2,8 @@
 
 This section contains information about GCP Machine Learning / AI services.  
 
-NOTE: find more GCP AI example notebooks &  scripts in my other repository: https://github.com/lynnlangit/gcp-ml
+- find more GCP AI example notebooks &  scripts in my other repository: https://github.com/lynnlangit/gcp-ml
+- big repo of many VertexAI samples (instructions and notebooks): https://github.com/GoogleCloudPlatform/vertex-ai-samples
 
 ## AI Choices
 
