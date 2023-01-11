@@ -1,11 +1,9 @@
 ### Cloud Run Commands  
 
-From - https://cloud.google.com/run/docs/quickstarts/build-and-deploy  
-NOTE: This service is BETA currently  
+From - https://cloud.google.com/run/docs/quickstarts/build-and-deploy   
 
-To update gcloud  
-`gcloud components install beta`  
-`gcloud components update`  
+To update gcloud components  
+`gcloud components update` 
 
 To create the sample application  
 `mkdir helloworld-python`
@@ -25,7 +23,10 @@ To build and push the image using Cloud Build to GCR
 `gcloud builds submit --tag gcr.io/[PROJECT-ID]/helloworld`
 
 To deploy the image to Cloud Run  
-`gcloud beta run deploy --image gcr.io/[PROJECT-ID]/helloworld`
+`gcloud run deploy --image gcr.io/[PROJECT-ID]/helloworld`
+
+To list the services  
+`gcloud run services list`
 
 To test the deployment  
 - open the service URL in a browser
