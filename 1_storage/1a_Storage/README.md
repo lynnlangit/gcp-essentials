@@ -4,6 +4,7 @@
 Fully managed service designed to help you discover, classify, and protect your most sensitive data.
 - list of types of PII identified - [link](https://cloud.google.com/dlp/docs/infotypes-reference?hl=en_US)
 - de-identify PII data with DLP - [link](https://cloud.google.com/architecture/de-identification-re-identification-pii-using-cloud-dlp)
+- use cases for DLP -[link](https://cloud.google.com/dlp#section-6)
 
 ## ClamVar Virus Scanning
 Automating malware scanning for documents uploaded to Cloud Storage - [link](https://cloud.google.com/architecture/automating-malware-scanning-for-documents-uploaded-to-cloud-storage)
