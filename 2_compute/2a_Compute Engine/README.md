@@ -11,7 +11,11 @@ When working with GCP Compute Engine (or GCE) you have several choices.  These i
 
 ### Learn More
 
-#### Images and Disks
+#### Manage VMs
+
+- Install the Ops Agent (for monitoring) on a single VM - [link](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent/installation)
+
+#### Use Images and Disks
 
 - VM Imaging Types - [link](https://cloud.google.com/compute/docs/machine-images) 
 - GCE Image Mangement Best Practices - [link](https://cloud.google.com/solutions/image-management-best-practices)
@@ -19,7 +23,7 @@ When working with GCP Compute Engine (or GCE) you have several choices.  These i
 - GCE Image Management - [link](https://cloud.google.com/compute/docs/images/export-image)
 - Optimize Persistent Disks - [link](https://www.youtube.com/watch?v=JrLETgBSoa8)
 
-#### Migration Practices
+#### Implement Migration Practices
 
 - GCP Lift and Shift - [link](https://cloud.google.com/files/Lift-and-Shift-onto-Google-Cloud.pdf)
 - GCP Migration - [link](https://cloud.google.com/solutions/migration-center/)
