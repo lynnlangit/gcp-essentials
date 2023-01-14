@@ -1,6 +1,6 @@
 # GCS - Cloud Storage
 
-Examples of working with Cloud Strorage buckets in this section.  Include the following:
+Examples of working with Cloud Strorage buckets in this section.  Includes the following infrastructure scripting tools:
 - gsutil
 - gcloud storage
 - terraform & pulumi
