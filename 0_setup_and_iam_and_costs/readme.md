@@ -3,8 +3,8 @@
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/images/Arch-center.png" width=300 align="right">
 
 #### Setup a GCP Account
-- Start with `1_GCP-Setup.md` - use this for personal GCP Projects for learning)  
-- If Enterprise (i.e. using GCP Organzations), see GCP Enterprise setup steps at `2_GCP-Enterprise-Setup.md` 
+- Start with `1_GCP-Setup.md` - use this for personal GCP Projects for learning)  - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0a_setup)
+- If Enterprise (i.e. using GCP Organzations), see GCP Enterprise setup steps at `2_GCP-Enterprise-Setup.md`. This assumes you've already set up at least one personal account for testing prior (see first bullet point in this list) - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0a_setup)
 
 #### Setup basic IAM Security
 - Includes IAM gcloud sample scripts and IAM sample json policy  
