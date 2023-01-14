@@ -14,6 +14,10 @@ When working with GCP Compute Engine (or GCE) you have several choices.  These i
 #### Manage VMs
 
 - Install the Ops Agent (for monitoring) on a single VM - [link](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent/installation)
+- Uninstall the Ops Agent
+```
+sudo bash add-google-cloud-ops-agent-repo.sh --uninstall
+```
 
 #### Use Images and Disks
 
