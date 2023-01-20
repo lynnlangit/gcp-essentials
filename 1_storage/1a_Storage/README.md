@@ -13,4 +13,6 @@ Examples of working with Cloud Strorage buckets in this section.  Includes the f
 
 ## Bucket Configuration Info
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/GCS.png" width=1000>
+
 
