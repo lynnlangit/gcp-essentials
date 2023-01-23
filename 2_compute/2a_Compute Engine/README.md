@@ -27,6 +27,13 @@ sudo bash add-google-cloud-ops-agent-repo.sh --uninstall
 - GCE Image Management - [link](https://cloud.google.com/compute/docs/images/export-image)
 - Optimize Persistent Disks - [link](https://www.youtube.com/watch?v=JrLETgBSoa8)
 
+#### Manage groups of VMs
+
+- Managed instance groups (based on instance templates) - [link](https://cloud.google.com/compute/docs/instance-groups#benefits)
+- Setup healthcheck for autohealing with MIG - [link](https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs)
+- Add instance group to a network load balancer - [link](https://cloud.google.com/compute/docs/instance-groups/adding-an-instance-group-to-a-load-balancer)
+- Patterns for scalable and resiliant applications running on VMs - [link](https://cloud.google.com/architecture/scalable-and-resilient-apps)
+
 #### Implement Migration Practices
 
 - GCP Lift and Shift - [link](https://cloud.google.com/files/Lift-and-Shift-onto-Google-Cloud.pdf)
