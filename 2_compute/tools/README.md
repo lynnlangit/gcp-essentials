@@ -17,7 +17,7 @@ The table below shows GCP tools by User Persona / Role.  The **bold** item(s) ar
 | Data Scientists  | Vertex AI APIs  |
 | DevOps  | GCP Deployments and Terraform  |
 | DevOps  | GCP SCC monitoring  |
-| Developers  | VSCode with Google Cloud add-in  |
+| Developers  | VSCode with Google Cloud add-in (CloudCode)  |
 | Developers  | GCP APIs  |
 | DevOps, Developers  | Google Container and Artifact Registries |
 | DevOps, Developers  | Google KMS |
