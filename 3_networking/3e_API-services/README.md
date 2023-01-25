@@ -26,3 +26,13 @@ GCP Architecture guide for `Apigee X`, shows what is provisioned and how to comp
 - In this state, your VPC and Apigee's VPC cannot communicate with each other without further configuration on your part.
 
 <img src="https://cloud.google.com/static/apigee/docs/api-platform/images/apigee-arch-diagrams/apigee-arch-b.png" width=800>
+
+### Apigee Portal Functionality
+
+The setup takes ~1 hour on GCP.  Then deploy the demo app.  The screens shown below show an example Agiee portal in GCP.  
+
+1 - View Developer option for API 
+2 - Set up API portal
+3 - View API portal
+4 - View API metrics
+
