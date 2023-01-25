@@ -29,10 +29,17 @@ GCP Architecture guide for `Apigee X`, shows what is provisioned and how to comp
 
 ### Apigee Portal Functionality
 
-The setup takes ~1 hour on GCP.  Then deploy the demo app.  The screens shown below show an example Agiee portal in GCP.  
+The setup takes ~1 hour on GCP.  Then deploy the demo app.  The screens shown below show an example API deployed to the default Agiee portal in GCP.  
 
-1 - View Developer option for API 
-2 - Set up API portal
-3 - View API portal
-4 - View API metrics
+1 - View Developer options for API proxies (shown below)
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/apigee-dev1.png">  
+
+2 - Set up API portal  (shown below)
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/apigee-portal2.png">  
+
+3 - View API portal  (shown below)
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/apigee-portal3.png">  
+
+4 - View API metrics  (shown below)
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/apigee-metrics4.png">
 
