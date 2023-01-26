@@ -25,19 +25,19 @@
 BigQuery supports several types of external data sources (or tables). For external tables metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  BG also support linked datasets which contain links to tables. The possible types are as follows:  
 
 - [External Tables](https://cloud.google.com/bigquery/docs/external-tables) 
-    - structured data is stored in Cloud Storage or another GCP service 
+    - query **structured** data is stored in Cloud Storage or another GCP service 
 - [Object Tables](https://cloud.google.com/bigquery/docs/object-table-introduction) 
-    - unstructured data is stored in Cloud Storage
+    - query **unstructured** data is stored in Cloud Storage
     - can be used in image evaluation / Machine Learning scenarios with these [limitations](https://cloud.google.com/bigquery/docs/object-table-inference#limitations)
     - data can be analyzed used remote functions, such as CloudRun or Cloud Functions
     - external connection must be configured
 - [BigLake Tables](https://cloud.google.com/bigquery/docs/biglake-intro) - example highlighed in screen shot shown above
-    - query structured data stored externally with access delegation
+    - query **structured data stored externally with access delegation**
     - required configuration of an external connector
     - if stored in Cloud Storage, can use fine-grained security and data masking
     - if stored in AWS S3 or Azure Blob Storage, also requires use of [BigQuery Omni](https://cloud.google.com/bigquery/docs/omni-introduction) service
 - [Linked Dataset](https://cloud.google.com/bigquery/docs/analytics-hub-introduction#linked_datasets)
-    - a read-only BigQuery dataset that serves as a symbolic link to a shared dataset
+    - query a read-only BigQuery dataset via a **symbolic link to a shared dataset**
     - subscribe to an AnalyticsHub BQ listing to create a linked dataset in your project and not a copy of the dataset
     - subscribers can read the data but cannot add or update objects within it.
 
