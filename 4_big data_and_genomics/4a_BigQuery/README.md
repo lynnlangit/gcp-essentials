@@ -18,11 +18,11 @@
 - Avoid SQL anti-patterns - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
 - Reference Pattersn - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
 
-### BigQuery Dataset (Table) Types
+### BigQuery Table Types
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/biglake-table.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/biglake-table.png" width=900>
 
-BigQuery supports several types of external data sources (or tables). For external tables metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  BG also support linked datasets. The possible types are as follows:  
+BigQuery supports several types of external data sources (or tables). For external tables metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  BG also support linked datasets which contain links to tables. The possible types are as follows:  
 
 - [External Tables](https://cloud.google.com/bigquery/docs/external-tables) 
     - structured data is stored in Cloud Storage or another GCP service 
