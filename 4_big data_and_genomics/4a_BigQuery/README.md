@@ -20,6 +20,8 @@
 
 ### BigQuery Dataset (Table) Types
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/biglake-table.png" width=800>
+
 BigQuery supports several types of external data sources (or tables). For external tables metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  BG also support linked datasets. The possible types are as follows:  
 
 - [External Tables](https://cloud.google.com/bigquery/docs/external-tables) 
@@ -28,7 +30,7 @@ BigQuery supports several types of external data sources (or tables). For extern
     - unstructured data is stored in Cloud Storage
     - often used in Machine Learning scenarios
     - external connection must be configured
-- [BigLake Tables](https://cloud.google.com/bigquery/docs/biglake-intro)
+- [BigLake Tables](https://cloud.google.com/bigquery/docs/biglake-intro) - example highlighed in screen shot shown above
     - query structured data stored externally with access delegation
     - required configuration of an external connector
     - if stored in Cloud Storage, can use fine-grained security and data masking
