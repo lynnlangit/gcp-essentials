@@ -1,6 +1,5 @@
 # BigQuery Links
 
-
 ## Basics
 
 - Useful introductory BigQuery article - [link](https://medium.com/google-cloud/bigquery-explained-querying-your-data-9e017f2714a3)
@@ -18,6 +17,29 @@
 - BigQuery Cookbook - [link](https://support.google.com/analytics/answer/4419694?hl=en)
 - Avoid SQL anti-patterns - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
 - Reference Pattersn - [link](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
+
+### BigQuery Dataset (Table) Types
+
+BigQuery supports three types of external data sources (or tables). For all types metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  The three possible types are as follows:  
+
+- [External Tables](https://cloud.google.com/bigquery/docs/external-tables) 
+    - structured data is stored in Cloud Storage or another GCP service such as Cloud SQL
+- [Object Tables](https://cloud.google.com/bigquery/docs/object-table-introduction) 
+    - unstructured data is stored in Cloud Storage
+    - often used in Machine Learning scenarios
+    - external connection must be configured
+- [BigLake Tables](https://cloud.google.com/bigquery/docs/biglake-intro)
+    - query structured data stored externally with access delegation
+    - required configuration of an external connector
+    - if stored in Cloud Storage, can use fine-grained security and data masking
+    - if stored in AWS S3 or Azure Blob Storage, also requires use of [BigQuery Omni](https://cloud.google.com/bigquery/docs/omni-introduction) service
+
+#### More Info about BQ External Tables
+
+- Article "Intro to External Data Sources" - [link](https://cloud.google.com/bigquery/docs/external-data-sources)
+- Chart "External Data Source Feature Comparison" - [link](https://cloud.google.com/bigquery/docs/external-data-sources#external_data_source_feature_comparison)
+
+-----
 
 ### BQ Machine Learning
 
