@@ -28,7 +28,7 @@ BigQuery supports several types of external data sources (or tables). For extern
     - structured data is stored in Cloud Storage or another GCP service 
 - [Object Tables](https://cloud.google.com/bigquery/docs/object-table-introduction) 
     - unstructured data is stored in Cloud Storage
-    - often used in Machine Learning scenarios
+    - can be used in image evaluation / Machine Learning scenarios with these [limitations](https://cloud.google.com/bigquery/docs/object-table-inference#limitations)
     - external connection must be configured
 - [BigLake Tables](https://cloud.google.com/bigquery/docs/biglake-intro) - example highlighed in screen shot shown above
     - query structured data stored externally with access delegation
