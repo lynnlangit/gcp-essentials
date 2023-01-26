@@ -45,7 +45,7 @@ BigQuery supports several types of external data sources (or tables). For extern
 
 - Article "Intro to External Data Sources" - [link](https://cloud.google.com/bigquery/docs/external-data-sources)
 - Chart "External Data Source Feature Comparison" - [link](https://cloud.google.com/bigquery/docs/external-data-sources#external_data_source_feature_comparison)
-
+- More about BigQuery BigLake - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/4_big%20data_and_genomics/4k_BigLake_%26_Dataplex/BigLake.md)
 -----
 
 ### BQ Machine Learning
