@@ -23,7 +23,7 @@
 BigQuery supports three types of external data sources (or tables). For all types metadata and schema is stored in BigQuery, but data is stored outside of BigQuery.  The three possible types are as follows:  
 
 - [External Tables](https://cloud.google.com/bigquery/docs/external-tables) 
-    - structured data is stored in Cloud Storage or another GCP service such as Cloud SQL
+    - structured data is stored in Cloud Storage or another GCP service 
 - [Object Tables](https://cloud.google.com/bigquery/docs/object-table-introduction) 
     - unstructured data is stored in Cloud Storage
     - often used in Machine Learning scenarios
