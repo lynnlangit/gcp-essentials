@@ -15,3 +15,9 @@ to distribute datasets across different locations.
 - Create a Metastore (on Dataproc) --> https://cloud.google.com/dataplex/docs/create-lake#metastore
 - Create a Dataplex Data Lake --> https://cloud.google.com/dataplex/docs/create-lake#creating-a-lake
   - Add raw or currated zones to a Data Lake --> https://cloud.google.com/dataplex/docs/create-lake
+  
+## Example DataMesh on GCP
+
+From GCP architecture guidance documentation and shown below - [link](https://cloud.google.com/architecture/data-mesh)
+
+<img src="https://cloud.google.com/static/architecture/images/data-mesh-architecture.svg" width=900>
