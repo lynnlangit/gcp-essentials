@@ -11,7 +11,7 @@ from the GCP docs *"You can use Dataplex to build a data mesh architecture. The 
 A data mesh is an organizational and technical approach that decentralizes data ownership among domain data owners. These owners provide the data as a product in a standard way and facilitate communication among different parts of the 
 organization to distribute datasets across different locations."*
 
-## Details and Links
+## Links to Get Started
 
 - build --> https://cloud.google.com/dataplex/docs/build-a-data-mesh?hl=en_US
 - guides --> https://cloud.google.com/dataplex/docs/guides
@@ -21,6 +21,32 @@ organization to distribute datasets across different locations."*
 Dataplex domains example shown below (from linked whitepaper above)
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dataplex-domains.png" width=900>
+
+## DataPlex Features
+
+ - Search DataMesh data (search across authorized data domains, use metadata in search parameters)  
+ 
+ <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-search-1.png" width=900>  
+ 
+ - Filtered Search (filter search by common parameters, source, type, project, can include search across public BigQuery data too)  
+ 
+  <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-search2.png" width=900>  
+ 
+ - Data Lake Management (create and manage Data Lakes with raw or curated data zones)  
+ 
+  <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-dl-manage-1.png" width=900>  
+  
+ - Data Lake Security (secure data lake resources by assigning data or asset permissions)  
+ 
+  <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-dl-secure-2.png" width=900>  
+  
+ - Data Lake Processing (process data lake data using defined tasks)  
+ 
+ <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-dl-process-3.png" width=900>  
+ 
+ - Explore DataMesh data (explore datamesh data using SparkSQL or Jupyter notebooks, can create custom exploration environments too)  
+ 
+  <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-dl-explore-5.png" width=900>
 
 ## Works with BigLake
 
