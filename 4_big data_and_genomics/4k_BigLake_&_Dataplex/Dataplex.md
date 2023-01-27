@@ -24,7 +24,7 @@ Dataplex domains example shown below (from linked whitepaper above)
 
 ## Works with BigLake
 
-See also the BigLake page in this section
+See also the BigLake page in this section - [link](https://github.com/lynnlangit/gcp-essentials/blob/master/4_big%20data_and_genomics/4k_BigLake_%26_Dataplex/BigLake.md)
 
 ## Example / Genomics Domain
 
