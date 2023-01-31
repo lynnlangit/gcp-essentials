@@ -56,4 +56,4 @@ See also the BigLake page in this section - [link](https://github.com/lynnlangit
 
 Shown below is an example architecture, including the compute portions for genomics
 
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=900>
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=1000>
