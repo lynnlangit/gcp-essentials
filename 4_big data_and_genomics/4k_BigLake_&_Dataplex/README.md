@@ -8,9 +8,11 @@ Use Dataplex to build a data mesh architecture (image above from [GCP whitepaper
 
 ## What is a DataMesh?
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-datamesh.png" width=900>
+
 A data mesh is an organizational and technical approach that decentralizes data ownership among domain data owners. 
 These owners provide the **data as a product** in a standard way and facilitate communication among different parts of the organization 
-to distribute datasets across different locations.
+to distribute datasets across different locations.  Shown above is a mapping of GCP services and features to DataMesh concepts. 
 - How to build a DataMesh --> https://cloud.google.com/dataplex/docs/build-a-data-mesh
 - Create a Metastore (on Dataproc) --> https://cloud.google.com/dataplex/docs/create-lake#metastore
 - Create a Dataplex Data Lake --> https://cloud.google.com/dataplex/docs/create-lake#creating-a-lake
