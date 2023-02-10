@@ -45,3 +45,4 @@ Shows using GCP Pub/Sub as event bus for billing notification alerts
 - :muscle: Practice - Cloud Quest on setting up cost control services for GCP - [link](https://www.cloudskillsboost.google/quests/97)
 - 📖 Article: "Resouce Labeling Best Practices for GCP" (includes 'labels vs tags' quoted below...) - [link](https://www.doit-intl.com/google-cloud-platform-resource-labeling-best-practices/)
   - *"...The difference now is that **tags** are a way to group resources together to have a network policy applied to them versus a **label** that groups resources together for billing and searching purposes..."*
+  - Article: "Tags vs. Labels" - [link](https://cloud.google.com/resource-manager/docs/tags/tags-overview)
