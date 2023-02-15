@@ -1,6 +1,7 @@
 # Workflows
 
-Examples here - https://cloud.google.com/workflows/docs/sample-workflows?hl=en_US
+- Examples here - https://cloud.google.com/workflows/docs/sample-workflows?hl=en_US
+- Feature comparision: "Workflows and Cloud Composer" - https://cloud.google.com/workflows/docs/choose-orchestration
 
 ## Example
 
