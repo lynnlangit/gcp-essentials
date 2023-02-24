@@ -1,4 +1,4 @@
-# Teraform Commands
+# Terraform Commands
 
 From GCP docs --> https://cloud.google.com/docs/terraform/basic-commands  
 
