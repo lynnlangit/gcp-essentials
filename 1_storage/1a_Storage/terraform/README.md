@@ -1,6 +1,9 @@
 # Terraform Commands
 
 From GCP docs --> https://cloud.google.com/docs/terraform/basic-commands  
+Image from Hashicorp (below)
+
+<img src="https://embed-ssl.wistia.com/deliveries/41c56d0e44141eb3654ae77f4ca5fb41.webp?image_crop_resized=960x540">
 
 ---
 
