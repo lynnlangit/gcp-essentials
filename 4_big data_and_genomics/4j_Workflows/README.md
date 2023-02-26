@@ -1,7 +1,8 @@
 # Workflows
 
-- Examples here - https://cloud.google.com/workflows/docs/sample-workflows?hl=en_US
-- Feature comparision: "Workflows and Cloud Composer" - https://cloud.google.com/workflows/docs/choose-orchestration
+- Example GCP Workflows at - [link](https://cloud.google.com/workflows/docs/sample-workflows?hl=en_US)
+- Feature comparision: "Workflows and Cloud Composer" - [link](https://cloud.google.com/workflows/docs/choose-orchestration)
+- Tutorial w/gen 2 GCP Functions + CloudRun - [link](https://cloud.google.com/functions/docs/tutorials/workflows)
 
 ## Example
 
