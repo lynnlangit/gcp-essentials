@@ -24,3 +24,7 @@ to distribute datasets across different locations.  Shown above is a mapping of 
 From GCP architecture guidance documentation and shown below - [link](https://cloud.google.com/architecture/data-mesh)
 
 <img src="https://cloud.google.com/static/architecture/images/data-mesh-architecture.svg" width=900>
+
+## Learn More
+
+- List of links `awesome-datamesh` on GitHub --> https://github.com/JacekMajchrzak/awesome-datamesh
