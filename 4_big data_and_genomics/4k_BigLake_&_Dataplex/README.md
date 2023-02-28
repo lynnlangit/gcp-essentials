@@ -27,4 +27,5 @@ From GCP architecture guidance documentation and shown below - [link](https://cl
 
 ## Learn More
 
+- Example architecture patterns at `datamesh-architecture.com` --> https://github.com/datamesh-architecture/datamesh-architecture.com
 - List of links `awesome-datamesh` on GitHub --> https://github.com/JacekMajchrzak/awesome-datamesh
