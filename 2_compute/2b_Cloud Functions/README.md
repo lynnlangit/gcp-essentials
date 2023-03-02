@@ -1,6 +1,8 @@
 # GCP Functions
 
-- Code/test Cloud Functions locally using the CloudCode add-in for VSCode --> [link](https://atamel.dev/posts/2022/12-12_introduce_functions_in_cloud_code/)
+## Dev Tools
+
+- Code/test HTTP Cloud Functions locally using the CloudCode add-in for VSCode --> [link](https://atamel.dev/posts/2022/12-12_introduce_functions_in_cloud_code/)
 - GCP now includes an API Gateway service.  
     - API Gateways can be used with a number of GCP compute services 
     - including GCP Functions, GCP Cloud Run and GAE
