@@ -7,7 +7,7 @@ The diagram below (from Google's documentation) shows the relationship of GCP se
 
 ## Example
 
-Do this tutorial to deploy using Cloud Deploy to Cloud Run -> [link](https://cloud.google.com/deploy/docs/deploy-app-run)  
+Do this tutorial to deploy using Cloud Build with Cloud Deploy to build and deploy a container to Cloud Run -> [link](https://cloud.google.com/deploy/docs/deploy-app-run)  
 Screens below are from the Cloud Deploy Quickstart and show the process of a creating a release in the web UI.  
 
 1. Promoting a Deployment
