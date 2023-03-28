@@ -15,6 +15,7 @@ Using Dataproc Serverless, you can run Spark workloads as **BATCHES**...
 - with a BigQuery connector
 
 Or as **SESSIONS** via VertexAI Notebooks...
+- in beta now, request access via VertexAI notebook (form launches when you click on 'serverless Spark' button)
 - use Jupyter launcher
 
 
