@@ -18,5 +18,7 @@ Limitations...
 - no GPUs
 - batch only (not interactive)
 
-More info here --> https://cloud.google.com/dataproc-serverless/docs/overview
+### More Info
+- Documentation: More info here --> https://cloud.google.com/dataproc-serverless/docs/overview
+- Samples: Serverless Spark Workshop --> https://github.com/GoogleCloudPlatform/serverless-spark-workshop
 
