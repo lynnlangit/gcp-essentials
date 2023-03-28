@@ -6,7 +6,7 @@ GCP added `Dataproc Hub` which is a customized JupyterHub server. Admins configu
 
 ## Dataproc Serverless
 
-Using Dataproc Serverless, you can run Spark workloads...
+Using Dataproc Serverless, you can run Spark workloads as **BATCHES**...
 - without a provisioned cluster (i.e. per batch job)
 - using Pyspark, Spark SQL, Spark R or Spark Java
 - auto-scaling is the default
