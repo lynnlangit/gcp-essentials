@@ -29,4 +29,5 @@ Limitations...
 ### More Info
 - Documentation: More info here --> https://cloud.google.com/dataproc-serverless/docs/overview
 - Samples: Serverless Spark Workshop --> https://github.com/GoogleCloudPlatform/serverless-spark-workshop
+- How To: Optimize Dataproc Jobs --> https://cloud.google.com/blog/products/data-analytics/dataproc-job-optimization-how-to-guide
 
