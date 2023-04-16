@@ -57,6 +57,6 @@ BigQuery supports several types of external data sources (or tables). For extern
 
 - Cloud DLP for BigQuery - [link](https://cloud.google.com/bigquery/docs/scan-with-dlp)
 - BigQuery open source tools - [link](https://github.com/GoogleCloudPlatform/bigquery-utils)
-- Choose the best-fit BigQuery Edition to optimize costs - [link](xxx)
+- Choose the best-fit BigQuery Edition to optimize costs - [link](https://cloud.google.com/bigquery/docs/editions-intro)
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/bq-editions.png" width=800>
