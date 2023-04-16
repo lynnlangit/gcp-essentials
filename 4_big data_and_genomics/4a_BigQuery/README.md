@@ -59,4 +59,4 @@ BigQuery supports several types of external data sources (or tables). For extern
 - BigQuery open source tools - [link](https://github.com/GoogleCloudPlatform/bigquery-utils)
 - Choose the best-fit BigQuery Edition to optimize costs - [link](xxx)
 
-<img src-"https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/bq-editions.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/bq-editions.png" width=800>
