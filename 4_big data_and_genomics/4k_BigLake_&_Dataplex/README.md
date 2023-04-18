@@ -13,11 +13,11 @@ Use Dataplex to build a data mesh architecture (image above from [GCP whitepaper
 A data mesh is an organizational and technical approach that decentralizes data ownership among domain data owners. 
 These owners provide the **data as a product** in a standard way and facilitate communication among different parts of the organization 
 to distribute datasets across different locations.  Shown above is a mapping of GCP services and features to DataMesh concepts. 
-- How to build a DataMesh (Google Documentation) --> https://cloud.google.com/dataplex/docs/build-a-data-mesh
-  - Build a DataMesh on GCP (GitHub open source example) --> https://github.com/mansim07/datamesh-on-gcp
-- Create a Metastore on Dataproc (Google Documentation) --> https://cloud.google.com/dataplex/docs/create-lake#metastore
-- Create a Dataplex Data Lake (Google Documentation) --> https://cloud.google.com/dataplex/docs/create-lake#creating-a-lake
-  - Add raw or currated zones to a Data Lake --> https://cloud.google.com/dataplex/docs/create-lake
+- How to build a DataMesh (Google Documentation) --> [link](https://cloud.google.com/dataplex/docs/build-a-data-mesh)
+  - Build a DataMesh on GCP (GitHub open source example) --> [link](https://github.com/mansim07/datamesh-on-gcp)
+- Create a Metastore on Dataproc (Google Documentation) --> [link](https://cloud.google.com/dataplex/docs/create-lake#metastore)
+- Create a Dataplex Data Lake (Google Documentation) --> [link](https://cloud.google.com/dataplex/docs/create-lake#creating-a-lake)
+  - Add raw or currated zones to a Data Lake --> [link](https://cloud.google.com/dataplex/docs/create-lake)
   
 ## Example DataMesh on GCP
 
@@ -27,5 +27,5 @@ From GCP architecture guidance documentation and shown below - [link](https://cl
 
 ## Learn More
 
-- Example architecture patterns at `datamesh-architecture.com` --> https://github.com/datamesh-architecture/datamesh-architecture.com
-- List of links `awesome-datamesh` on GitHub --> https://github.com/JacekMajchrzak/awesome-datamesh
+- Example architecture patterns at `datamesh-architecture.com` --> [link](https://github.com/datamesh-architecture/datamesh-architecture.com)
+- List of links `awesome-datamesh` on GitHub --> [link](https://github.com/JacekMajchrzak/awesome-datamesh)
