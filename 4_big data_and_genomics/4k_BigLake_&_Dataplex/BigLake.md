@@ -24,5 +24,8 @@ Achieve industry leading performance over data lake tables on Google Cloud, AWS 
 Gain access to the most popular open data formats including Parquet, Avro, ORC, CSV, JSON. The API serves multiple compute engines through Apache Arrow.
 
 ## Use it
+GCP Solutions to get you started
+- Quickstart - external tables and BigQuery --> https://cloud.google.com/bigquery/docs/biglake-quickstart
+- Jumpstart - Analytics Data Lake (and image below) --> https://console.cloud.google.com/products/solutions/details/analytics-lakehouse
 
-Quickstart - external tables and BigQuery --> https://cloud.google.com/bigquery/docs/biglake-quickstart
+<img src="https://www.gstatic.com/pantheon/images/solutions/analytics_lakehouse_architecture_v2.png">
