@@ -12,4 +12,4 @@
     - DM (Deployment Manager) deployments w/ Form Schema - [link](https://cloud.google.com/service-catalog/docs/form-schema-overview)
     - Google Marketplace soluitons
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/service-catalog-ui.png" width=500>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/service-catalog-ui.png" width=700>
