@@ -10,6 +10,6 @@
     - URLs (link-based)
     - Terraform deployments (also called configurations) uses CloudBuild to deploy
     - DM (Deployment Manager) deployments w/ Form Schema - [link](https://cloud.google.com/service-catalog/docs/form-schema-overview)
-    - Google Marketplace soluitons
+    - Google Marketplace solutions (example for 'WordPress' shown in screenshot below - from my LinkedIn Learning course)
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/service-catalog-ui.png" width=700>
