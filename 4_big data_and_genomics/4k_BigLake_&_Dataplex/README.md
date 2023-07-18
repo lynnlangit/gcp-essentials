@@ -1,6 +1,6 @@
 # GCP DataPlex for Data Mesh
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-data-mesh-example.png" width=600>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-data-mesh-example.png" width=800>
 
 Use GCP Dataplex to build a data mesh architecture (image above from [GCP whitepaper](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/gcp-data-mesh-example.png)).  Conceptual example shown above.
 - GCP Dataplex includes services, such as a lakes, zones, and other assets which you use to build a data mesh.
