@@ -2,6 +2,8 @@
 
 Data Catalog is a fully managed, scalable metadata management service within the GCP Dataplex set of services.
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dc-gcp-overview.png" width=600>
+
 ## What it Does
 
 Data Catalog provides three main functions:
@@ -18,5 +20,5 @@ Data Catalog can catalog asset metadata from different Google Cloud systems (sho
 - After your data is cataloged, you can add your own metadata to these assets using tags.
 - Data Catalog handles [two types of metadata](https://cloud.google.com/data-catalog/docs/concepts/metadata): technical metadata and business metadata.
   
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dc-gcp-overview.png" width=800>
+
 
