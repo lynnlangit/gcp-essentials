@@ -15,9 +15,11 @@ organization to distribute datasets across different locations."*
 
 The relationship between other GCS services (i.e. Cloud Storage, BigQuery...) is complex and key to understanding how to use Dataplex services.  Shown below are two MindMap visualizations I've created to help you to understand these relationships.
 
+### GCS and DataPlex
+
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-1.png" width=800>
 
-showing...
+### BQ, Pub/Sub, FIHR and Dataplex
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-2.png" width=800>
 
