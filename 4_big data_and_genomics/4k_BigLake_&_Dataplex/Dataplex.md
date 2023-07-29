@@ -19,7 +19,7 @@ The relationship between other GCS services (i.e. Cloud Storage, BigQuery...) is
 
 showing...
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-1.png" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/dp-2.png" width=800>
 
 ## Links to Get Started
 
