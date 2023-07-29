@@ -11,6 +11,14 @@ from the GCP docs *"You can use Dataplex to build a data mesh architecture. The 
 A data mesh is an organizational and technical approach that decentralizes data ownership among domain data owners. These owners provide the data as a product in a standard way and facilitate communication among different parts of the 
 organization to distribute datasets across different locations."*
 
+## Dataplex and other GCP Services
+
+The relationship between other GCS services (i.e. Cloud Storage, BigQuery...) is complex and key to understanding how to use Dataplex services.  Shown below are two MindMap visualizations I've created to help you to understand these relationships.
+
+<img src="xxx" width=800>
+
+<img src="yyy" width=800>
+
 ## Links to Get Started
 
 - build --> https://cloud.google.com/dataplex/docs/build-a-data-mesh?hl=en_US
