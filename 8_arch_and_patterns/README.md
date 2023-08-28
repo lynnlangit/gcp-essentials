@@ -5,6 +5,7 @@
 - 13 Architectures - [link](https://cloud.google.com/blog/products/application-development/13-popular-application-architectures-for-google-cloud)
 - GCP Sketchnotes - [link](https://thecloudgirl.dev/index.html)
 - Cloud Architecture Framework - [link](https://cloud.google.com/architecture/framework), topics shown to the right -->
+- Jump-start solutions (deployable Terraform!) - [link](https://cloud.google.com/architecture/all-jss-guides)
 
 ## Data and Data Warehouse Patterns
 
