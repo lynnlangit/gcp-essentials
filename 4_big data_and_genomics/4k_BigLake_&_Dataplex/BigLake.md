@@ -22,6 +22,7 @@ Achieve industry leading performance over data lake tables on Google Cloud, AWS 
 
 ### Built on open formats
 Gain access to the most popular open data formats including Parquet, Avro, ORC, CSV, JSON. The API serves multiple compute engines through Apache Arrow.
+- Compare Apache Hive and Apache Iceberg - [link](https://www.linkedin.com/pulse/hive-vs-iceberg-choosing-right-big-data-technology-your-pottammal/)
 - Supports tables built on Apache Iceberg - [link](https://iceberg.apache.org/)
 - Compare Parquet to Iceberg - [link](https://www.decube.io/post/what-is-apache-iceberg-versus-parquet) and summary table below.
 <img src="https://uploads-ssl.webflow.com/63ccf2f0ea97be12ead278ed/645dc43d78fbfb0e0949fb95_Screenshot%202023-05-12%20at%2012.43.47%20PM.png" width=800>
