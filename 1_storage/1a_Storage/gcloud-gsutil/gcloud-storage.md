@@ -13,10 +13,19 @@ When transferring **100 files** that were 100MB in size
 When transferring **a single large file**, the difference is even more pronounced
 - With a 10GB file, `gcloud storage` was **94% faster** than `gsutil` on download and 57% faster on upload.
 
-To quickly try it out
+
 ```
-gcloud storage ls gs://pub
-gcloud storage cp -r gs://pub/shakespeare/ .
+# Copy a file from your local machine to Cloud Storage
+gcloud storage cp my-file.txt gs://my-bucket/my-file.txt
+
+# Copy a directory from your local machine to Cloud Storage
+gcloud storage cp -r my-directory gs://my-bucket/my-directory
+
+# Copy a file from Cloud Storage to your local machine
+gcloud storage cp gs://my-bucket/my-file.txt .
+
+# Copy a directory from Cloud Storage to your local machine
+gcloud storage cp -r gs://my-bucket/my-directory .
 ```
 
 ## gcloud storage syntax examples
