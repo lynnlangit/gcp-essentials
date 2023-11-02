@@ -1,4 +1,4 @@
 firecloud==0.16.25
-pip==21.1
+pip==23.3
 tenacity==5.1.1
 pandas==0.25.3
