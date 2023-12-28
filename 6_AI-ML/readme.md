@@ -1,4 +1,4 @@
-# GCP AI
+# GCP Machine Learning (including AI / LLMs)
 
 This section contains information about GCP Machine Learning / AI services.  
 
