@@ -20,6 +20,10 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 - Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
 - Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
+  
+### Example Notebooks from Google
+
+- Example notebooks --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
 
 ### Tools / IDEs
 
