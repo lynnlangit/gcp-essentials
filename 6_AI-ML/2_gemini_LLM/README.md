@@ -27,7 +27,8 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 ### Tools / IDEs
 
-- Google AI Studio (quickstart) --> https://ai.google.dev/tutorials/ai-studio_quickstart
+- Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
+- Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
 
 
 ### Learn More
