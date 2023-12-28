@@ -49,7 +49,7 @@ Samples currently include the following:
       - TF Datasets - https://www.tensorflow.org/datasets/catalog/overview
       - Google Dataset search - https://datasetsearch.research.google.com/
    - **Example Models**
-      - GCP AI Hub - https://aihub.cloud.google.com/u/0/
+      - GCP Vertex AI Model Garden - https://cloud.google.com/model-garden?hl=en
       - TensorFlow (Model) Hub - https://www.tensorflow.org/hub
       - TensorFlow Model Garden - https://github.com/tensorflow/models/tree/master/official
       - YouTube Adventures In The Cloud series - https://www.youtube.com/AdventuresInTheCloud
