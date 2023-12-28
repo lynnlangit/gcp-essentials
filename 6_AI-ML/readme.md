@@ -9,7 +9,7 @@ This Repo section contains information and code samples/notebooks which use GCP 
 - In this Repo: GCP AI example notebooks &  scripts in folders in this repository
 - GCP Repo: Big repo of many VertexAI samples (instructions and notebooks): https://github.com/GoogleCloudPlatform/vertex-ai-samples
 - Google Research Repo: model tuning playbook: https://github.com/google-research/tuning_playbook
-- 
+  
 ---
 
 ## Topic Areas
