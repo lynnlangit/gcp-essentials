@@ -4,6 +4,8 @@ This repository contains sample code, links and scripts for working with Google 
 
 ## LinkedIn Learning GCP Courses
 
+<details><summary>LinkedIn Learning GCP Courses</summary>
+
 - 📚 **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609) to course. This course is also named **"Google Cloud Platform Essential Training for Administrators"**
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course and [repo area](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML))
@@ -13,6 +15,8 @@ This repository contains sample code, links and scripts for working with Google 
   - 📺 **'Learning Hadoop'** - if you are learning Hadoop/Spark, watch this course first
   - 📺 **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc
   - 📺 **'Cloud NoSQL for SQL Pros'** - covers both GCP and AWS NoSQL
+ 
+</details>
 
 ## Other GCP Tools
 
