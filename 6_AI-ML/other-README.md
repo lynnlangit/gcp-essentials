@@ -55,6 +55,7 @@ Samples currently include the following:
       - Open source course on ML Foundations (homemade-machine-learning) - https://github.com/trekhleb/homemade-machine-learning
       - DeepMind Educational Resources (notebooks on Github) - https://github.com/deepmind/educational
     - **AI Ethics/Tools**
+      - My Repo of links `ethical-AI` - https://github.com/lynnlangit/learning-ethical-ai
       - TensorFlow Responsible API - https://www.tensorflow.org/responsible_ai
       - TensorFlow Fairness Indicators - https://www.tensorflow.org/tfx/guide/fairness_indicators
       - Article - addressing bias in COVID-19 data - https://cloud.google.com/blog/products/ai-machine-learning/google-and-harvard-improve-covid-19-forecasts
