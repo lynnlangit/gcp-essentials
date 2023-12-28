@@ -4,6 +4,12 @@
 
 This repo is a companion to my LinkedIn Learning course 'GCP ML Essentials' - at https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training
 
+This Repo section contains information and code samples/notebooks which use GCP Machine Learning / AI services.  
+
+- In this Repo: GCP AI example notebooks &  scripts in folders in this repository
+- GCP Repo: Big repo of many VertexAI samples (instructions and notebooks): https://github.com/GoogleCloudPlatform/vertex-ai-samples
+- Google Research Repo: model tuning playbook: https://github.com/google-research/tuning_playbook
+- 
 ---
 
 ## Topic Areas
