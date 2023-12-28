@@ -3,3 +3,4 @@
 .metals/metals.lock.db
 *.log
 .vscode/settings.json
+.DS_Store
