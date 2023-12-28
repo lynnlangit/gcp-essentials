@@ -21,5 +21,10 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
 - Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
 
+### Tools / IDEs
+
+- Google AI Studio (quickstart) --> https://ai.google.dev/tutorials/ai-studio_quickstart
+
+
 ### Learn More
 - LLM course --> https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-scientist
