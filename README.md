@@ -18,7 +18,9 @@ This repository contains sample code, links and scripts for working with Google 
  
 </details>
 
-## Other GCP Tools
+## GCP Tools
+
+<details><summary>GCP Tools</summary>
 
 - 📝 interactive list of every **GCP Service in 4 words** - [link](https://googlecloudcheatsheet.withgoogle.com/)
 - :octocat: **"GCP Microservices Demo"** - [link](https://github.com/GoogleCloudPlatform/microservices-demo) to runnable demo
@@ -28,11 +30,17 @@ This repository contains sample code, links and scripts for working with Google 
 
 Examples use the GPC scripting tools (`gcloud`, `gsutil`, `bq`...) and sometimes also the Python API with the GCP SDK.  You can work with GCP services in many programming langauges, such as Java, Go, Node and others. See this link for the GCP SDK to see examples for other programming languages: https://cloud.google.com/sdk/  
 
+</details>
+
 ## Open Source (FREE!) GCP Course
+
+<details><summary>GCP for Bioinformatics Course</summary>
 
 Additionally, I have created other repositories and courses on GCP topics for bioinformatics.  
 
 - :octocat: **GCP-for-Bioinformatics** --> Open source course - for links, screencasts, jupyter notebooks or example workflows (Terra/WDL, Nextflow/NF, Galaxy Project...) for bioinformatics use cases, see this repository: https://github.com/lynnlangit/gcp-for-bioinformatics
+
+</details>
 
 
 
