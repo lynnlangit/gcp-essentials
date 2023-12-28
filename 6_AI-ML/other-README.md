@@ -10,7 +10,7 @@ This repo is a companion to my LinkedIn Learning course 'GCP ML Essentials' - at
 
 Google Cloud Platform Analytics and Machine Learning Samples for services shown below.  
 
-![GCP ML](/images/gcp-ml.png)
+![GCP ML](../6_AI-ML/images/gcp-ml.png)
 
 Samples currently include the following:
  - **GCP Colabs** (Jupyter-style) notebook (example shown below)
@@ -19,7 +19,7 @@ Samples currently include the following:
     - for TensorFlow w/GPU - speed test  
     - for production workloads, you may want to pay for and use ColabPro ($10/mo) for faster GPU, longer notebook runtimes and more memory
 
-<img src="https://github.com/lynnlangit/gcp-ml/blob/master/images/colabs-ui.png" width=800>
+<img src="../6_AI-ML/images/colabs-ui.png" width=800>
 
  - **Scripts** and code samples 
     - for BigQueryML in SQL
