@@ -2,7 +2,7 @@
 
 This repository contains sample code, links and scripts for working with Google Cloud Platform (GCP) services. Included technologies are for storage, database, big data and more.  This repository is designed to be used in conjunction with these LinkedIn Learning courses: 
 
-## LinkedIn GCP Learning Courses
+## LinkedIn Learning GCP Courses
 
 - 📚 **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609) to course. This course is also named **"Google Cloud Platform Essential Training for Administrators"**
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980) to course
