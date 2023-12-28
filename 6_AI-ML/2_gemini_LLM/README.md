@@ -16,5 +16,9 @@ Pro and Ultra are available in two types: Pro or Pro Vision or Ultra or Ultra Vi
 
 The following Jupyter Notebook is an example of how to use Google Gemini LLM for text generation.  It uses the Pro version of Gemini, and shows how to call the API using Python.  It also shows how to use the API to generate text from a prompt.  The notebook can be run in Google Colab, or on a local machine with Python 3 installed.  The notebook can be found here: [Google Gemini LLM Example Notebook](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb)
 
+### Prompt Guidance from Google
+
+- Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
+
 ### Learn More
 - LLM course --> https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-scientist
