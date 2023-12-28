@@ -22,7 +22,7 @@ Examples use the GPC scripting tools (`gcloud`, `gsutil`, `bq`...) and sometimes
 
 Additionally, I have created other reporisitories and courses on GCP topics.  These artifacts contains sample code and scripts for working with Google Cloud Platform services for bioinformatics use cases, machine learning, Apache Spark and NoSQL on GCP.  
 
-- 📚 **GCP-ML** --> LIL_L course - for code samples for GCP machine learning see this repository: https://github.com/lynnlangit/gcp-ml
+- 📚 **GCP-ML** --> LIL_L course - for code samples for GCP machine learning see this [the ML/AI section](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML) of this repository
 - :octocat: **GCP-for-Bioinformatics** --> Open source course - for links, screencasts, jupyter notebooks or example workflows (Terra/WDL, Nextflow/NF, Galaxy Project...) for bioinformatics use cases, see this repository: https://github.com/lynnlangit/gcp-for-bioinformatics
 
 - My Apache Hadoop/Spark and NoSQL courses on LinkedIn Learning (includes lots of GCP info)- [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=hadoop%20spark%20langit)
