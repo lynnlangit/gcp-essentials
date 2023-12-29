@@ -33,3 +33,4 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 ### Learn More
 - LLM course --> https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-scientist
+- Article "GenAI Apps w/VertexAI Models and Langchain" --> https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain
