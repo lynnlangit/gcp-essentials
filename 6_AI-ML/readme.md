@@ -1,6 +1,6 @@
 # GCP - Machine Learning
 
-Google Cloud includes a number of services which are frequently used when building machine learning experiments and applications.  I've created a visualization to summarize most common usage below.
+Google Cloud includes a number of services which are frequently used when building machine learning experiments and applications.  I've created a visualization to summarize most common usage below. Also, see the folded named `gemini_LLM` in this repo to view my notes and visualization of the recently released VertexAI Model Garden (which includes Google's LLM Gemini).
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/vertexai-services.png" width=800>
 
