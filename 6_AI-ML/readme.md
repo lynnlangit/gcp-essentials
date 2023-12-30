@@ -1,5 +1,9 @@
 # GCP - Machine Learning
 
+Google Cloud includes a number of services which are frequently used when building machine learning experiments and applications.  I've created a visualization to summarize most common usage below.
+
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/vertexai-services.png" width=800>
+
 ## Course
 
 This repo is a companion to my LinkedIn Learning course 'GCP ML Essentials' - at https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training
