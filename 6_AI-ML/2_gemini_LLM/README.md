@@ -33,9 +33,14 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 - Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
 - Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
+  
+### Use on Google Cloud
+
+- Google's setup instuctions for Gemini on GCP --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/setup-env
 
 
 ### Learn More
 - LLM course --> https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-scientist
+- Google's big list: `Learn More About GenAI` --> https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md
 - Article "GenAI Apps w/VertexAI Models and Langchain" --> https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain
 - Article "Generate Text Embeddings with BigQuery" --> https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings
