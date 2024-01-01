@@ -33,6 +33,10 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 - Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
 - Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
+  
+### Use on Google Cloud
+
+- Google's setup instuctions for Gemini on GCP --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/setup-env
 
 
 ### Learn More
