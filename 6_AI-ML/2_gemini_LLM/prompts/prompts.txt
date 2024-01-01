@@ -1,0 +1,12 @@
+List of prompts used in this course:
+
+1. Prompt 1: What is the most important thing you learned in this course?
+2. Prompt 2: What is the most interesting thing you learned in this course?
+3. Prompt 3: What is the most useful thing you learned in this course?
+4. Prompt 4: What is the most challenging thing you learned in this course?
+5. Prompt 5: What is the most surprising thing you learned in this course?
+6. Prompt 6: What is the most confusing thing you learned in this course?
+7. Prompt 7: What is the most frustrating thing you learned in this course?
+8. Prompt 8: What is the most boring thing you learned in this course?
+9. Prompt 9: What is the most exciting thing you learned in this course?
+10. Prompt 10: What is the most difficult thing you learned in this course?
