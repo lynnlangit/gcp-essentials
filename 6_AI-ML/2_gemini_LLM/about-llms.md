@@ -1,5 +1,7 @@
 # About LLMs
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/llm-hierarchy.png" width=800>
+
 - From Google Documentation
   - LLM Concepts --> https://ai.google.dev/docs/concepts
   - Intro to Prompting --> https://ai.google.dev/docs/prompt_intro
