@@ -28,6 +28,7 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 ### Example Notebooks from Google
 
 - Example notebooks --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
+- Vertex AI GenAI example notebooks --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
 
 ### Tools / IDEs
 
