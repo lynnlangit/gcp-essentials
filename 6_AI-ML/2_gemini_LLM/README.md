@@ -16,29 +16,31 @@ Google Gemini is available in three versions: Nano, Pro or Ultra. Nano is the sm
 
 Pro and Ultra are available in two types: Pro or Pro Vision or Ultra or Ultra Vision.  The 'Vision' versions are multimodal, allowing for text, image or video input.  Currently all models output text only.
 
+----
+
+## Example Notebooks and Guidance
+
+Google has published a number of resources to get your started working with Gemini.  I've linked highlights below.  
+
 ### Example Jupyter Notebook for Google Gemini LLM
 
 The following Jupyter Notebook is an example of how to use Google Gemini LLM for text generation.  It uses the Pro version of Gemini, and shows how to call the API using Python.  It also shows how to use the API to generate text from a prompt.  The notebook can be run in Google Colab, or on a local machine with Python 3 installed.  The notebook can be found here: [Google Gemini LLM Example Notebook](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb)
-
-### Prompt Guidance from Google
-
-- Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
-- Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
   
 ### Example Notebooks from Google
 
 - Example notebooks --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
 - Vertex AI GenAI example notebooks --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
 
-### Tools / IDEs
+### Tools / IDEs / Envs
 
 - Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
 - Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
-  
-### Use on Google Cloud
-
 - Google's setup instuctions for Gemini on GCP --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/setup-env
 
+### Prompt Guidance from Google
+
+- Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
+- Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
 
 ### Learn More
 
