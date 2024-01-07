@@ -20,7 +20,7 @@ Pro and Ultra are available in two types: Pro or Pro Vision or Ultra or Ultra Vi
 
 ## Example Notebooks and Guidance
 
-Google has published a number of resources to get your started working with Gemini.  I've linked highlights below.  
+Google has published a number of resources to get you started working with Gemini.  I've linked highlights below.  
 
 ### Example Jupyter Notebook for Google Gemini LLM
 
