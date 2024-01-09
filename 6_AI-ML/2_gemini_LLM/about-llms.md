@@ -9,4 +9,4 @@
   - Multi-modal Prompting --> https://ai.google.dev/docs/multimodal_concepts
   - What are Embeddings --> https://ai.google.dev/docs/embeddings_guide
   - Tune LLMs --> https://cloud.google.com/vertex-ai/docs/generative-ai/models/tune-models
-  - GCP Applied AI Emngineering Best Practices & Samples --> https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples/tree/main
+  - GCP Applied AI Engineering Best Practices & Samples --> https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples/tree/main
