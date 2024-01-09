@@ -6,7 +6,7 @@ Vertex AI includes a model garden with a large number of models which can be use
 
 ## What is Gemini LLM?
 
-Google Gemini is a large language model that can be used for a variety of tasks, including text generation, text classification, text summarization, text translation, text-to-speech, speech-to-text, image captioning, image classification, image generation, image-to-text, video captioning, video classification, video generation, video-to-text, and multimodal tasks.  
+Google Gemini is a [large language model](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/about-llms.md) that can be used for a variety of tasks, including text generation, text classification, text summarization, text translation, text-to-speech, speech-to-text, image captioning, image classification, image generation, image-to-text, video captioning, video classification, video generation, video-to-text, and multimodal tasks.  
 
 ### Versions of Google Gemini
 
