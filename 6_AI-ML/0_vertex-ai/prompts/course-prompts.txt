@@ -18,22 +18,25 @@ Notebooks
 - what is the mnist sample TensorFlow example?
 - Generate the Python code for a TensorFlow example using the mnist dataset.  The example should be simple to run using one or more GCP VertexAI notebooks.
 - Create a comprehensive table comparing the features, use cases, costs, and key considerations of the following GCP Vertex AI Jupyter Notebook services:
+          Managed Instance
+          Managed Notebooks
+          User-Managed Notebooks
+          Colab Enterprise
+          Ensure the table includes the following information:
+          
+          Setup (Google-managed or user-managed)
+          Environment (pre-configured or customizable)
+          Compute (dedicated or shared)
+          Autoscaling (yes or no)
+          GPU support (yes or no)
+          Permissions (IAM)
+          Cost structure (pay per instance, pay per usage, pay per VM, or per-user license)
+          Example use cases for each service type
+          Key considerations for cost optimization
+          Present the information in a clear and concise format, using a table structure for easy comparison.
+          
+          Additionally, provide a brief overview of the key points for each service, highlighting their strengths and ideal use cases.
 
-Managed Instance
-Managed Notebooks
-User-Managed Notebooks
-Colab Enterprise
-Ensure the table includes the following information:
+Model Development
+- Explain what is vector search and why it is important in machine learning model development
 
-Setup (Google-managed or user-managed)
-Environment (pre-configured or customizable)
-Compute (dedicated or shared)
-Autoscaling (yes or no)
-GPU support (yes or no)
-Permissions (IAM)
-Cost structure (pay per instance, pay per usage, pay per VM, or per-user license)
-Example use cases for each service type
-Key considerations for cost optimization
-Present the information in a clear and concise format, using a table structure for easy comparison.
-
-Additionally, provide a brief overview of the key points for each service, highlighting their strengths and ideal use cases.
