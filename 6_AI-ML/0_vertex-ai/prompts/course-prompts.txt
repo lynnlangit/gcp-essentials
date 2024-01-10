@@ -8,6 +8,11 @@ Vertex AI services
 - list core GCP Vertex AI Machine Learning services for machine learning model building and key associated use cases in a table
 - Generate a table which compares capabilities of GCP BigQuery Machine Learning to those available in GCP Vertex AI AutoML
 
+TensorFlow
+- what is TensorFlow?
+- what is the mnist sample TensorFlow example?
+- Generate a table which lists key integrations between the open source machine learning library TensorFlow and GCP Vertex AI machine learning services
+
 Notebooks 
 - Generate a table which lists key integrations between the open source machine learning library TensorFlow and GCP Vertex AI machine learning services
 - what is the mnist sample TensorFlow example?
