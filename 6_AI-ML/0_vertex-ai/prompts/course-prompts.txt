@@ -1,0 +1,34 @@
+Try these prompts out in Bard!
+
+- https://bard.google.com/
+
+List of prompts
+
+Vertex AI services
+- list core GCP Vertex AI Machine Learning services for machine learning model building and key associated use cases in a table
+- Generate a table which compares capabilities of GCP BigQuery Machine Learning to those available in GCP Vertex AI AutoML
+
+Notebooks 
+- Generate a table which lists key integrations between the open source machine learning library TensorFlow and GCP Vertex AI machine learning services
+- what is the mnist sample TensorFlow example?
+- Generate the Python code for a TensorFlow example using the mnist dataset.  The example should be simple to run using one or more GCP VertexAI notebooks.
+- Create a comprehensive table comparing the features, use cases, costs, and key considerations of the following GCP Vertex AI Jupyter Notebook services:
+
+Managed Instance
+Managed Notebooks
+User-Managed Notebooks
+Colab Enterprise
+Ensure the table includes the following information:
+
+Setup (Google-managed or user-managed)
+Environment (pre-configured or customizable)
+Compute (dedicated or shared)
+Autoscaling (yes or no)
+GPU support (yes or no)
+Permissions (IAM)
+Cost structure (pay per instance, pay per usage, pay per VM, or per-user license)
+Example use cases for each service type
+Key considerations for cost optimization
+Present the information in a clear and concise format, using a table structure for easy comparison.
+
+Additionally, provide a brief overview of the key points for each service, highlighting their strengths and ideal use cases.
