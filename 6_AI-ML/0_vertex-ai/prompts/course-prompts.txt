@@ -39,4 +39,5 @@ Notebooks
 
 Model Development
 - Explain what is vector search and why it is important in machine learning model development
+- Explain what a Featurestore is in GCP Vertex AI and list 3 top use cases for using it in machine learning scenarios related to bioinformatics research. Do not include information about the legacy Featurestore. Provide a step-by-step example of how to use it at least one of the generated use cases. Contrast using a featurestore with a database or bucket to store feature data.
 
