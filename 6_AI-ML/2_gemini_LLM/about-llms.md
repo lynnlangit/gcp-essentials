@@ -15,7 +15,7 @@
 
 Conceptual diagram shown below.
 
-<img src="xxx" width=800>
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/llm-apps.png" width=800>
 
  - Open AI DevDays Talk "A Survey of Techniques for Maximizing LLM Performance" - [link](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
  - Visual Guide to LLMs --> https://towardsdatascience.com/visual-guides-to-understand-the-basics-of-large-language-models-0715701bdd20
