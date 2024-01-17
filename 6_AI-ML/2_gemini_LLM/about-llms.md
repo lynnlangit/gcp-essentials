@@ -11,6 +11,11 @@
   - Tune LLMs --> https://cloud.google.com/vertex-ai/docs/generative-ai/models/tune-models
   - GCP Applied AI Engineering Best Practices & Samples --> https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples/tree/main
 
-## Elsewhere
+## Elsewhere & Building LLM Apps
+
+Conceptual diagram shown below.
+
+<img src="xxx" width=800>
+
  - Open AI DevDays Talk "A Survey of Techniques for Maximizing LLM Performance" - [link](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
  - Visual Guide to LLMs --> https://towardsdatascience.com/visual-guides-to-understand-the-basics-of-large-language-models-0715701bdd20
