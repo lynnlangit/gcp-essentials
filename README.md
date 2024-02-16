@@ -8,6 +8,7 @@ This repository contains sample code, links and scripts for working with Google 
 
 - 📚 **"GCP Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609) to course. This course is also named **"Google Cloud Platform Essential Training for Administrators"**
 - 📚 **"GCP Enterprise Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980) to course
+- 📚 **"Google Gemini LLM"** - [link](https://www.linkedin.com/learning/introduction-to-google-gemini) to course
 - 📚 **"GCP Machine Learning Essentials"** - [link](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training) to course and [repo area](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML))
 - 📚 **'GCP Tools'** - [link](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) to course & associated updates into this repo --> example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools)
 - 📚 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
