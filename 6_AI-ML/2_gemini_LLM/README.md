@@ -51,3 +51,4 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - Article "GenAI Apps w/VertexAI Models and Langchain" --> https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain
 - Article "Generate Text Embeddings with BigQuery" --> https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings
 - Example code: `ChromaDB w/ Gemini` --> https://github.com/chroma-core/chroma/tree/main/examples/gemini
+- Article "Exploring the API of Gemini" --> https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/
