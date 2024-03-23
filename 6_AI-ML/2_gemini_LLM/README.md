@@ -33,6 +33,7 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - Vertex AI GenAI example notebooks explained and linked --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
 - Example notebooks on GitHub --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
 - Jumpstart Document Summary Application --> https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization
+- Gemini Cookbook (notebook examples) --> https://github.com/google-gemini/gemini-api-cookbook
 
 ### Tools / IDEs / Envs
 
