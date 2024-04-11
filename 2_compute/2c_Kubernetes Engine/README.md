@@ -24,4 +24,8 @@
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/anthos-arch.png" width=800>
 
+### Micro-services Demo
+
+- Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - 11 microservices, includes use of LLM Google Gemini
+
 
