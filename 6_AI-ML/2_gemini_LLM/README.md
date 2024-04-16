@@ -13,11 +13,9 @@ Google Gemini is a [large language model](https://github.com/lynnlangit/gcp-esse
 Google Gemini is available in three versions: Nano, Pro or Ultra. Nano is the smallest version of Gemini, and is designed for use on mobile devices. Pro is the most powerful version of Gemini, and is designed for use on desktop computers. Ultra is the most powerful version of Gemini, and is designed for use on servers.    Gemini has two editions 1.0 and 1.5.  
 - [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) is currently in public preview - among other key features is its ability to accept **~1 MILLION input tokens**.
 - [Gemini model lifecycle information](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versioning#stable-versions-available) is summarized in this page
-- [Google Gemma](https://cloud.google.com/blog/products/ai-machine-learning/gemma-model-available-in-vertex-ai-and-via-gke/) is a family of lightweight, state-of-the art *open* models built from the same research and technology that we used to create the Gemini models. 
-
-### Types of Google Gemini LLMs
-
-Pro and Ultra are available in two types: Pro or Pro Vision or Ultra or Ultra Vision.  The 'Vision' versions are multimodal, allowing for text, image or video input.  Currently all models output text only.
+- [Google Gemma](https://cloud.google.com/blog/products/ai-machine-learning/gemma-model-available-in-vertex-ai-and-via-gke/) is a family of lightweight, state-of-the art *open* models built from the same research and technology that we used to create the Gemini models.
+  
+NOTE: Gemini Pro and Gemini Ultra are each available in two types: Pro or Pro Vision or Ultra or Ultra Vision.  The 'Vision' versions are **multimodal**, allowing for text, image or video input. 
 
 ----
 
