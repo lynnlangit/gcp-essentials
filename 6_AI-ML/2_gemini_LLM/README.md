@@ -8,11 +8,12 @@ Vertex AI includes a model garden with a large number of models which can be use
 
 Google Gemini is a [large language model](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/about-llms.md) that can be used for a variety of tasks, including text generation, text classification, text summarization, text translation, text-to-speech, speech-to-text, image captioning, image classification, image generation, image-to-text, video captioning, video classification, video generation, video-to-text, and multimodal tasks.  
 
-### Versions of Google Gemini
+### About Google Gemini Models
 
 Google Gemini is available in three versions: Nano, Pro or Ultra. Nano is the smallest version of Gemini, and is designed for use on mobile devices. Pro is the most powerful version of Gemini, and is designed for use on desktop computers. Ultra is the most powerful version of Gemini, and is designed for use on servers.    Gemini has two editions 1.0 and 1.5.  
-- [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) is currently in public preview - among other key features is its ability to accept ~1 MILLION Input tokens.  
-- [Google Gemma](https://cloud.google.com/blog/products/ai-machine-learning/gemma-model-available-in-vertex-ai-and-via-gke/) is a family of lightweight, state-of-the art open models built from the same research and technology that we used to create the Gemini models. 
+- [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) is currently in public preview - among other key features is its ability to accept **~1 MILLION input tokens**.
+- [Gemini model lifecycle information](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versioning#stable-versions-available) is summarized in this page
+- [Google Gemma](https://cloud.google.com/blog/products/ai-machine-learning/gemma-model-available-in-vertex-ai-and-via-gke/) is a family of lightweight, state-of-the art *open* models built from the same research and technology that we used to create the Gemini models. 
 
 ### Types of Google Gemini LLMs
 
