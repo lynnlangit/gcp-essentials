@@ -54,6 +54,6 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - Article "Exploring the API of Gemini" --> https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/
 
   
-### Micro-services Demo
+### Microservices Demo (Retail Store Use Case)
 
 - Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - end-to-end application with 11 microservices, includes use of LLM Google Gemini
