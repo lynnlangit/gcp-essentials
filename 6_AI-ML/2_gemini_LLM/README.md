@@ -1,4 +1,4 @@
-# Google Gemini LLM and more
+# GenAI - Google Gemini and other models
 
 Vertex AI includes a model garden with a large number of models which are categorized as foundational, fine-tunable or task specific.  These include models built by Google as well as many other industry and open source models. Shown below is screenshot of some of the the currently available models and associated services in the VertexAI Model Garden.
 
