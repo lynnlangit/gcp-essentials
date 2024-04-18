@@ -21,19 +21,8 @@ NOTE: Gemini Pro and Gemini Ultra are each available in two types: Pro or Pro Vi
 
 ## Example Notebooks and Guidance
 
-Google has published a number of resources to get you started working with Gemini.  I've linked highlights below.  
-
-### Example Jupyter Notebook for Google Gemini LLM
-
-The following Jupyter Notebook is an example of how to use Google Gemini LLM for text generation.  It uses the Pro version of Gemini, and shows how to call the API using Python.  It also shows how to use the API to generate text from a prompt.  The notebook can be run in Google Colab, or on a local machine with Python 3 installed.  The notebook can be found here: [Google Gemini LLM Example Notebook](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb)
+Google has created tools and also published a number of resources to get you started working with Gemini.  I've linked highlights below.  
   
-### Example Jupyter Notebooks from Google
-
-- :books: Vertex AI GenAI example notebooks explained and linked --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
-- :octocat: Example notebooks on GitHub --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
-- 📓 Jumpstart Document Summary Application --> https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization
-- :octocat: Gemini Cookbook (notebook examples) --> https://github.com/google-gemini/gemini-api-cookbook
-
 ### Tools / IDEs / Envs
 
 - Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
@@ -44,6 +33,17 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 - Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
 - Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
+
+### Starter Example Jupyter Notebook for Google Gemini LLM
+
+The following Jupyter Notebook is an example of how to use Google Gemini LLM for text generation.  It uses the Pro version of Gemini, and shows how to call the API using Python.  It also shows how to use the API to generate text from a prompt.  The notebook can be run in Google Colab, or on a local machine with Python 3 installed.  The notebook can be found here: [Google Gemini LLM Example Notebook](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb)
+
+### More Example Jupyter Notebooks from Google
+
+- :books: Vertex AI GenAI example notebooks explained and linked --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
+- :octocat: Example notebooks on GitHub --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
+- 📓 Jumpstart Document Summary Application --> https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization
+- :octocat: Gemini Cookbook (notebook examples) --> https://github.com/google-gemini/gemini-api-cookbook
 
 ### Learn More
 
