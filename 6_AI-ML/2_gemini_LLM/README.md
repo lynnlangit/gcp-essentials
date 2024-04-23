@@ -40,20 +40,20 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 
 ### More Examples from Google (Notebooks and Application)
 
-- :books: Vertex AI GenAI example notebooks explained and linked --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
-- :octocat: Example notebooks on GitHub --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
-- 📓 Jumpstart Document Summary Application --> https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization
-- :octocat: Gemini Cookbook (notebook examples) --> https://github.com/google-gemini/gemini-api-cookbook
+- :books: Vertex AI GenAI example notebooks explained and linked --> [link](https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials)
+- :octocat: Example notebooks on GitHub --> [link](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini)
+- 📓 Jumpstart Document Summary Application --> [link](https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization)
+- :octocat: Gemini Cookbook (notebook examples) --> [link](https://github.com/google-gemini/gemini-api-cookbook)
 - Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - end-to-end application with 11 microservices, includes use of LLM Google Gemini
 
 ### Learn More
 
-- Google's big list: `Learn More About GenAI` --> https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md
-- Article "GenAI Apps w/VertexAI Models and Langchain" --> https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain
-- Article "Generate Text Embeddings with BigQuery" --> https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings
-- Example code: `ChromaDB w/ Gemini` --> https://github.com/chroma-core/chroma/tree/main/examples/gemini
-- Article "Exploring the API of Gemini" --> https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/
-- Big link list "Awesome Gemini for Google Cloud" --> https://github.com/rominirani/awesome-gemini-for-google-cloud
+- Google's big list: `Learn More About GenAI` --> [link](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md)
+- Article "GenAI Apps w/VertexAI Models and Langchain" --> [link](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
+- Article "Generate Text Embeddings with BigQuery" --> [link](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings)
+- Example code: `ChromaDB w/ Gemini` --> [link](https://github.com/chroma-core/chroma/tree/main/examples/gemini)
+- Article "Exploring the API of Gemini" --> [link](https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/)
+- Big link list "Awesome Gemini for Google Cloud" --> [link](https://github.com/rominirani/awesome-gemini-for-google-cloud)
 
 
 
