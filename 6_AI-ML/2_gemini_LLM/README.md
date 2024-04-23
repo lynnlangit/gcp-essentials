@@ -25,7 +25,7 @@ Google has created tools and also published a number of resources to get you sta
   
 ### Tools / IDEs / Envs
 
-- Google AI Studio IDE --> https://makersuite.google.com/app/prompts/new_freeform 
+- Google AI Studio IDE --> https://aistudio.google.com/app/prompts/new_freeform
 - Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
 - Google's setup instuctions for Gemini on GCP --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/setup-env
 
