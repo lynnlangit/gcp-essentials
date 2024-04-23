@@ -38,12 +38,13 @@ Google has created tools and also published a number of resources to get you sta
 
 The following Jupyter Notebook is an example of how to use Google Gemini LLM for text generation.  It uses the Pro version of Gemini, and shows how to call the API using Python.  It also shows how to use the API to generate text from a prompt.  The notebook can be run in Google Colab, or on a local machine with Python 3 installed.  The notebook can be found here: [Google Gemini LLM Example Notebook](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb)
 
-### More Example Jupyter Notebooks from Google
+### More Examples from Google (Notebooks and Application)
 
 - :books: Vertex AI GenAI example notebooks explained and linked --> https://cloud.google.com/vertex-ai/docs/generative-ai/tutorials
 - :octocat: Example notebooks on GitHub --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini
 - 📓 Jumpstart Document Summary Application --> https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization
 - :octocat: Gemini Cookbook (notebook examples) --> https://github.com/google-gemini/gemini-api-cookbook
+- Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - end-to-end application with 11 microservices, includes use of LLM Google Gemini
 
 ### Learn More
 
@@ -52,8 +53,7 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - Article "Generate Text Embeddings with BigQuery" --> https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings
 - Example code: `ChromaDB w/ Gemini` --> https://github.com/chroma-core/chroma/tree/main/examples/gemini
 - Article "Exploring the API of Gemini" --> https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/
+- Big link list "Awesome Gemini for Google Cloud" --> https://github.com/rominirani/awesome-gemini-for-google-cloud
 
-  
-### Microservices Demo (Retail Store Use Case)
 
-- Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - end-to-end application with 11 microservices, includes use of LLM Google Gemini
+
