@@ -32,6 +32,7 @@ Google has created tools and also published a number of resources to get you sta
 ### Prompt Guidance from Google
 
 - Prompt guidance --> https://ai.google.dev/docs/prompt_best_practices
+- System Instructions in prompts --> https://ai.google.dev/docs/system_instructions
 - Multi-modal prompt guidance --> https://ai.google.dev/docs/multimodal_concepts
 
 ### Starter Example Jupyter Notebook for Google Gemini LLM
