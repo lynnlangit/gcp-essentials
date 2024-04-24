@@ -49,11 +49,11 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 ### Learn More
 
 - Google's big list: `Learn More About GenAI` --> [link](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/RESOURCES.md)
-- Article "GenAI Apps w/VertexAI Models and Langchain" --> [link](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
-- Article "Generate Text Embeddings with BigQuery" --> [link](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings)
+- Article: `GenAI Apps w/VertexAI Models and Langchain` --> [link](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain)
+- Article: `Generate Text Embeddings with BigQuery` --> [link](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-text-embeddings)
 - Example code: `ChromaDB w/ Gemini` --> [link](https://github.com/chroma-core/chroma/tree/main/examples/gemini)
-- Article "Exploring the API of Gemini" --> [link](https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/)
-- Big link list "Awesome Gemini for Google Cloud" --> [link](https://github.com/rominirani/awesome-gemini-for-google-cloud)
+- Article: `Exploring the API of Gemini` --> [link](https://thenewstack.io/exploring-the-api-of-googles-gemini-language-model/)
+- Big link list: `Awesome Gemini for Google Cloud` --> [link](https://github.com/rominirani/awesome-gemini-for-google-cloud)
 
 
 
