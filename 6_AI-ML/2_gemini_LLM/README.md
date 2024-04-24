@@ -45,6 +45,7 @@ The following Jupyter Notebook is an example of how to use Google Gemini LLM for
 - :octocat: Example notebooks on GitHub --> [link](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini)
 - 📓 Jumpstart Document Summary Application --> [link](https://cloud.google.com/architecture/ai-ml/generative-ai-document-summarization)
 - :octocat: Gemini Cookbook (notebook examples) --> [link](https://github.com/google-gemini/gemini-api-cookbook)
+- 📓 📓 📓 MANY Model evaluation notebooks --> [link](https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-examples)
 - Source code for [GKE demo on Github](https://github.com/GoogleCloudPlatform/microservices-demo) - end-to-end application with 11 microservices, includes use of LLM Google Gemini
 
 ### Learn More
