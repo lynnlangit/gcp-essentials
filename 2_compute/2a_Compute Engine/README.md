@@ -42,4 +42,8 @@ sudo bash add-google-cloud-ops-agent-repo.sh --uninstall
 - GCP VM Best Practices for Migrations - [link](https://cloud.google.com/solutions/best-practices-migrating-vm-to-compute-engine)
 - How Disruptive is GCE Live Migration? - [link](https://blog.doit-intl.com/how-live-is-google-compute-engine-live-migration-f875e96ba923)
 
+#### Deploy Specialty Workloads on GCE
+
+- Tutorial: "Run TensorFlow ML inference on GCE w/T4 GPU" - [link](https://cloud.google.com/compute/docs/tutorials/ml-inference-t4)
+
 
