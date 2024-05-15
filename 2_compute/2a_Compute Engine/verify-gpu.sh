@@ -1,14 +1,16 @@
-# check for a gpu
+# This script verifies the GPU setup in the system
+
+# Check if an NVIDIA GPU is present in the system
 sudo lspci | grep -i "nvidia"
 
-# check kernel version
+# Display the current kernel version of the system
 uname -r
 
-# check the driver kernel version
+# Check the version of the NVIDIA driver kernel module installed
 sudo apt-cache show linux-modules-nvidia- NVIDIA_DRIVER_VERSION -gcp
 
-# check gpu availability
+# Display the status and usage of NVIDIA GPU(s)
 nvidia-smi 
 
-# docs - install GPU drivers on GCE
-https://cloud.google.com/compute/docs/gpus/install-drivers-gpu
+# Provide additional resources for installing or troubleshooting GPU drivers on GCE
+# Documentation link: https://cloud.google.com/compute/docs/gpus/install-drivers-gpu
