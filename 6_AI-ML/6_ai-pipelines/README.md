@@ -6,4 +6,6 @@ AI Pipelines are now called Vertex AI Pipelines.  From Google's documentation: *
 - Worked Example (from @dchaley) "Hello mnist" - [link](https://github.com/dchaley/hello-mnist)
 - TIP:  Start with pre-built templates from the 'Template Gallery' - [link](https://cloud.google.com/vertex-ai/docs/pipelines/use-template-gallery) - example shown below "LLM Text Generation Evaluation"
 
+<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/vertex-ai-piplines.png" width=1000>
+
   
