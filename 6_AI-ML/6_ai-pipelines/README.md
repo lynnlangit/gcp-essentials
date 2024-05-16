@@ -1,8 +1,9 @@
-# AI Pipelines on GCP
+# Vertex AI Pipelines on GCP
 
-- Article - "Using Remote and Event-triggered AI Platform Pipelines - [link](https://cloud.google.com/blog/products/ai-machine-learning/using-remote-and-event-triggered-ai-platform-pipelines)
-- Docs - "AI Pipelines" - [link](https://cloud.google.com/ai-platform/pipelines/docs/introduction)
+AI Pipelines are now called Vertex AI Pipelines.  From Google's documentation: *"Vertex AI Pipelines lets you automate, monitor, and govern your machine learning (ML) systems in a serverless manner by using ML pipelines to orchestrate your ML workflows. You can batch run ML pipelines defined using the Kubeflow Pipelines (Kubeflow Pipelines) or the TensorFlow Extended (TFX) framework."*
+
+- Docs - "Verex AI Pipelines" - [link](https://cloud.google.com/vertex-ai/docs/pipelines/introduction)
 - Worked Example (from @dchaley) "Hello mnist" - [link](https://github.com/dchaley/hello-mnist)
-- Steps - example AI pipeline steps shown below  
+- TIP:  Start with pre-built templates from the 'Template Gallery' - [link](https://cloud.google.com/vertex-ai/docs/pipelines/use-template-gallery) - example shown below "LLM Text Generation Evaluation"
 
-![AI pipelines](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/6_ai-pipelines/ai-pipelines.png)
+  
