@@ -1,5 +1,9 @@
 # GenAI - Google Gemini and other models
 
+The Google Cloud Vertex AI conceptual model for Generative AI workflow is shown below (image from Google documentation at [link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview).)
+
+<img src="https://cloud.google.com/static/vertex-ai/generative-ai/docs/images/generative-ai-workflow.png" width=900>
+
 Vertex AI includes a model garden with a large number of models which are categorized as foundational, fine-tunable or task specific.  These include models built by Google as well as many other industry and open source models. Shown below is screenshot of some of the the currently available models and associated services in the VertexAI Model Garden.
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/model-garden.png" width=900>
