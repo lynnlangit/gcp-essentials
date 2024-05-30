@@ -25,5 +25,6 @@ Conceptual diagram shown below.
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/llm-apps.png" width=800>
 
  - 📺 Open AI DevDays Talk "A Survey of Techniques for Maximizing LLM Performance" - [link](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
+ - 📖 Article "what-we-learned-from-a-year-of-building-with-llms" - [link](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
  - 📘 Visual Guide to LLMs --> https://towardsdatascience.com/visual-guides-to-understand-the-basics-of-large-language-models-0715701bdd20
  - :octocat: Course on using open source libraries and tools to build LLM Apps --> https://github.com/mlabonne/llm-course
