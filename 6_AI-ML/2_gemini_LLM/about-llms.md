@@ -1,4 +1,4 @@
-# About LLMs
+# About LLM Development
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/images/llm-hierarchy.png" width=800>
 
