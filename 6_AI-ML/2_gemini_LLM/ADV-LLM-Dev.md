@@ -1,6 +1,6 @@
 # Adv GCP LLM Dev Links
 
-Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning  
+Companion to my *'Adv Gemini (GCP LLM) App Dev'* course on LinkedIn Learning  
 
 ## VertexAI GenAI Agent App Builder
 
