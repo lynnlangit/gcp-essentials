@@ -4,12 +4,16 @@ Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning
 
 ## VertexAI GenAI Agent App Builder
 
+Use the GCP VertexAI Agent Builder.  
+
 - GenAI App Builder Intro - [link](https://cloud.google.com/generative-ai-app-builder/docs/introduction)
 - GenAI App Builder Checklist - [link](https://cloud.google.com/generative-ai-app-builder/docs/generic-search-checklist)
 - GenAI App Builder w/BigQuery - [link](https://cloud.google.com/generative-ai-app-builder/docs/create-data-store-es#bigquery)
 - GenAI App Builder w/FIHR - [link](https://cloud.google.com/generative-ai-app-builder/docs/healthcare-search-checklist)
 
 ## Promting Guidelines
+
+Use GCP Best Practice LLM Prompting Guidelines.  
 
 - General Prompting Guidelines - [link](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 - Image Prompting Guidelines - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/image/img-gen-prompt-guide)
