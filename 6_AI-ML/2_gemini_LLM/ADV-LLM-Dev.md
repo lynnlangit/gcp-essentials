@@ -17,6 +17,8 @@ Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning
 
 ## Open LLM Models
 
+Use the GCP VertexAI Model Garden and other tools to use open source LLMs in GCP.  
+
 - General Info: Open Models - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/open-models/use-open-models)
 - Open Models - Hugging Face - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/open-models/use-hugging-face-models)
 - Open Models - Llama - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/open-models/use-llama)
