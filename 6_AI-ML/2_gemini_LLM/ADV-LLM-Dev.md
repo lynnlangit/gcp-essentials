@@ -4,7 +4,7 @@ Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning
 
 ## VertexAI GenAI Agent App Builder
 
-Use the GCP VertexAI Agent Builder.  
+Use the GCP VertexAI Agent Builder to create enterprise-grade generative AI applications. 
 
 - GenAI App Builder Intro - [link](https://cloud.google.com/generative-ai-app-builder/docs/introduction)
 - GenAI App Builder Checklist - [link](https://cloud.google.com/generative-ai-app-builder/docs/generic-search-checklist)
