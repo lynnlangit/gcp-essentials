@@ -22,7 +22,9 @@ Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning
 - Open Models - Llama - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/open-models/use-llama)
 - Open Models - Model Garden - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
 
-## GenAI Jumpstarts
+## GenAI Jumpstart Solutions
+
+End-to-end GCP GenAI reference architectures - deployable on GCP via Terraform scripted infrastructure deployments.  
 
 - Jumpstart - GenAI BASIC RAG - [link](https://cloud.google.com/architecture/ai-ml/generative-ai-rag)
 - Jumpstart - GenAI KB - [link](https://cloud.google.com/architecture/ai-ml/generative-ai-knowledge-base)
