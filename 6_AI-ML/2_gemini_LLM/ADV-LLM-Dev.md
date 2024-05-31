@@ -2,7 +2,7 @@
 
 Companion to my 'Adv Gemini (GCP LLM) App Dev' course on LinkedIn Learning  
 
-## VertexAI GenAI App Builder
+## VertexAI GenAI Agent App Builder
 
 - GenAI App Builder Intro - [link](https://cloud.google.com/generative-ai-app-builder/docs/introduction)
 - GenAI App Builder Checklist - [link](https://cloud.google.com/generative-ai-app-builder/docs/generic-search-checklist)
