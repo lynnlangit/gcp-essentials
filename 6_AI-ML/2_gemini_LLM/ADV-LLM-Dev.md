@@ -36,3 +36,9 @@ End-to-end GCP GenAI reference architectures - deployable on GCP via Terraform s
 - Jumpstart - GenAI KB - [link](https://cloud.google.com/architecture/ai-ml/generative-ai-knowledge-base)
 - Jumpstart - GenAI RAG & GKE - [link](https://cloud.google.com/architecture/rag-capable-gen-ai-app-using-gke)
 - Jumpstart - GenAI COMPLEX RAG - [link](https://cloud.google.com/architecture/rag-capable-gen-ai-app-using-vertex-ai)
+
+## Learn More
+
+Articles and information about building end-to-end LLM-based applications
+
+- Article - "What We Learned from a Year of Building with LLMs" - [link](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
