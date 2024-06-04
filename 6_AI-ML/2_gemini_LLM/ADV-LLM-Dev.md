@@ -11,6 +11,7 @@ Use the GCP VertexAI Agent Builder to create enterprise-grade generative AI appl
 - GenAI App Builder Checklist - [link](https://cloud.google.com/generative-ai-app-builder/docs/generic-search-checklist)
 - GenAI App Builder w/BigQuery - [link](https://cloud.google.com/generative-ai-app-builder/docs/create-data-store-es#bigquery)
 - GenAI App Builder w/FIHR - [link](https://cloud.google.com/generative-ai-app-builder/docs/healthcare-search-checklist)
+- VertexAI AgentBuilder console - [link](https://vertexaiconversation.cloud.google.com/)
 
 ## Promting Guidelines
 
