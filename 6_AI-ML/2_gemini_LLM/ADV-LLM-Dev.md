@@ -13,7 +13,7 @@ Use the GCP VertexAI Agent Builder to create enterprise-grade generative AI appl
 - GenAI App Builder w/FIHR - [link](https://cloud.google.com/generative-ai-app-builder/docs/healthcare-search-checklist)
 - VertexAI AgentBuilder console - [link](https://vertexaiconversation.cloud.google.com/)
 
-## Promting Guidelines
+## Prompting Guidelines
 
 Use GCP Best Practice LLM Prompting Guidelines.  
 
