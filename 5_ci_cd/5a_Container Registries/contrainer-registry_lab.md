@@ -1,6 +1,7 @@
-### GCR Commands
+### Google Container Registry Commands
 
-see this -- https://cloud.google.com/container-registry/docs/quickstart
+see this -- https://cloud.google.com/container-registry/docs/quickstart  
+NOTE: GCR is deprecated, use Artifact Registry
 
 Prereqs:
 --enable the GCR API
