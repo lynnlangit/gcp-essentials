@@ -39,7 +39,7 @@
 
 ## Data Lifecycle on GCP
 
-From this article - [link](https://cloud.google.com/solutions/data-lifecycle-cloud-platform)
+Diagram from Google's documentation, shows a number of available GCP services which can serve at various phases of a data processing lifecycle on GCP.  
 
 ![GCP Data Lifecycle](https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/data-lifecycle.png)
 
