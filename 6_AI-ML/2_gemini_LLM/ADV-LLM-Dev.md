@@ -44,3 +44,4 @@ End-to-end GCP GenAI reference architectures - deployable on GCP via Terraform s
 Articles and information about building end-to-end LLM-based applications
 
 - Article - "What We Learned from a Year of Building with LLMs" - [link](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
+- Google Article - "Run AutoSxS to perform pairwise model-based evaluation" - [link](https://cloud.google.com/vertex-ai/generative-ai/docs/models/side-by-side-eval) and screenshot below  
