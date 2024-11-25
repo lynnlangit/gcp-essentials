@@ -8,7 +8,7 @@ NOTE: To set up Gemini in your GCP Project for Big Query, see these detailed ste
 
 ## Gemini for Big Query
 
-Summary from Google's docs and below --> https://cloud.google.com/gemini/docs/bigquery/overview
+Summary from Google's docs and below --> [link](https://cloud.google.com/gemini/docs/bigquery/overview)
 
 1. Explore and understand your data with **data insights**. Generally available (GA) Data insights offers an automated, intuitive way to uncover patterns and perform statistical analysis by using insightful queries that are generated from the metadata of your tables. This feature is especially helpful in addressing the cold-start challenges of early data exploration. 
 
