@@ -4,7 +4,7 @@ Google's Gemini LLM is available for use in BigQuery. Shown below is the Data Ca
 
 <kbd><img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/bq-canvas.png"></kbd>
 
-NOTE: To set up Gemini in your GCP Project for Big Query, see these detailed steps --> https://cloud.google.com/gemini/docs/bigquery/set-up-gemini
+NOTE: To set up Gemini in your GCP Project for Big Query, see these detailed steps --> [link](https://cloud.google.com/gemini/docs/bigquery/set-up-gemini)
 
 ## Gemini for Big Query
 
