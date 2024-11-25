@@ -32,4 +32,6 @@ Summary from Google's docs and below --> https://cloud.google.com/gemini/docs/bi
 
 ## Demo Data Canvas
 
-Shown here
+Example (demo) from Google of the BQ (Gemni-integrated) Data Canvas is shown below.
+
+<kbd><img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/bq-canvas-demo.png"></kbd>
