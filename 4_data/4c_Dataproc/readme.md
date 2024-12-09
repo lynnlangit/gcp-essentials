@@ -9,6 +9,10 @@ For more examples see my GitHub Repo (and companion to course 'Learning Hadoop')
 
 ## Dataproc Serverless
 
+- ***NEW: 'Auto-tune Dataproc Spark jobs with Google Gemini'*** - [link](https://cloud.google.com/dataproc-serverless/docs/concepts/autotuning) and [link](https://cloud.google.com/gemini/docs/bigquery/overview#spark)
+- From Google's docs: *"Autotune and troubleshoot Spark jobs
+Autotuning can help you optimize your Spark workloads for performance and resilience. Instead of manually configuring settings, Gemini in BigQuery can apply best practices for recurring workloads and then help you understand and monitor your autotuning. Advanced troubleshooting provides natural language answers to "What was autotuned?", "What is happening now?", and "What can I do about it?"*
+
 Using Dataproc Serverless, you can run Spark workloads as **BATCHES**...
 - without a provisioned cluster (i.e. per batch job)
 - using Pyspark, Spark SQL, Spark R or Spark Java
