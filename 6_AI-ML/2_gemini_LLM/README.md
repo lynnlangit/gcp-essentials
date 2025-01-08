@@ -32,6 +32,7 @@ Google has created tools and also published a number of resources to get you sta
 - Google AI Studio IDE --> https://aistudio.google.com/
 - Google AI Studio quickstart --> https://ai.google.dev/tutorials/ai-studio_quickstart
 - Google's setup instuctions for Gemini on GCP --> https://github.com/GoogleCloudPlatform/generative-ai/tree/main/setup-env
+- Google's Guidance "Build w/Gemini on Google Cloud" --> https://ai.google.dev/gemini-api/docs/migrate-to-cloud
 
 ### Prompt Guidance from Google
 
