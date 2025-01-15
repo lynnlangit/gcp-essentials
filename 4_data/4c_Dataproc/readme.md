@@ -27,10 +27,6 @@ Or as **SESSIONS** via VertexAI Notebooks...
 
 <img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/serverless-spark.png" width=800>
 
-Limitations...
-- no GPUs
-- batch only (not interactive)
-
 ### More Info
 - Documentation: More info here --> https://cloud.google.com/dataproc-serverless/docs/overview
 - Many Samples: Serverless Spark Workshop excercises --> https://github.com/GoogleCloudPlatform/serverless-spark-workshop
