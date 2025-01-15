@@ -25,7 +25,7 @@ Or as **SESSIONS** via VertexAI Notebooks...
 - setup in a VertexAI notebook (form launches when you click on 'serverless Spark' button)
 - use Jupyter lab launcher - example [here](https://cloud.google.com/dataproc-serverless/docs/quickstarts/jupyterlab-sessions) and image below
 
-<img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/serverless-spark.png" width=800>
+<kbd><img src="https://github.com/lynnlangit/gcp-essentials/blob/master/7_sample_data/images/serverless-spark.png" width=800></kbd>
 
 ### More Info
 - Documentation: More info here --> https://cloud.google.com/dataproc-serverless/docs/overview
