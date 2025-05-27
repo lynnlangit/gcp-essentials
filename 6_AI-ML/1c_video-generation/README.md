@@ -6,5 +6,5 @@
   
 ## Links
 
-- [Google VEO: Video Generation from Text](https://google.github.io/veo/)
+- Google VEO: Video Generation from Text:[prompt guide](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide)
 - See also -- the paper [Google VEO: Video Generation from Text](https://arxiv.org/abs/2401.00549).
