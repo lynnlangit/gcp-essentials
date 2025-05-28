@@ -11,4 +11,5 @@
 ## Links
 
 - Google VEO: Video Generation from Text: [prompt guide](https://cloud.google.com/vertex-ai/generative-ai/docs/video/video-gen-prompt-guide)
+- WSJ Film - [example](https://www.youtube.com/watch?v=US2gO7UYEfY)
 
