@@ -1,4 +1,4 @@
-# Google VEO Video Generation
+# Google VEO 3 Video Generation
 
 ## Examples
 
