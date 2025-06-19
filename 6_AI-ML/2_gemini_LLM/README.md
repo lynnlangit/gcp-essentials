@@ -15,9 +15,8 @@ Google Gemini is a [large language model](https://github.com/lynnlangit/gcp-esse
 ### About Google Gemini Models
 
 Google Gemini is available in multiple (multi-modal input) versions. Flash is the smallest version of Gemini, and is designed for use on mobile devices. Pro is the most powerful version of Gemini, and is designed for use on desktop computers. Ultra is the most powerful version of Gemini, and is designed for use on servers.    Gemini has multiple editions and versions.  
-- [Gemini 2.5 Pro](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) announced March 2025 - most advanced model.
-- [Gemini 2.0](https://blog.google/products/gemini/google-gemini-ai-collection-2024/) is GA - advanced model, several versions (i.e. Flash, etc...) available.
-- [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/) is GA (general availability) - among other key features is its ability to accept up to **~2 MILLION input tokens**.
+- [Gemini 2.5 Pro](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) announced March 2025 - most advanced model, several versions available.
+- [Gemini 2.0](https://blog.google/products/gemini/google-gemini-ai-collection-2024/) several versions (i.e. Flash, etc...) available.
 - [Gemini model lifecycle information](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versioning#stable-versions-available) is summarized in this page
 - [Google Gemma](https://cloud.google.com/blog/products/ai-machine-learning/gemma-model-available-in-vertex-ai-and-via-gke/) is a family of lightweight, state-of-the art *open* models built from the same research and technology that we used to create the Gemini models.
 
